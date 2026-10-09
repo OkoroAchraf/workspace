@@ -1,0 +1,335 @@
+/*
+ * Copyright 2009-2026 C3 AI (www.c3.ai). All Rights Reserved.
+ * Confidential and Proprietary C3 Materials.
+ * This material, including without limitation any software, is the confidential trade secret and proprietary
+ * information of C3 and its licensors. Reproduction, use and/or distribution of this material in any form is
+ * strictly prohibited except as set forth in a written license agreement with C3 and/or its authorized distributors.
+ * This material may be covered by one or more patents or pending patent applications.
+ */
+
+/*
+ * C3 Design System global stylesheet.
+ *
+ * This is the design-system entrypoint that the vendored `@/components/ui/*`
+ * primitives and page layouts depend on. It is kept in lockstep with the
+ * c3-frontend skill's `references/examples/styles/index.css` — if you re-vendor
+ * components from the skill, keep the import order and the @theme inline / @layer
+ * base blocks below aligned with that file so `--c3-style-*` tokens and the
+ * `text-c3-*` typography utilities resolve.
+ *
+ * - tokens.css        Figma-generated design tokens (three-layer cascade;
+ *                     components reference the Layer-3 `--c3-style-basic-*` set).
+ * - manual-tokens.css One-off tokens not yet in the Figma pipeline.
+ *
+ * Do not reintroduce the old `src/c3ui/*` / `src/tailwind/*` token files — they
+ * defined a divergent `--c3-style-*` vocabulary and custom utilities
+ * (text-primary, bg-primary, border-weak, c3-card) that the new components do
+ * not use.
+ */
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+@import '@fontsource-variable/inter';
+@import './styles/tokens.css';
+@import './styles/manual-tokens.css';
+
+/*
+  Dark mode is driven by a `.dark` class on <html> (see src/hooks/useTheme.ts),
+  not the OS media query. https://tailwindcss.com/docs/dark-mode#using-a-selector
+*/
+@custom-variant dark (&:where(.dark, .dark *));
+
+@theme inline {
+  /* font-family: c3 tokens, not shadcn defaults. */
+  --font-sans: var(--c3-style-font-family-font-family), system-ui, sans-serif;
+  --font-heading: var(--c3-style-font-family-font-family), system-ui, sans-serif;
+
+  /* shadcn color slots mapped onto the c3 token vars emitted by tokens.css. */
+  --color-ring: var(--ring);
+  --color-input: var(--input);
+  --color-border: var(--border);
+  --color-destructive: var(--destructive);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-accent: var(--accent);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-muted: var(--muted);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-secondary: var(--secondary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-primary: var(--primary);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-popover: var(--popover);
+  --color-card-foreground: var(--card-foreground);
+  --color-card: var(--card);
+  --color-foreground: var(--foreground);
+  --color-background: var(--background);
+
+  /* radius: c3 tokens, not shadcn's calc(--radius * N). */
+  --radius-xs: var(--c3-style-border-radius-2); /* 2px */
+  --radius-sm: var(--c3-style-border-radius-4); /* 4px */
+  --radius-md: var(--c3-style-border-radius-6); /* 6px */
+  --radius-lg: var(--c3-style-border-radius-8); /* 8px */
+  --radius-xl: var(--c3-style-border-radius-12); /* 12px */
+  --radius-full: var(--c3-style-border-radius-rounded); /* 9999px */
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  /* Constant 1.5px icon stroke at every size. Lucide icons live on a 24-unit
+     grid, so stroke-width would otherwise scale down with the icon. stroke-width
+     is inherited onto the drawn shapes; non-scaling-stroke (not inherited, so set
+     on the shapes) pins the result to a true 1.5 CSS px regardless of size. */
+  svg {
+    stroke-width: 1.5;
+  }
+  svg * {
+    vector-effect: non-scaling-stroke;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+  html {
+    @apply font-sans;
+  }
+}
+
+/*
+ * Page-level enter motion (soft lift + fade + micro-scale, no layout jank).
+ * Use on route or data-loaded content; pair with prefers-reduced-motion.
+ */
+@keyframes c3-page-content-enter {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 16px, 0) scale(0.99);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+@keyframes c3-page-skeleton-enter {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 10px, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+}
+
+/* Ease-out with slight overshoot feel (cubic-bezier ≈ expo-out) */
+.c3-page-content-enter {
+  animation: c3-page-content-enter 0.7s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+.c3-page-skeleton-enter {
+  animation: c3-page-skeleton-enter 0.45s cubic-bezier(0.16, 1, 0.3, 1) both;
+}
+
+/* Staggered cards: fly in one-by-one (optional delay via --c3-card-fly-in-delay) */
+@keyframes c3-card-fly-in {
+  from {
+    opacity: 0;
+    transform: translate3d(0, 20px, 0) scale(0.98);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+}
+
+.c3-card-fly-in-enter {
+  animation: c3-card-fly-in 0.5s cubic-bezier(0.16, 1, 0.3, 1) both;
+  animation-delay: var(--c3-card-fly-in-delay, 0ms);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .c3-page-content-enter,
+  .c3-page-skeleton-enter {
+    animation: none;
+  }
+
+  .c3-card-fly-in-enter {
+    animation: none;
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/*
+ * ------------------------------------------------------------------------------------------
+ * IlliniFix command-center identity.
+ *
+ * Status colours follow the product spec (red = Critical, orange = Warning, yellow = Monitor,
+ * green = Healthy) and are deliberately fixed across themes so a risk colour never changes
+ * meaning. Chart series colours are the dataviz reference palette validated for CVD safety on
+ * the dark card surface (#132240). Design-system tokens are re-pointed in `.dark` to the navy /
+ * charcoal + Illini-orange scheme; components keep working because they only read tokens.
+ * ------------------------------------------------------------------------------------------
+ */
+:root {
+  --ifx-accent: #ff6a1f;
+  --ifx-accent-strong: #e8541e;
+  --ifx-accent-soft: rgba(255, 106, 31, 0.14);
+  --ifx-critical: #e5484d;
+  --ifx-critical-soft: rgba(229, 72, 77, 0.16);
+  --ifx-warning: #f0883e;
+  --ifx-warning-soft: rgba(240, 136, 62, 0.16);
+  --ifx-monitor: #e3b505;
+  --ifx-monitor-soft: rgba(227, 181, 5, 0.16);
+  --ifx-healthy: #2fa84f;
+  --ifx-healthy-soft: rgba(47, 168, 79, 0.16);
+  --ifx-info: #3987e5;
+  --ifx-info-soft: rgba(57, 135, 229, 0.16);
+  --ifx-neutral: #6b7a93;
+  --ifx-neutral-soft: rgba(107, 122, 147, 0.16);
+  --ifx-series-1: #2a78d6;
+  --ifx-series-2: #eb6834;
+  --ifx-series-3: #1baf7a;
+  --ifx-series-4: #eda100;
+  --ifx-series-5: #e87ba4;
+  --ifx-grid: rgba(11, 11, 11, 0.08);
+  --ifx-baseline: rgba(11, 11, 11, 0.3);
+  --ifx-map-bg: #dfe6ee;
+}
+
+.dark {
+  --ifx-monitor: #f5c518;
+  --ifx-healthy: #3fb950;
+  --ifx-neutral: #8a9bb8;
+  --ifx-series-1: #3987e5;
+  --ifx-series-2: #d95926;
+  --ifx-series-3: #199e70;
+  --ifx-series-4: #c98500;
+  --ifx-series-5: #d55181;
+  --ifx-grid: rgba(255, 255, 255, 0.07);
+  --ifx-baseline: rgba(255, 255, 255, 0.28);
+  --ifx-map-bg: #0b1a30;
+
+  /* Navy / charcoal surfaces */
+  --c3-style-basic-bg-page: #091426;
+  --c3-style-basic-bg-primary: #0f1f38;
+  --c3-style-basic-bg-secondary: #16294a;
+  --c3-style-basic-fg-primary: #f3f6fb;
+  --c3-style-basic-fg-secondary: #aab8d0;
+  --c3-style-basic-fg-neutral: #8a9bb8;
+  --c3-style-basic-border-border: #22385c;
+
+  /* Illini orange accent */
+  --c3-style-basic-fg-accent: #ff7a33;
+  --c3-style-basic-bg-accent: rgba(255, 106, 31, 0.16);
+  --c3-style-basic-bg-accent-inverse: #e8541e;
+}
+
+/* Leaflet map surface should read as part of the command center even before tiles load. */
+.ifx-map .leaflet-container {
+  background: var(--ifx-map-bg);
+  font-family: inherit;
+}
+.ifx-map .leaflet-tile-pane {
+  filter: saturate(0.85);
+}
+.ifx-map .leaflet-tooltip {
+  background: var(--c3-style-basic-bg-primary);
+  color: var(--c3-style-basic-fg-primary);
+  border: 1px solid var(--c3-style-basic-border-border);
+  border-radius: 4px;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+.ifx-map .leaflet-tooltip-top:before {
+  border-top-color: var(--c3-style-basic-border-border);
+}
+.ifx-map .leaflet-control-attribution {
+  background: rgba(9, 20, 38, 0.6);
+  color: var(--c3-style-basic-fg-neutral);
+  font-size: 10px;
+}
+.ifx-map .leaflet-control-attribution a {
+  color: var(--c3-style-basic-fg-secondary);
+}
+.ifx-map .leaflet-bar a {
+  background: var(--c3-style-basic-bg-primary);
+  color: var(--c3-style-basic-fg-primary);
+  border-color: var(--c3-style-basic-border-border);
+}
+
+/* Pulsing ring used for critical markers / live indicator */
+@keyframes ifx-pulse {
+  0% {
+    box-shadow: 0 0 0 0 rgba(229, 72, 77, 0.55);
+  }
+  70% {
+    box-shadow: 0 0 0 10px rgba(229, 72, 77, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(229, 72, 77, 0);
+  }
+}
+.ifx-pulse {
+  animation: ifx-pulse 1.8s ease-out infinite;
+}
+@keyframes ifx-pulse-live {
+  0% {
+    box-shadow: 0 0 0 0 rgba(63, 185, 80, 0.6);
+  }
+  70% {
+    box-shadow: 0 0 0 7px rgba(63, 185, 80, 0);
+  }
+  100% {
+    box-shadow: 0 0 0 0 rgba(63, 185, 80, 0);
+  }
+}
+.ifx-pulse-live {
+  animation: ifx-pulse-live 2.2s ease-out infinite;
+}
+@media (prefers-reduced-motion: reduce) {
+  .ifx-pulse,
+  .ifx-pulse-live {
+    animation: none;
+  }
+}
+
+/* Tabular figures for KPI numbers and table columns */
+.ifx-tabular {
+  font-variant-numeric: tabular-nums;
+}
+
+/* Markdown rendered inside the agent drawer */
+.ifx-markdown p {
+  margin: 0 0 0.5rem;
+}
+.ifx-markdown p:last-child {
+  margin-bottom: 0;
+}
+.ifx-markdown ul,
+.ifx-markdown ol {
+  margin: 0.25rem 0 0.5rem 1.1rem;
+  padding: 0;
+}
+.ifx-markdown ul {
+  list-style: disc;
+}
+.ifx-markdown ol {
+  list-style: decimal;
+}
+.ifx-markdown li {
+  margin: 0.15rem 0;
+}
+.ifx-markdown strong {
+  color: var(--c3-style-basic-fg-primary);
+}
+.ifx-markdown hr {
+  border-color: var(--c3-style-basic-border-border);
+  margin: 0.6rem 0;
+}
+.ifx-markdown code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, monospace;
+  font-size: 0.85em;
+}

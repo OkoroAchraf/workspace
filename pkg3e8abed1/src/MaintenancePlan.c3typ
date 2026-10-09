@@ -1,0 +1,51 @@
+/**
+ * The result of one "Optimize today's plan" run: which open work orders the available crews
+ * can complete today and what that does to campus risk. A plan owns its
+ * {@link CrewAssignment}s; the most recent run has isCurrent = true.
+ *
+ * The optimizer is a transparent greedy heuristic (see {@link MaintenancePlan#optimizationMethod}),
+ * not a formal solver — the UI states this explicitly.
+ */
+entity type MaintenancePlan {
+  /** When the plan was generated. */
+  createdAt: !datetime
+
+  /** Shift date the plan covers. */
+  planDate: datetime
+
+  /** Number of crews considered. */
+  crewCount: int
+
+  /** Open work orders that were candidates for scheduling. */
+  workOrderCount: int
+
+  /** Work orders placed on a crew's schedule. */
+  scheduledCount: int
+
+  /** Work orders that did not fit (no skill match or no remaining hours). */
+  unscheduledCount: int
+
+  /** Sum over scheduled jobs of expectedRiskReduction x (priorityScore / 100). */
+  totalRiskReduction: double
+
+  /** Projected number of Critical assets after the scheduled jobs are completed. */
+  projectedCriticalAssets: int
+
+  /** Projected campus health score after the scheduled jobs are completed. */
+  projectedCampusHealth: double
+
+  /** Campus health score when the plan was generated. */
+  currentCampusHealth: double
+
+  /** Algorithm identifier, e.g. "greedy-risk-reduction-per-hour-v1". */
+  optimizationMethod: string
+
+  /** Full plan payload: per-crew schedules, unscheduled jobs with reasons, projected KPIs. */
+  summary: json
+
+  /** True for the latest plan. */
+  isCurrent: boolean
+
+  /** Assignments in this plan ({@link CrewAssignment#plan}). */
+  assignments: [CrewAssignment](plan)
+}

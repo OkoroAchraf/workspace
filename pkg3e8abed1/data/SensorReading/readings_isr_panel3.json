@@ -1,0 +1,4034 @@
+[
+ {
+  "id": "sr_isr_panel3_loadcurrent_000",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 232.6391,
+  "anomalyScore": 0.818,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_001",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 225.9566,
+  "anomalyScore": 1.56,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_002",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 241.6773,
+  "anomalyScore": 0.186,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_003",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 230.2891,
+  "anomalyScore": 1.079,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_004",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 227.9816,
+  "anomalyScore": 1.335,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_005",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 240.5693,
+  "anomalyScore": 0.063,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_006",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 243.6955,
+  "anomalyScore": 0.411,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_007",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 233.3925,
+  "anomalyScore": 0.734,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_008",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 226.0054,
+  "anomalyScore": 1.555,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_009",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 221.4013,
+  "anomalyScore": 2.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_010",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 218.1116,
+  "anomalyScore": 2.432,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_011",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 235.5227,
+  "anomalyScore": 0.497,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_012",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 256.1081,
+  "anomalyScore": 1.79,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_013",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 252.5923,
+  "anomalyScore": 1.399,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_014",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 243.4959,
+  "anomalyScore": 0.388,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_015",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 248.5864,
+  "anomalyScore": 0.954,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_016",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 247.5105,
+  "anomalyScore": 0.834,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_017",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 234.0814,
+  "anomalyScore": 0.658,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_018",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 244.1574,
+  "anomalyScore": 0.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_019",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 243.6209,
+  "anomalyScore": 0.402,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_020",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 248.8878,
+  "anomalyScore": 0.988,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_021",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 245.818,
+  "anomalyScore": 0.646,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_022",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 230.4394,
+  "anomalyScore": 1.062,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_023",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 234.2049,
+  "anomalyScore": 0.644,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_024",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 232.7153,
+  "anomalyScore": 0.809,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_025",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 255.8016,
+  "anomalyScore": 1.756,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_026",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 241.0163,
+  "anomalyScore": 0.113,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_027",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 230.9687,
+  "anomalyScore": 1.003,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_028",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 236.4698,
+  "anomalyScore": 0.392,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_029",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 226.0655,
+  "anomalyScore": 1.548,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_030",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 222.9812,
+  "anomalyScore": 1.891,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_031",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 229.8457,
+  "anomalyScore": 1.128,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_032",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 228.4116,
+  "anomalyScore": 1.288,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_033",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 229.4314,
+  "anomalyScore": 1.174,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_034",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 250.2767,
+  "anomalyScore": 1.142,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_035",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 246.6275,
+  "anomalyScore": 0.736,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_036",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 257.857,
+  "anomalyScore": 1.984,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_037",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 238.9965,
+  "anomalyScore": 0.112,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_038",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 246.6233,
+  "anomalyScore": 0.736,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_039",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 231.8404,
+  "anomalyScore": 0.907,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_040",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 243.5695,
+  "anomalyScore": 0.397,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_041",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 252.8149,
+  "anomalyScore": 1.424,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_042",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 241.7974,
+  "anomalyScore": 0.2,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_043",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 241.1448,
+  "anomalyScore": 0.127,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_044",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 249.0119,
+  "anomalyScore": 1.001,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_045",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 242.1412,
+  "anomalyScore": 0.238,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_046",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 253.0804,
+  "anomalyScore": 1.453,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_047",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 247.7229,
+  "anomalyScore": 0.858,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_048",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 249.3626,
+  "anomalyScore": 1.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_049",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 239.6172,
+  "anomalyScore": 0.043,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_050",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 225.3168,
+  "anomalyScore": 1.631,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_051",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 226.4829,
+  "anomalyScore": 1.502,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_052",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 234.3707,
+  "anomalyScore": 0.625,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_053",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 211.2798,
+  "anomalyScore": 3.191,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_054",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 249.9301,
+  "anomalyScore": 1.103,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_055",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 238.4933,
+  "anomalyScore": 0.167,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_056",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 232.7121,
+  "anomalyScore": 0.81,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_057",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 220.7279,
+  "anomalyScore": 2.141,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_058",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 255.7735,
+  "anomalyScore": 1.753,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_059",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 246.2942,
+  "anomalyScore": 0.699,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_060",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 235.2874,
+  "anomalyScore": 0.524,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_061",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 249.4567,
+  "anomalyScore": 1.051,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_062",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 233.3066,
+  "anomalyScore": 0.744,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_063",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 244.6677,
+  "anomalyScore": 0.519,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_064",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 237.2861,
+  "anomalyScore": 0.302,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_065",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 247.0334,
+  "anomalyScore": 0.781,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_066",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 238.2437,
+  "anomalyScore": 0.195,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_067",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 252.3987,
+  "anomalyScore": 1.378,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_068",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 236.8601,
+  "anomalyScore": 0.349,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_069",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 251.0754,
+  "anomalyScore": 1.231,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_070",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 260.2531,
+  "anomalyScore": 2.25,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_071",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 244.4822,
+  "anomalyScore": 0.498,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_072",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 227.7443,
+  "anomalyScore": 1.362,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_073",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 229.4648,
+  "anomalyScore": 1.171,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_074",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 249.8148,
+  "anomalyScore": 1.091,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_075",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 238.8349,
+  "anomalyScore": 0.129,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_076",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 234.8359,
+  "anomalyScore": 0.574,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_077",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 229.242,
+  "anomalyScore": 1.195,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_078",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 240.6264,
+  "anomalyScore": 0.07,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_079",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 214.8525,
+  "anomalyScore": 2.794,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_080",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 232.6827,
+  "anomalyScore": 0.813,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_081",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 244.2682,
+  "anomalyScore": 0.474,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_082",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 238.3918,
+  "anomalyScore": 0.179,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_083",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 245.8404,
+  "anomalyScore": 0.649,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_084",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 262.9859,
+  "anomalyScore": 2.554,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_085",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 246.1631,
+  "anomalyScore": 0.685,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_086",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 246.2899,
+  "anomalyScore": 0.699,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_087",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 227.0667,
+  "anomalyScore": 1.437,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_088",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 249.3706,
+  "anomalyScore": 1.041,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_089",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 259.1448,
+  "anomalyScore": 2.127,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_090",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 232.7607,
+  "anomalyScore": 0.804,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_091",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 245.2347,
+  "anomalyScore": 0.582,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_092",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 254.0212,
+  "anomalyScore": 1.558,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_093",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 238.2779,
+  "anomalyScore": 0.191,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_094",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 248.7786,
+  "anomalyScore": 0.975,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_095",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 215.2663,
+  "anomalyScore": 2.748,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_096",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 234.7778,
+  "anomalyScore": 0.58,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_097",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 252.4567,
+  "anomalyScore": 1.384,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_098",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 237.4218,
+  "anomalyScore": 0.286,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_099",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 237.6596,
+  "anomalyScore": 0.26,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_100",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 238.6213,
+  "anomalyScore": 0.153,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_101",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 237.0786,
+  "anomalyScore": 0.325,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_102",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 233.3786,
+  "anomalyScore": 0.736,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_103",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 228.2048,
+  "anomalyScore": 1.311,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_104",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 211.1058,
+  "anomalyScore": 3.21,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_105",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 219.7044,
+  "anomalyScore": 2.255,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_106",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 238.368,
+  "anomalyScore": 0.181,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_107",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 237.4056,
+  "anomalyScore": 0.288,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_108",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 231.8048,
+  "anomalyScore": 0.911,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_109",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 246.7063,
+  "anomalyScore": 0.745,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_110",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 248.6498,
+  "anomalyScore": 0.961,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_111",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 244.9401,
+  "anomalyScore": 0.549,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_112",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 249.5659,
+  "anomalyScore": 1.063,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_113",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 225.7809,
+  "anomalyScore": 1.58,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_114",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 236.4835,
+  "anomalyScore": 0.391,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_115",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 243.0347,
+  "anomalyScore": 0.337,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_116",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 245.5687,
+  "anomalyScore": 0.619,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_117",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 238.1018,
+  "anomalyScore": 0.211,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_118",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 240.097,
+  "anomalyScore": 0.011,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_119",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 242.9852,
+  "anomalyScore": 0.332,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_120",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 242.1195,
+  "anomalyScore": 0.236,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_121",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 235.639,
+  "anomalyScore": 0.485,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_122",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 246.4998,
+  "anomalyScore": 0.722,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_123",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 229.5656,
+  "anomalyScore": 1.159,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_124",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 248.172,
+  "anomalyScore": 0.908,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_125",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 223.4067,
+  "anomalyScore": 1.844,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_126",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 255.2533,
+  "anomalyScore": 1.695,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_127",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 232.9501,
+  "anomalyScore": 0.783,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_128",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 237.1795,
+  "anomalyScore": 0.313,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_129",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 237.2559,
+  "anomalyScore": 0.305,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_130",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 255.8892,
+  "anomalyScore": 1.765,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_131",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 222.5483,
+  "anomalyScore": 1.939,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_132",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 250.5771,
+  "anomalyScore": 1.175,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_133",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 232.5377,
+  "anomalyScore": 0.829,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_134",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 230.7887,
+  "anomalyScore": 1.023,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_135",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 245.5362,
+  "anomalyScore": 0.615,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_136",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 244.4784,
+  "anomalyScore": 0.498,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_137",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 242.8328,
+  "anomalyScore": 0.315,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_138",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 250.5056,
+  "anomalyScore": 1.167,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_139",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 235.1828,
+  "anomalyScore": 0.535,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_140",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 272.138,
+  "anomalyScore": 3.571,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_141",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 250.3606,
+  "anomalyScore": 1.151,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_142",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 242.6943,
+  "anomalyScore": 0.299,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_143",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 246.3267,
+  "anomalyScore": 0.703,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_144",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 256.6916,
+  "anomalyScore": 1.855,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_145",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 244.3712,
+  "anomalyScore": 0.486,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_146",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 221.8187,
+  "anomalyScore": 2.02,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_147",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 225.9525,
+  "anomalyScore": 1.561,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_148",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 237.9293,
+  "anomalyScore": 0.23,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_149",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 226.6056,
+  "anomalyScore": 1.488,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_150",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 240.6128,
+  "anomalyScore": 0.068,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_151",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 226.6731,
+  "anomalyScore": 1.481,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_152",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 230.6053,
+  "anomalyScore": 1.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_153",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 227.4265,
+  "anomalyScore": 1.397,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_154",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 249.2534,
+  "anomalyScore": 1.028,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_155",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 238.4597,
+  "anomalyScore": 0.171,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_156",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 225.2052,
+  "anomalyScore": 1.644,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_157",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 236.6286,
+  "anomalyScore": 0.375,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_158",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 238.55,
+  "anomalyScore": 0.161,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_159",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 240.8387,
+  "anomalyScore": 0.093,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_160",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 249.603,
+  "anomalyScore": 1.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_161",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 267.085,
+  "anomalyScore": 3.009,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_162",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 250.0412,
+  "anomalyScore": 1.116,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_163",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 237.6435,
+  "anomalyScore": 0.262,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_164",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 251.3786,
+  "anomalyScore": 1.264,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_165",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 247.6822,
+  "anomalyScore": 0.854,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_166",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 248.5002,
+  "anomalyScore": 0.944,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_loadcurrent_167",
+  "sensor": "sen_isr_panel3_loadcurrent",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 254.0332,
+  "anomalyScore": 1.559,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_000",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 32.9573,
+  "anomalyScore": 0.948,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_001",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 35.2212,
+  "anomalyScore": 1.11,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_002",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 34.699,
+  "anomalyScore": 0.635,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_003",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 33.3803,
+  "anomalyScore": 0.563,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_004",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 31.2363,
+  "anomalyScore": 2.512,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_005",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 32.8265,
+  "anomalyScore": 1.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_006",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 32.3129,
+  "anomalyScore": 1.534,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_007",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 33.9513,
+  "anomalyScore": 0.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_008",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 32.5928,
+  "anomalyScore": 1.279,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_009",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 34.5868,
+  "anomalyScore": 0.533,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_010",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 31.9339,
+  "anomalyScore": 1.878,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_011",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 32.8674,
+  "anomalyScore": 1.03,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_012",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 36.1752,
+  "anomalyScore": 1.977,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_013",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 33.5062,
+  "anomalyScore": 0.449,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_014",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 33.958,
+  "anomalyScore": 0.038,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_015",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 34.8034,
+  "anomalyScore": 0.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_016",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 34.8137,
+  "anomalyScore": 0.74,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_017",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 35.9631,
+  "anomalyScore": 1.785,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_018",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 35.192,
+  "anomalyScore": 1.084,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_019",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 33.6273,
+  "anomalyScore": 0.339,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_020",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 35.3393,
+  "anomalyScore": 1.218,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_021",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 33.2814,
+  "anomalyScore": 0.653,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_022",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 35.788,
+  "anomalyScore": 1.625,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_023",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 35.1137,
+  "anomalyScore": 1.012,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_024",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 33.9158,
+  "anomalyScore": 0.077,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_025",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 33.257,
+  "anomalyScore": 0.675,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_026",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 33.6421,
+  "anomalyScore": 0.325,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_027",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 32.3171,
+  "anomalyScore": 1.53,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_028",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 31.0227,
+  "anomalyScore": 2.707,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_029",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 32.9795,
+  "anomalyScore": 0.928,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_030",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 32.3469,
+  "anomalyScore": 1.503,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_031",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 33.2718,
+  "anomalyScore": 0.662,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_032",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 33.105,
+  "anomalyScore": 0.814,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_033",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 33.9866,
+  "anomalyScore": 0.012,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_034",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 34.0326,
+  "anomalyScore": 0.03,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_035",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 31.7288,
+  "anomalyScore": 2.065,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_036",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 35.2394,
+  "anomalyScore": 1.127,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_037",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 34.7281,
+  "anomalyScore": 0.662,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_038",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 34.9158,
+  "anomalyScore": 0.833,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_039",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 35.4259,
+  "anomalyScore": 1.296,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_040",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 34.6327,
+  "anomalyScore": 0.575,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_041",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 33.7134,
+  "anomalyScore": 0.261,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_042",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 32.8062,
+  "anomalyScore": 1.085,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_043",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 33.6789,
+  "anomalyScore": 0.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_044",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 34.7678,
+  "anomalyScore": 0.698,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_045",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 33.8812,
+  "anomalyScore": 0.108,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_046",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 35.8118,
+  "anomalyScore": 1.647,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_047",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 32.3898,
+  "anomalyScore": 1.464,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_048",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 33.7394,
+  "anomalyScore": 0.237,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_049",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 34.7501,
+  "anomalyScore": 0.682,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_050",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 32.3874,
+  "anomalyScore": 1.466,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_051",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 34.4692,
+  "anomalyScore": 0.427,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_052",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 34.0928,
+  "anomalyScore": 0.084,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_053",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 33.9249,
+  "anomalyScore": 0.068,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_054",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 33.0452,
+  "anomalyScore": 0.868,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_055",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 33.4771,
+  "anomalyScore": 0.475,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_056",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 32.6592,
+  "anomalyScore": 1.219,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_057",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 34.0711,
+  "anomalyScore": 0.065,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_058",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 34.9728,
+  "anomalyScore": 0.884,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_059",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 33.9752,
+  "anomalyScore": 0.023,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_060",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 33.1535,
+  "anomalyScore": 0.77,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_061",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 33.6905,
+  "anomalyScore": 0.281,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_062",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 34.1359,
+  "anomalyScore": 0.124,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_063",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 33.9602,
+  "anomalyScore": 0.036,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_064",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 33.9022,
+  "anomalyScore": 0.089,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_065",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 32.6931,
+  "anomalyScore": 1.188,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_066",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 34.8375,
+  "anomalyScore": 0.761,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_067",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 34.6393,
+  "anomalyScore": 0.581,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_068",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 36.1111,
+  "anomalyScore": 1.919,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_069",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 35.1024,
+  "anomalyScore": 1.002,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_070",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 34.2181,
+  "anomalyScore": 0.198,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_071",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 33.0102,
+  "anomalyScore": 0.9,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_072",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 35.2526,
+  "anomalyScore": 1.139,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_073",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 34.0865,
+  "anomalyScore": 0.079,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_074",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 33.3719,
+  "anomalyScore": 0.571,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_075",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 33.0256,
+  "anomalyScore": 0.886,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_076",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 33.0729,
+  "anomalyScore": 0.843,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_077",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 33.5674,
+  "anomalyScore": 0.393,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_078",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 35.1389,
+  "anomalyScore": 1.035,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_079",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 34.0242,
+  "anomalyScore": 0.022,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_080",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 33.6363,
+  "anomalyScore": 0.331,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_081",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 34.8291,
+  "anomalyScore": 0.754,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_082",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 35.6006,
+  "anomalyScore": 1.455,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_083",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 31.0715,
+  "anomalyScore": 2.662,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_084",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 33.1077,
+  "anomalyScore": 0.811,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_085",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 34.6057,
+  "anomalyScore": 0.551,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_086",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 35.536,
+  "anomalyScore": 1.396,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_087",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 34.9448,
+  "anomalyScore": 0.859,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_088",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 34.3012,
+  "anomalyScore": 0.274,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_089",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 33.6464,
+  "anomalyScore": 0.321,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_090",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 34.4274,
+  "anomalyScore": 0.389,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_091",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 35.0448,
+  "anomalyScore": 0.95,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_092",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 35.492,
+  "anomalyScore": 1.356,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_093",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 34.6851,
+  "anomalyScore": 0.623,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_094",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 36.893,
+  "anomalyScore": 2.63,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_095",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 32.9009,
+  "anomalyScore": 0.999,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_096",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 34.2693,
+  "anomalyScore": 0.245,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_097",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 34.9262,
+  "anomalyScore": 0.842,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_098",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 33.8496,
+  "anomalyScore": 0.137,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_099",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 34.1823,
+  "anomalyScore": 0.166,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_100",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 33.6384,
+  "anomalyScore": 0.329,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_101",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 34.0234,
+  "anomalyScore": 0.021,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_102",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 32.4465,
+  "anomalyScore": 1.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_103",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 32.5959,
+  "anomalyScore": 1.276,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_104",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 33.8935,
+  "anomalyScore": 0.097,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_105",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 33.8658,
+  "anomalyScore": 0.122,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_106",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 34.8633,
+  "anomalyScore": 0.785,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_107",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 33.0971,
+  "anomalyScore": 0.821,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_108",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 32.2151,
+  "anomalyScore": 1.623,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_109",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 34.5765,
+  "anomalyScore": 0.524,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_110",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 35.3484,
+  "anomalyScore": 1.226,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_111",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 36.2268,
+  "anomalyScore": 2.024,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_112",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 34.8948,
+  "anomalyScore": 0.813,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_113",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 33.3982,
+  "anomalyScore": 0.547,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_114",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 33.6593,
+  "anomalyScore": 0.31,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_115",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 34.1093,
+  "anomalyScore": 0.099,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_116",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 35.6453,
+  "anomalyScore": 1.496,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_117",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 34.6855,
+  "anomalyScore": 0.623,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_118",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 33.9546,
+  "anomalyScore": 0.041,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_119",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 32.0356,
+  "anomalyScore": 1.786,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_120",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 36.5584,
+  "anomalyScore": 2.326,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_121",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 34.902,
+  "anomalyScore": 0.82,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_122",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 33.1026,
+  "anomalyScore": 0.816,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_123",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 33.4739,
+  "anomalyScore": 0.478,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_124",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 32.0787,
+  "anomalyScore": 1.747,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_125",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 34.4824,
+  "anomalyScore": 0.439,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_126",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 34.967,
+  "anomalyScore": 0.879,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_127",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 32.9994,
+  "anomalyScore": 0.91,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_128",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 34.0522,
+  "anomalyScore": 0.047,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_129",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 33.8283,
+  "anomalyScore": 0.156,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_130",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 33.1669,
+  "anomalyScore": 0.757,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_131",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 33.0653,
+  "anomalyScore": 0.85,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_132",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 34.1974,
+  "anomalyScore": 0.179,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_133",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 33.3261,
+  "anomalyScore": 0.613,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_134",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 37.0677,
+  "anomalyScore": 2.789,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_135",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 35.2031,
+  "anomalyScore": 1.094,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_136",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 32.5419,
+  "anomalyScore": 1.326,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_137",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 37.1935,
+  "anomalyScore": 2.903,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_138",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 34.3207,
+  "anomalyScore": 0.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_139",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 32.71,
+  "anomalyScore": 1.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_140",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 33.7249,
+  "anomalyScore": 0.25,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_141",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 35.6418,
+  "anomalyScore": 1.493,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_142",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 33.2886,
+  "anomalyScore": 0.647,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_143",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 32.4116,
+  "anomalyScore": 1.444,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_144",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 34.3307,
+  "anomalyScore": 0.301,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_145",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 33.5631,
+  "anomalyScore": 0.397,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_146",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 34.0237,
+  "anomalyScore": 0.022,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_147",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 34.1814,
+  "anomalyScore": 0.165,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_148",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 34.5437,
+  "anomalyScore": 0.494,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_149",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 33.0349,
+  "anomalyScore": 0.877,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_150",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 34.4167,
+  "anomalyScore": 0.379,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_151",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 32.1022,
+  "anomalyScore": 1.725,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_152",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 33.0455,
+  "anomalyScore": 0.868,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_153",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 32.902,
+  "anomalyScore": 0.998,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_154",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 33.2028,
+  "anomalyScore": 0.725,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_155",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 33.3189,
+  "anomalyScore": 0.619,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_156",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 35.9351,
+  "anomalyScore": 1.759,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_157",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 35.0422,
+  "anomalyScore": 0.947,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_158",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 34.7843,
+  "anomalyScore": 0.713,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_159",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 36.0139,
+  "anomalyScore": 1.831,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_160",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 35.3556,
+  "anomalyScore": 1.232,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_161",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 34.2722,
+  "anomalyScore": 0.247,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_162",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 34.2981,
+  "anomalyScore": 0.271,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_163",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 34.0198,
+  "anomalyScore": 0.018,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_164",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 34.081,
+  "anomalyScore": 0.074,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_165",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 34.7992,
+  "anomalyScore": 0.727,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_166",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 33.2806,
+  "anomalyScore": 0.654,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_paneltemperature_167",
+  "sensor": "sen_isr_panel3_paneltemperature",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 34.4612,
+  "anomalyScore": 0.419,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_000",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 0.9575,
+  "anomalyScore": 1.213,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_001",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 1.0009,
+  "anomalyScore": 0.996,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_002",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 1.3812,
+  "anomalyScore": 0.906,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_003",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 1.3607,
+  "anomalyScore": 0.804,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_004",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 1.3503,
+  "anomalyScore": 0.751,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_005",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 0.8189,
+  "anomalyScore": 1.906,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_006",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 1.4565,
+  "anomalyScore": 1.283,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_007",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 1.2961,
+  "anomalyScore": 0.48,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_008",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 1.488,
+  "anomalyScore": 1.44,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_009",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 1.4828,
+  "anomalyScore": 1.414,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_010",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 0.973,
+  "anomalyScore": 1.135,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_011",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 1.1421,
+  "anomalyScore": 0.29,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_012",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 1.0521,
+  "anomalyScore": 0.739,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_013",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 1.1779,
+  "anomalyScore": 0.11,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_014",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 1.2444,
+  "anomalyScore": 0.222,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_015",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 1.0108,
+  "anomalyScore": 0.946,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_016",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 1.449,
+  "anomalyScore": 1.245,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_017",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 1.616,
+  "anomalyScore": 2.08,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_018",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 1.5585,
+  "anomalyScore": 1.793,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_019",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 1.171,
+  "anomalyScore": 0.145,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_020",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 1.2834,
+  "anomalyScore": 0.417,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_021",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 1.3794,
+  "anomalyScore": 0.897,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_022",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 1.6422,
+  "anomalyScore": 2.211,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_023",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 1.5971,
+  "anomalyScore": 1.986,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_024",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 1.1476,
+  "anomalyScore": 0.262,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_025",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 1.0876,
+  "anomalyScore": 0.562,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_026",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 1.1345,
+  "anomalyScore": 0.328,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_027",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 0.9767,
+  "anomalyScore": 1.116,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_028",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 1.0253,
+  "anomalyScore": 0.874,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_029",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 1.6286,
+  "anomalyScore": 2.143,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_030",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 0.727,
+  "anomalyScore": 2.365,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_031",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 1.4252,
+  "anomalyScore": 1.126,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_032",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 0.9364,
+  "anomalyScore": 1.318,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_033",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 0.9297,
+  "anomalyScore": 1.352,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_034",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 1.1308,
+  "anomalyScore": 0.346,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_035",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 1.1531,
+  "anomalyScore": 0.234,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_036",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 1.1056,
+  "anomalyScore": 0.472,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_037",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 0.8755,
+  "anomalyScore": 1.623,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_038",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 1.0972,
+  "anomalyScore": 0.514,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_039",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 0.6526,
+  "anomalyScore": 2.737,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_040",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 1.2442,
+  "anomalyScore": 0.221,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_041",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 0.9187,
+  "anomalyScore": 1.406,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_042",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 1.4088,
+  "anomalyScore": 1.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_043",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 1.1406,
+  "anomalyScore": 0.297,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_044",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 1.1677,
+  "anomalyScore": 0.162,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_045",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 1.1559,
+  "anomalyScore": 0.221,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_046",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 1.254,
+  "anomalyScore": 0.27,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_047",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 1.2519,
+  "anomalyScore": 0.259,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_048",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 1.1196,
+  "anomalyScore": 0.402,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_049",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 1.1994,
+  "anomalyScore": 0.003,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_050",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 1.185,
+  "anomalyScore": 0.075,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_051",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 1.275,
+  "anomalyScore": 0.375,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_052",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 0.8881,
+  "anomalyScore": 1.559,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_053",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 1.0473,
+  "anomalyScore": 0.764,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_054",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 1.3771,
+  "anomalyScore": 0.885,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_055",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 1.4245,
+  "anomalyScore": 1.122,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_056",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 1.2541,
+  "anomalyScore": 0.27,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_057",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 1.2605,
+  "anomalyScore": 0.303,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_058",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 1.2615,
+  "anomalyScore": 0.307,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_059",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 1.0788,
+  "anomalyScore": 0.606,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_060",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 1.1682,
+  "anomalyScore": 0.159,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_061",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 1.1077,
+  "anomalyScore": 0.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_062",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 1.0342,
+  "anomalyScore": 0.829,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_063",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 1.3051,
+  "anomalyScore": 0.525,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_064",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 1.1077,
+  "anomalyScore": 0.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_065",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 1.461,
+  "anomalyScore": 1.305,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_066",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 1.1824,
+  "anomalyScore": 0.088,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_067",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 1.3755,
+  "anomalyScore": 0.878,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_068",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 1.1684,
+  "anomalyScore": 0.158,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_069",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 1.1308,
+  "anomalyScore": 0.346,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_070",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 1.2567,
+  "anomalyScore": 0.284,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_071",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 1.1715,
+  "anomalyScore": 0.142,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_072",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 1.2318,
+  "anomalyScore": 0.159,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_073",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 1.2492,
+  "anomalyScore": 0.246,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_074",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 1.4546,
+  "anomalyScore": 1.273,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_075",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 1.1928,
+  "anomalyScore": 0.036,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_076",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 0.7495,
+  "anomalyScore": 2.252,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_077",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 1.2977,
+  "anomalyScore": 0.489,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_078",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 1.0576,
+  "anomalyScore": 0.712,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_079",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 1.2264,
+  "anomalyScore": 0.132,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_080",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 1.4135,
+  "anomalyScore": 1.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_081",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 1.3355,
+  "anomalyScore": 0.677,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_082",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 1.1707,
+  "anomalyScore": 0.147,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_083",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 1.523,
+  "anomalyScore": 1.615,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_084",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 0.7769,
+  "anomalyScore": 2.115,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_085",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 0.9879,
+  "anomalyScore": 1.061,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_086",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 0.9957,
+  "anomalyScore": 1.022,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_087",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 1.3663,
+  "anomalyScore": 0.832,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_088",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 1.6249,
+  "anomalyScore": 2.125,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_089",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 1.1938,
+  "anomalyScore": 0.031,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_090",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 0.9277,
+  "anomalyScore": 1.361,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_091",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 1.343,
+  "anomalyScore": 0.715,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_092",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 1.2816,
+  "anomalyScore": 0.408,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_093",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 1.1051,
+  "anomalyScore": 0.475,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_094",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 0.9557,
+  "anomalyScore": 1.222,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_095",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 1.0949,
+  "anomalyScore": 0.525,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_096",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 1.0114,
+  "anomalyScore": 0.943,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_097",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 0.9658,
+  "anomalyScore": 1.171,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_098",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 0.9539,
+  "anomalyScore": 1.23,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_099",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 1.0265,
+  "anomalyScore": 0.867,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_100",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 1.5013,
+  "anomalyScore": 1.506,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_101",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 1.3166,
+  "anomalyScore": 0.583,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_102",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 0.7783,
+  "anomalyScore": 2.108,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_103",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 1.3944,
+  "anomalyScore": 0.972,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_104",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 1.2555,
+  "anomalyScore": 0.277,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_105",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 1.22,
+  "anomalyScore": 0.1,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_106",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 1.3956,
+  "anomalyScore": 0.978,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_107",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 1.2741,
+  "anomalyScore": 0.371,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_108",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 1.2869,
+  "anomalyScore": 0.434,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_109",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 1.2076,
+  "anomalyScore": 0.038,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_110",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 1.1717,
+  "anomalyScore": 0.141,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_111",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 1.0696,
+  "anomalyScore": 0.652,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_112",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 1.121,
+  "anomalyScore": 0.395,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_113",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 1.1892,
+  "anomalyScore": 0.054,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_114",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 1.7734,
+  "anomalyScore": 2.867,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_115",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 1.364,
+  "anomalyScore": 0.82,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_116",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 1.3408,
+  "anomalyScore": 0.704,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_117",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 1.0798,
+  "anomalyScore": 0.601,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_118",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 1.4092,
+  "anomalyScore": 1.046,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_119",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 1.3728,
+  "anomalyScore": 0.864,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_120",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 1.1361,
+  "anomalyScore": 0.32,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_121",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 1.4762,
+  "anomalyScore": 1.381,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_122",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 0.8988,
+  "anomalyScore": 1.506,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_123",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 0.9935,
+  "anomalyScore": 1.032,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_124",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 1.5416,
+  "anomalyScore": 1.708,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_125",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 0.8074,
+  "anomalyScore": 1.963,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_126",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 1.201,
+  "anomalyScore": 0.005,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_127",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 1.4497,
+  "anomalyScore": 1.249,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_128",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 1.1159,
+  "anomalyScore": 0.42,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_129",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 1.3966,
+  "anomalyScore": 0.983,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_130",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 1.0928,
+  "anomalyScore": 0.536,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_131",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 0.6746,
+  "anomalyScore": 2.627,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_132",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 1.2879,
+  "anomalyScore": 0.44,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_133",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 1.3959,
+  "anomalyScore": 0.979,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_134",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 0.9077,
+  "anomalyScore": 1.461,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_135",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 1.2781,
+  "anomalyScore": 0.391,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_136",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 1.3446,
+  "anomalyScore": 0.723,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_137",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 1.33,
+  "anomalyScore": 0.65,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_138",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 1.5241,
+  "anomalyScore": 1.621,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_139",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 1.264,
+  "anomalyScore": 0.32,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_140",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 1.2524,
+  "anomalyScore": 0.262,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_141",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 1.1076,
+  "anomalyScore": 0.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_142",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 1.1414,
+  "anomalyScore": 0.293,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_143",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 1.4612,
+  "anomalyScore": 1.306,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_144",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 1.1378,
+  "anomalyScore": 0.311,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_145",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 1.7786,
+  "anomalyScore": 2.893,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_146",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 1.3679,
+  "anomalyScore": 0.839,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_147",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 1.3386,
+  "anomalyScore": 0.693,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_148",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 0.7725,
+  "anomalyScore": 2.138,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_149",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 0.9772,
+  "anomalyScore": 1.114,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_150",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 1.0474,
+  "anomalyScore": 0.763,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_151",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 1.4789,
+  "anomalyScore": 1.394,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_152",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 1.408,
+  "anomalyScore": 1.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_153",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 0.781,
+  "anomalyScore": 2.095,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_154",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 1.3,
+  "anomalyScore": 0.5,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_155",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 1.355,
+  "anomalyScore": 0.775,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_156",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 1.1602,
+  "anomalyScore": 0.199,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_157",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 1.2418,
+  "anomalyScore": 0.209,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_158",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 1.2707,
+  "anomalyScore": 0.354,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_159",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 1.3634,
+  "anomalyScore": 0.817,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_160",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 1.1703,
+  "anomalyScore": 0.148,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_161",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 1.1608,
+  "anomalyScore": 0.196,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_162",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 0.8591,
+  "anomalyScore": 1.705,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_163",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 1.3274,
+  "anomalyScore": 0.637,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_164",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 1.3497,
+  "anomalyScore": 0.749,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_165",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 1.3561,
+  "anomalyScore": 0.78,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_166",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 1.3479,
+  "anomalyScore": 0.739,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_panel3_voltageimbalance_167",
+  "sensor": "sen_isr_panel3_voltageimbalance",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 1.1468,
+  "anomalyScore": 0.266,
+  "isAnomaly": false
+ }
+]

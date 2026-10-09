@@ -1,0 +1,32 @@
+/**
+ * A past maintenance event on a {@link MaintenanceAsset}. History gives the risk model its
+ * memory: when a prior corrective record's {@link MaintenanceHistory#failureMode} matches the
+ * failure mode the model currently infers from telemetry, the H (history match) feature is
+ * set and the prediction's confidence rises ("a similar pattern preceded a bearing failure
+ * six months ago"). All rows are simulated demo data.
+ */
+entity type MaintenanceHistory {
+  /** Asset that was serviced. */
+  asset: !MaintenanceAsset
+
+  /** Date the work was performed. */
+  serviceDate: !datetime
+
+  /** Kind of work: Preventive (planned), Corrective (fix after a fault), Inspection, Emergency, Replacement. */
+  maintenanceType: string enum('Preventive', 'Corrective', 'Inspection', 'Emergency', 'Replacement')
+
+  /** Failure mode addressed by corrective work, using the same vocabulary as {@link FailurePrediction#predictedFailureMode} (e.g. "Motor/bearing degradation"). Null for routine work. */
+  failureMode: string
+
+  /** Free-text description of the work performed. */
+  description: string
+
+  /** Hours the asset was out of service; used for the "projected downtime avoided" analytic. */
+  downtimeHours: double
+
+  /** Labour hours spent on the repair. */
+  repairDurationHours: double
+
+  /** Cost of the work in USD (simulated). */
+  cost: double
+}

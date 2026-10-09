@@ -1,0 +1,4034 @@
+[
+ {
+  "id": "sr_eceb_panel4_loadcurrent_000",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 228.1635,
+  "anomalyScore": 1.315,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_001",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 246.47,
+  "anomalyScore": 0.719,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_002",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 236.7454,
+  "anomalyScore": 0.362,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_003",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 251.7364,
+  "anomalyScore": 1.304,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_004",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 245.3982,
+  "anomalyScore": 0.6,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_005",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 228.6565,
+  "anomalyScore": 1.26,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_006",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 247.492,
+  "anomalyScore": 0.832,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_007",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 214.4803,
+  "anomalyScore": 2.836,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_008",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 230.1765,
+  "anomalyScore": 1.091,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_009",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 228.2403,
+  "anomalyScore": 1.307,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_010",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 245.0451,
+  "anomalyScore": 0.561,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_011",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 240.4576,
+  "anomalyScore": 0.051,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_012",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 239.712,
+  "anomalyScore": 0.032,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_013",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 241.342,
+  "anomalyScore": 0.149,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_014",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 252.4905,
+  "anomalyScore": 1.388,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_015",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 245.1507,
+  "anomalyScore": 0.572,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_016",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 257.7217,
+  "anomalyScore": 1.969,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_017",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 250.6648,
+  "anomalyScore": 1.185,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_018",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 255.0615,
+  "anomalyScore": 1.674,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_019",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 254.0628,
+  "anomalyScore": 1.563,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_020",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 254.9398,
+  "anomalyScore": 1.66,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_021",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 244.6597,
+  "anomalyScore": 0.518,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_022",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 243.4581,
+  "anomalyScore": 0.384,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_023",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 257.4108,
+  "anomalyScore": 1.935,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_024",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 250.6569,
+  "anomalyScore": 1.184,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_025",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 234.8758,
+  "anomalyScore": 0.569,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_026",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 239.7348,
+  "anomalyScore": 0.029,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_027",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 236.8297,
+  "anomalyScore": 0.352,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_028",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 240.1411,
+  "anomalyScore": 0.016,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_029",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 242.5399,
+  "anomalyScore": 0.282,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_030",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 224.6192,
+  "anomalyScore": 1.709,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_031",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 214.9933,
+  "anomalyScore": 2.779,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_032",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 237.7326,
+  "anomalyScore": 0.252,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_033",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 220.8128,
+  "anomalyScore": 2.132,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_034",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 235.5276,
+  "anomalyScore": 0.497,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_035",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 240.0948,
+  "anomalyScore": 0.011,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_036",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 235.3393,
+  "anomalyScore": 0.518,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_037",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 239.809,
+  "anomalyScore": 0.021,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_038",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 248.8395,
+  "anomalyScore": 0.982,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_039",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 229.6355,
+  "anomalyScore": 1.152,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_040",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 247.9556,
+  "anomalyScore": 0.884,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_041",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 239.274,
+  "anomalyScore": 0.081,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_042",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 242.8333,
+  "anomalyScore": 0.315,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_043",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 250.0262,
+  "anomalyScore": 1.114,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_044",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 245.7412,
+  "anomalyScore": 0.638,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_045",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 248.9587,
+  "anomalyScore": 0.995,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_046",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 240.9134,
+  "anomalyScore": 0.101,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_047",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 247.0773,
+  "anomalyScore": 0.786,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_048",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 237.0598,
+  "anomalyScore": 0.327,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_049",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 251.7682,
+  "anomalyScore": 1.308,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_050",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 238.4504,
+  "anomalyScore": 0.172,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_051",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 243.7054,
+  "anomalyScore": 0.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_052",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 247.7407,
+  "anomalyScore": 0.86,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_053",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 225.1871,
+  "anomalyScore": 1.646,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_054",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 229.7516,
+  "anomalyScore": 1.139,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_055",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 240.6163,
+  "anomalyScore": 0.068,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_056",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 241.2804,
+  "anomalyScore": 0.142,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_057",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 226.8341,
+  "anomalyScore": 1.463,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_058",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 234.3004,
+  "anomalyScore": 0.633,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_059",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 231.6267,
+  "anomalyScore": 0.93,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_060",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 243.1676,
+  "anomalyScore": 0.352,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_061",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 243.26,
+  "anomalyScore": 0.362,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_062",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 231.0358,
+  "anomalyScore": 0.996,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_063",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 234.0313,
+  "anomalyScore": 0.663,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_064",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 234.8511,
+  "anomalyScore": 0.572,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_065",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 232.1404,
+  "anomalyScore": 0.873,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_066",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 248.2844,
+  "anomalyScore": 0.92,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_067",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 249.5988,
+  "anomalyScore": 1.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_068",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 231.758,
+  "anomalyScore": 0.916,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_069",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 237.9969,
+  "anomalyScore": 0.223,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_070",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 259.5145,
+  "anomalyScore": 2.168,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_071",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 238.4044,
+  "anomalyScore": 0.177,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_072",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 255.3595,
+  "anomalyScore": 1.707,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_073",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 235.8885,
+  "anomalyScore": 0.457,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_074",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 233.6082,
+  "anomalyScore": 0.71,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_075",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 224.8205,
+  "anomalyScore": 1.687,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_076",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 233.0206,
+  "anomalyScore": 0.775,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_077",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 248.278,
+  "anomalyScore": 0.92,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_078",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 240.1441,
+  "anomalyScore": 0.016,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_079",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 221.5855,
+  "anomalyScore": 2.046,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_080",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 249.3096,
+  "anomalyScore": 1.034,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_081",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 240.5447,
+  "anomalyScore": 0.061,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_082",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 242.0499,
+  "anomalyScore": 0.228,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_083",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 235.5632,
+  "anomalyScore": 0.493,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_084",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 229.6126,
+  "anomalyScore": 1.154,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_085",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 255.8618,
+  "anomalyScore": 1.762,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_086",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 255.7979,
+  "anomalyScore": 1.755,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_087",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 239.0606,
+  "anomalyScore": 0.104,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_088",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 250.6066,
+  "anomalyScore": 1.179,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_089",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 240.3078,
+  "anomalyScore": 0.034,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_090",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 248.196,
+  "anomalyScore": 0.911,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_091",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 255.8033,
+  "anomalyScore": 1.756,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_092",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 258.1027,
+  "anomalyScore": 2.011,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_093",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 243.2219,
+  "anomalyScore": 0.358,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_094",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 245.2505,
+  "anomalyScore": 0.583,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_095",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 239.7236,
+  "anomalyScore": 0.031,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_096",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 249.4974,
+  "anomalyScore": 1.055,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_097",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 244.4599,
+  "anomalyScore": 0.496,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_098",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 239.4644,
+  "anomalyScore": 0.06,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_099",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 236.1765,
+  "anomalyScore": 0.425,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_100",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 228.5105,
+  "anomalyScore": 1.277,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_101",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 237.2231,
+  "anomalyScore": 0.309,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_102",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 236.342,
+  "anomalyScore": 0.406,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_103",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 230.827,
+  "anomalyScore": 1.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_104",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 237.6476,
+  "anomalyScore": 0.261,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_105",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 224.8752,
+  "anomalyScore": 1.681,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_106",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 245.1466,
+  "anomalyScore": 0.572,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_107",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 230.6632,
+  "anomalyScore": 1.037,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_108",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 236.6698,
+  "anomalyScore": 0.37,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_109",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 241.7049,
+  "anomalyScore": 0.189,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_110",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 251.1893,
+  "anomalyScore": 1.243,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_111",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 244.1755,
+  "anomalyScore": 0.464,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_112",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 251.7744,
+  "anomalyScore": 1.308,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_113",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 235.0412,
+  "anomalyScore": 0.551,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_114",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 254.9623,
+  "anomalyScore": 1.662,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_115",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 231.9737,
+  "anomalyScore": 0.892,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_116",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 250.1636,
+  "anomalyScore": 1.129,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_117",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 248.5221,
+  "anomalyScore": 0.947,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_118",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 245.439,
+  "anomalyScore": 0.604,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_119",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 231.183,
+  "anomalyScore": 0.98,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_120",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 243.6503,
+  "anomalyScore": 0.406,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_121",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 240.0667,
+  "anomalyScore": 0.007,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_122",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 239.0166,
+  "anomalyScore": 0.109,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_123",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 234.3963,
+  "anomalyScore": 0.623,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_124",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 242.5077,
+  "anomalyScore": 0.279,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_125",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 228.3913,
+  "anomalyScore": 1.29,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_126",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 223.3335,
+  "anomalyScore": 1.852,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_127",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 224.0351,
+  "anomalyScore": 1.774,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_128",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 242.9191,
+  "anomalyScore": 0.324,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_129",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 224.247,
+  "anomalyScore": 1.75,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_130",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 236.8602,
+  "anomalyScore": 0.349,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_131",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 224.9032,
+  "anomalyScore": 1.677,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_132",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 233.4283,
+  "anomalyScore": 0.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_133",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 241.7406,
+  "anomalyScore": 0.193,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_134",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 232.665,
+  "anomalyScore": 0.815,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_135",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 234.2164,
+  "anomalyScore": 0.643,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_136",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 253.7272,
+  "anomalyScore": 1.525,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_137",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 233.1823,
+  "anomalyScore": 0.758,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_138",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 235.6943,
+  "anomalyScore": 0.478,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_139",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 248.9562,
+  "anomalyScore": 0.995,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_140",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 259.1694,
+  "anomalyScore": 2.13,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_141",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 255.3455,
+  "anomalyScore": 1.705,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_142",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 269.6892,
+  "anomalyScore": 3.299,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_143",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 241.9163,
+  "anomalyScore": 0.213,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_144",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 238.38,
+  "anomalyScore": 0.18,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_145",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 252.3321,
+  "anomalyScore": 1.37,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_146",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 228.7572,
+  "anomalyScore": 1.249,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_147",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 239.723,
+  "anomalyScore": 0.031,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_148",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 241.3325,
+  "anomalyScore": 0.148,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_149",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 242.6247,
+  "anomalyScore": 0.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_150",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 234.5651,
+  "anomalyScore": 0.604,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_151",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 236.7843,
+  "anomalyScore": 0.357,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_152",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 232.241,
+  "anomalyScore": 0.862,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_153",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 265.6815,
+  "anomalyScore": 2.854,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_154",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 219.2918,
+  "anomalyScore": 2.301,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_155",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 241.9516,
+  "anomalyScore": 0.217,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_156",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 247.214,
+  "anomalyScore": 0.802,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_157",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 241.1398,
+  "anomalyScore": 0.127,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_158",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 236.5484,
+  "anomalyScore": 0.384,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_159",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 241.5663,
+  "anomalyScore": 0.174,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_160",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 254.4262,
+  "anomalyScore": 1.603,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_161",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 243.6008,
+  "anomalyScore": 0.4,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_162",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 264.5505,
+  "anomalyScore": 2.728,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_163",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 250.4123,
+  "anomalyScore": 1.157,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_164",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 242.0084,
+  "anomalyScore": 0.223,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_165",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 242.0825,
+  "anomalyScore": 0.231,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_166",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 259.4445,
+  "anomalyScore": 2.16,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_loadcurrent_167",
+  "sensor": "sen_eceb_panel4_loadcurrent",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 239.7636,
+  "anomalyScore": 0.026,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_000",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 33.3053,
+  "anomalyScore": 0.632,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_001",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 32.0463,
+  "anomalyScore": 1.776,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_002",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 32.8788,
+  "anomalyScore": 1.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_003",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 32.6584,
+  "anomalyScore": 1.22,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_004",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 33.5441,
+  "anomalyScore": 0.414,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_005",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 32.8106,
+  "anomalyScore": 1.081,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_006",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 34.132,
+  "anomalyScore": 0.12,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_007",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 31.753,
+  "anomalyScore": 2.043,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_008",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 33.6237,
+  "anomalyScore": 0.342,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_009",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 32.7186,
+  "anomalyScore": 1.165,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_010",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 33.7741,
+  "anomalyScore": 0.205,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_011",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 35.0752,
+  "anomalyScore": 0.977,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_012",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 33.5812,
+  "anomalyScore": 0.381,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_013",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 36.7561,
+  "anomalyScore": 2.506,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_014",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 33.7552,
+  "anomalyScore": 0.223,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_015",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 34.6562,
+  "anomalyScore": 0.597,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_016",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 31.8332,
+  "anomalyScore": 1.97,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_017",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 34.9777,
+  "anomalyScore": 0.889,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_018",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 32.8497,
+  "anomalyScore": 1.046,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_019",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 32.9236,
+  "anomalyScore": 0.979,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_020",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 34.0846,
+  "anomalyScore": 0.077,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_021",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 35.0814,
+  "anomalyScore": 0.983,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_022",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 33.5016,
+  "anomalyScore": 0.453,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_023",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 36.3091,
+  "anomalyScore": 2.099,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_024",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 35.1736,
+  "anomalyScore": 1.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_025",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 32.5716,
+  "anomalyScore": 1.299,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_026",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 33.1578,
+  "anomalyScore": 0.766,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_027",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 33.3794,
+  "anomalyScore": 0.564,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_028",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 32.4771,
+  "anomalyScore": 1.384,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_029",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 33.3004,
+  "anomalyScore": 0.636,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_030",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 33.6263,
+  "anomalyScore": 0.34,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_031",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 34.302,
+  "anomalyScore": 0.275,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_032",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 32.4857,
+  "anomalyScore": 1.377,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_033",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 32.0703,
+  "anomalyScore": 1.754,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_034",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 32.5896,
+  "anomalyScore": 1.282,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_035",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 33.7954,
+  "anomalyScore": 0.186,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_036",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 32.8738,
+  "anomalyScore": 1.024,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_037",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 33.1228,
+  "anomalyScore": 0.797,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_038",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 34.6567,
+  "anomalyScore": 0.597,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_039",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 34.743,
+  "anomalyScore": 0.675,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_040",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 33.4129,
+  "anomalyScore": 0.534,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_041",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 34.8867,
+  "anomalyScore": 0.806,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_042",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 34.1617,
+  "anomalyScore": 0.147,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_043",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 34.8834,
+  "anomalyScore": 0.803,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_044",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 35.249,
+  "anomalyScore": 1.135,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_045",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 35.4496,
+  "anomalyScore": 1.318,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_046",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 36.1249,
+  "anomalyScore": 1.932,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_047",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 34.9746,
+  "anomalyScore": 0.886,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_048",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 33.7422,
+  "anomalyScore": 0.234,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_049",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 33.6654,
+  "anomalyScore": 0.304,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_050",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 33.0169,
+  "anomalyScore": 0.894,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_051",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 34.2496,
+  "anomalyScore": 0.227,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_052",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 35.3439,
+  "anomalyScore": 1.222,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_053",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 35.0996,
+  "anomalyScore": 1.0,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_054",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 33.121,
+  "anomalyScore": 0.799,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_055",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 33.5938,
+  "anomalyScore": 0.369,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_056",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 32.3876,
+  "anomalyScore": 1.466,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_057",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 32.5522,
+  "anomalyScore": 1.316,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_058",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 34.9132,
+  "anomalyScore": 0.83,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_059",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 32.1043,
+  "anomalyScore": 1.723,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_060",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 33.9948,
+  "anomalyScore": 0.005,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_061",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 33.698,
+  "anomalyScore": 0.275,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_062",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 35.7546,
+  "anomalyScore": 1.595,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_063",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 31.557,
+  "anomalyScore": 2.221,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_064",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 35.3863,
+  "anomalyScore": 1.26,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_065",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 36.5256,
+  "anomalyScore": 2.296,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_066",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 35.5001,
+  "anomalyScore": 1.364,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_067",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 34.5055,
+  "anomalyScore": 0.46,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_068",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 35.4875,
+  "anomalyScore": 1.352,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_069",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 34.7806,
+  "anomalyScore": 0.71,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_070",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 34.0209,
+  "anomalyScore": 0.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_071",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 35.3564,
+  "anomalyScore": 1.233,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_072",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 32.5577,
+  "anomalyScore": 1.311,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_073",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 34.6007,
+  "anomalyScore": 0.546,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_074",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 32.6484,
+  "anomalyScore": 1.229,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_075",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 33.0378,
+  "anomalyScore": 0.875,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_076",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 34.5635,
+  "anomalyScore": 0.512,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_077",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 33.266,
+  "anomalyScore": 0.667,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_078",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 33.455,
+  "anomalyScore": 0.495,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_079",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 34.0882,
+  "anomalyScore": 0.08,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_080",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 33.6568,
+  "anomalyScore": 0.312,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_081",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 32.588,
+  "anomalyScore": 1.284,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_082",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 33.8184,
+  "anomalyScore": 0.165,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_083",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 34.5669,
+  "anomalyScore": 0.515,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_084",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 34.2598,
+  "anomalyScore": 0.236,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_085",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 33.553,
+  "anomalyScore": 0.406,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_086",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 34.9668,
+  "anomalyScore": 0.879,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_087",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 34.398,
+  "anomalyScore": 0.362,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_088",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 33.0441,
+  "anomalyScore": 0.869,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_089",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 36.0043,
+  "anomalyScore": 1.822,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_090",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 35.0563,
+  "anomalyScore": 0.96,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_091",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 35.6683,
+  "anomalyScore": 1.517,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_092",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 35.0611,
+  "anomalyScore": 0.965,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_093",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 34.8968,
+  "anomalyScore": 0.815,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_094",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 34.9681,
+  "anomalyScore": 0.88,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_095",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 34.888,
+  "anomalyScore": 0.807,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_096",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 34.1117,
+  "anomalyScore": 0.102,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_097",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 34.3671,
+  "anomalyScore": 0.334,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_098",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 31.6858,
+  "anomalyScore": 2.104,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_099",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 32.8578,
+  "anomalyScore": 1.038,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_100",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 31.8809,
+  "anomalyScore": 1.926,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_101",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 33.132,
+  "anomalyScore": 0.789,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_102",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 34.5718,
+  "anomalyScore": 0.52,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_103",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 34.7702,
+  "anomalyScore": 0.7,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_104",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 34.4832,
+  "anomalyScore": 0.439,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_105",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 34.062,
+  "anomalyScore": 0.056,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_106",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 32.3771,
+  "anomalyScore": 1.475,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_107",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 33.0589,
+  "anomalyScore": 0.856,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_108",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 33.4792,
+  "anomalyScore": 0.473,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_109",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 36.184,
+  "anomalyScore": 1.985,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_110",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 33.1001,
+  "anomalyScore": 0.818,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_111",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 36.0988,
+  "anomalyScore": 1.908,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_112",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 34.9179,
+  "anomalyScore": 0.834,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_113",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 35.1445,
+  "anomalyScore": 1.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_114",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 34.628,
+  "anomalyScore": 0.571,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_115",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 33.4954,
+  "anomalyScore": 0.459,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_116",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 33.5794,
+  "anomalyScore": 0.382,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_117",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 34.9249,
+  "anomalyScore": 0.841,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_118",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 35.3732,
+  "anomalyScore": 1.248,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_119",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 34.2954,
+  "anomalyScore": 0.269,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_120",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 34.5116,
+  "anomalyScore": 0.465,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_121",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 33.777,
+  "anomalyScore": 0.203,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_122",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 34.5829,
+  "anomalyScore": 0.53,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_123",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 34.1209,
+  "anomalyScore": 0.11,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_124",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 33.6908,
+  "anomalyScore": 0.281,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_125",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 32.9933,
+  "anomalyScore": 0.915,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_126",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 33.7427,
+  "anomalyScore": 0.234,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_127",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 33.9702,
+  "anomalyScore": 0.027,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_128",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 33.8903,
+  "anomalyScore": 0.1,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_129",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 32.6703,
+  "anomalyScore": 1.209,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_130",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 33.2391,
+  "anomalyScore": 0.692,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_131",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 33.0074,
+  "anomalyScore": 0.902,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_132",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 33.3024,
+  "anomalyScore": 0.634,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_133",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 33.7259,
+  "anomalyScore": 0.249,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_134",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 35.1104,
+  "anomalyScore": 1.009,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_135",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 33.9567,
+  "anomalyScore": 0.039,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_136",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 33.1543,
+  "anomalyScore": 0.769,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_137",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 33.9904,
+  "anomalyScore": 0.009,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_138",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 34.3448,
+  "anomalyScore": 0.313,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_139",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 34.6069,
+  "anomalyScore": 0.552,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_140",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 35.065,
+  "anomalyScore": 0.968,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_141",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 35.1004,
+  "anomalyScore": 1.0,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_142",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 34.161,
+  "anomalyScore": 0.146,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_143",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 36.2166,
+  "anomalyScore": 2.015,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_144",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 35.9552,
+  "anomalyScore": 1.777,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_145",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 34.776,
+  "anomalyScore": 0.705,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_146",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 33.0195,
+  "anomalyScore": 0.891,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_147",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 34.1903,
+  "anomalyScore": 0.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_148",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 35.7005,
+  "anomalyScore": 1.546,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_149",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 34.1799,
+  "anomalyScore": 0.164,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_150",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 33.5877,
+  "anomalyScore": 0.375,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_151",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 32.6949,
+  "anomalyScore": 1.186,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_152",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 35.5737,
+  "anomalyScore": 1.431,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_153",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 33.2936,
+  "anomalyScore": 0.642,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_154",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 35.5892,
+  "anomalyScore": 1.445,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_155",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 34.5458,
+  "anomalyScore": 0.496,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_156",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 35.1952,
+  "anomalyScore": 1.087,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_157",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 35.8614,
+  "anomalyScore": 1.692,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_158",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 37.0565,
+  "anomalyScore": 2.779,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_159",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 37.9177,
+  "anomalyScore": 3.562,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_160",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 35.9112,
+  "anomalyScore": 1.737,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_161",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 36.3658,
+  "anomalyScore": 2.151,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_162",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 38.0993,
+  "anomalyScore": 3.727,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_163",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 37.2408,
+  "anomalyScore": 2.946,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_164",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 36.2581,
+  "anomalyScore": 2.053,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_165",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 37.5075,
+  "anomalyScore": 3.189,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_166",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 38.549,
+  "anomalyScore": 4.135,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_paneltemperature_167",
+  "sensor": "sen_eceb_panel4_paneltemperature",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 35.1885,
+  "anomalyScore": 1.08,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_000",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 1.1932,
+  "anomalyScore": 0.034,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_001",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 1.3159,
+  "anomalyScore": 0.58,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_002",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 1.1009,
+  "anomalyScore": 0.495,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_003",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 1.1146,
+  "anomalyScore": 0.427,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_004",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 1.1863,
+  "anomalyScore": 0.069,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_005",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 1.1831,
+  "anomalyScore": 0.085,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_006",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 1.3111,
+  "anomalyScore": 0.556,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_007",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 1.0316,
+  "anomalyScore": 0.842,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_008",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 1.4075,
+  "anomalyScore": 1.037,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_009",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 1.4891,
+  "anomalyScore": 1.446,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_010",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 1.2414,
+  "anomalyScore": 0.207,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_011",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 0.9081,
+  "anomalyScore": 1.459,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_012",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 1.2016,
+  "anomalyScore": 0.008,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_013",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 1.1065,
+  "anomalyScore": 0.468,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_014",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 1.2153,
+  "anomalyScore": 0.076,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_015",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 0.9827,
+  "anomalyScore": 1.086,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_016",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 1.265,
+  "anomalyScore": 0.325,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_017",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 1.5245,
+  "anomalyScore": 1.623,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_018",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 1.2253,
+  "anomalyScore": 0.126,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_019",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 1.0221,
+  "anomalyScore": 0.889,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_020",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 1.2346,
+  "anomalyScore": 0.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_021",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 1.1585,
+  "anomalyScore": 0.208,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_022",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 1.1938,
+  "anomalyScore": 0.031,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_023",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 1.2678,
+  "anomalyScore": 0.339,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_024",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 1.1565,
+  "anomalyScore": 0.218,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_025",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 1.5497,
+  "anomalyScore": 1.748,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_026",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 1.1969,
+  "anomalyScore": 0.016,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_027",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 1.4007,
+  "anomalyScore": 1.003,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_028",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 1.1023,
+  "anomalyScore": 0.488,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_029",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 1.4002,
+  "anomalyScore": 1.001,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_030",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 1.2273,
+  "anomalyScore": 0.136,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_031",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 1.3006,
+  "anomalyScore": 0.503,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_032",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 1.1345,
+  "anomalyScore": 0.328,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_033",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 1.2783,
+  "anomalyScore": 0.391,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_034",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 1.0719,
+  "anomalyScore": 0.64,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_035",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 1.238,
+  "anomalyScore": 0.19,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_036",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 1.2808,
+  "anomalyScore": 0.404,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_037",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 1.2179,
+  "anomalyScore": 0.09,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_038",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 1.2205,
+  "anomalyScore": 0.102,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_039",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 1.107,
+  "anomalyScore": 0.465,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_040",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 1.1389,
+  "anomalyScore": 0.305,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_041",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 1.4569,
+  "anomalyScore": 1.285,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_042",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 1.3429,
+  "anomalyScore": 0.715,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_043",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 1.2554,
+  "anomalyScore": 0.277,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_044",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 1.2189,
+  "anomalyScore": 0.095,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_045",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 1.1808,
+  "anomalyScore": 0.096,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_046",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 1.0405,
+  "anomalyScore": 0.797,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_047",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 1.2478,
+  "anomalyScore": 0.239,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_048",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 1.3238,
+  "anomalyScore": 0.619,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_049",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 1.3708,
+  "anomalyScore": 0.854,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_050",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 1.2007,
+  "anomalyScore": 0.004,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_051",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 0.8563,
+  "anomalyScore": 1.719,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_052",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 0.9962,
+  "anomalyScore": 1.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_053",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 0.9868,
+  "anomalyScore": 1.066,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_054",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 1.2905,
+  "anomalyScore": 0.452,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_055",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 1.3141,
+  "anomalyScore": 0.571,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_056",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 1.1438,
+  "anomalyScore": 0.281,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_057",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 1.0876,
+  "anomalyScore": 0.562,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_058",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 1.3878,
+  "anomalyScore": 0.939,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_059",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 1.2018,
+  "anomalyScore": 0.009,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_060",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 1.1144,
+  "anomalyScore": 0.428,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_061",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 1.2206,
+  "anomalyScore": 0.103,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_062",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 1.3756,
+  "anomalyScore": 0.878,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_063",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 1.1634,
+  "anomalyScore": 0.183,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_064",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 1.1254,
+  "anomalyScore": 0.373,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_065",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 1.3529,
+  "anomalyScore": 0.765,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_066",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 1.2688,
+  "anomalyScore": 0.344,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_067",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 1.2142,
+  "anomalyScore": 0.071,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_068",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 1.1089,
+  "anomalyScore": 0.456,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_069",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 1.0198,
+  "anomalyScore": 0.901,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_070",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 1.3111,
+  "anomalyScore": 0.555,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_071",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 1.5152,
+  "anomalyScore": 1.576,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_072",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 1.2849,
+  "anomalyScore": 0.424,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_073",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 0.9663,
+  "anomalyScore": 1.168,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_074",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 1.6199,
+  "anomalyScore": 2.099,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_075",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 1.3869,
+  "anomalyScore": 0.934,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_076",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 1.4002,
+  "anomalyScore": 1.001,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_077",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 1.3161,
+  "anomalyScore": 0.581,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_078",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 1.3221,
+  "anomalyScore": 0.61,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_079",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 1.2517,
+  "anomalyScore": 0.259,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_080",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 0.8932,
+  "anomalyScore": 1.534,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_081",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 1.0436,
+  "anomalyScore": 0.782,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_082",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 1.1604,
+  "anomalyScore": 0.198,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_083",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 1.0637,
+  "anomalyScore": 0.681,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_084",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 1.2948,
+  "anomalyScore": 0.474,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_085",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 0.7549,
+  "anomalyScore": 2.225,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_086",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 1.0842,
+  "anomalyScore": 0.579,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_087",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 1.3189,
+  "anomalyScore": 0.595,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_088",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 1.2274,
+  "anomalyScore": 0.137,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_089",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 1.2142,
+  "anomalyScore": 0.071,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_090",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 1.0642,
+  "anomalyScore": 0.679,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_091",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 1.5123,
+  "anomalyScore": 1.561,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_092",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 1.1924,
+  "anomalyScore": 0.038,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_093",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 1.2148,
+  "anomalyScore": 0.074,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_094",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 1.0982,
+  "anomalyScore": 0.509,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_095",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 1.1617,
+  "anomalyScore": 0.191,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_096",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 1.3301,
+  "anomalyScore": 0.651,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_097",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 1.2126,
+  "anomalyScore": 0.063,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_098",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 0.9782,
+  "anomalyScore": 1.109,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_099",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 0.8218,
+  "anomalyScore": 1.891,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_100",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 1.4887,
+  "anomalyScore": 1.443,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_101",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 1.3044,
+  "anomalyScore": 0.522,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_102",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 1.5122,
+  "anomalyScore": 1.561,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_103",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 1.1177,
+  "anomalyScore": 0.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_104",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 1.1415,
+  "anomalyScore": 0.293,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_105",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 0.7912,
+  "anomalyScore": 2.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_106",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 0.8105,
+  "anomalyScore": 1.948,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_107",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 1.3371,
+  "anomalyScore": 0.685,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_108",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 1.3461,
+  "anomalyScore": 0.731,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_109",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 1.2381,
+  "anomalyScore": 0.191,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_110",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 1.2849,
+  "anomalyScore": 0.425,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_111",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 1.0767,
+  "anomalyScore": 0.617,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_112",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 1.5248,
+  "anomalyScore": 1.624,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_113",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 1.3043,
+  "anomalyScore": 0.522,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_114",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 1.1617,
+  "anomalyScore": 0.192,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_115",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 1.0913,
+  "anomalyScore": 0.544,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_116",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 1.6489,
+  "anomalyScore": 2.244,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_117",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 1.3003,
+  "anomalyScore": 0.502,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_118",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 1.6007,
+  "anomalyScore": 2.003,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_119",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 1.2753,
+  "anomalyScore": 0.376,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_120",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 1.4227,
+  "anomalyScore": 1.113,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_121",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 1.2724,
+  "anomalyScore": 0.362,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_122",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 1.1286,
+  "anomalyScore": 0.357,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_123",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 0.995,
+  "anomalyScore": 1.025,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_124",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 0.9876,
+  "anomalyScore": 1.062,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_125",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 1.1049,
+  "anomalyScore": 0.476,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_126",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 1.2496,
+  "anomalyScore": 0.248,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_127",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 1.1159,
+  "anomalyScore": 0.42,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_128",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 1.6018,
+  "anomalyScore": 2.009,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_129",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 1.4894,
+  "anomalyScore": 1.447,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_130",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 0.881,
+  "anomalyScore": 1.595,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_131",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 1.0323,
+  "anomalyScore": 0.838,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_132",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 1.2659,
+  "anomalyScore": 0.33,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_133",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 1.4345,
+  "anomalyScore": 1.172,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_134",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 1.3776,
+  "anomalyScore": 0.888,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_135",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 1.0557,
+  "anomalyScore": 0.722,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_136",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 1.1954,
+  "anomalyScore": 0.023,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_137",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 1.3737,
+  "anomalyScore": 0.868,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_138",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 1.5359,
+  "anomalyScore": 1.68,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_139",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 1.1582,
+  "anomalyScore": 0.209,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_140",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 1.4095,
+  "anomalyScore": 1.047,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_141",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 1.1628,
+  "anomalyScore": 0.186,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_142",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 1.4296,
+  "anomalyScore": 1.148,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_143",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 1.2037,
+  "anomalyScore": 0.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_144",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 1.0413,
+  "anomalyScore": 0.793,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_145",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 1.2598,
+  "anomalyScore": 0.299,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_146",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 0.9434,
+  "anomalyScore": 1.283,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_147",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 1.0432,
+  "anomalyScore": 0.784,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_148",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 1.377,
+  "anomalyScore": 0.885,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_149",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 1.2511,
+  "anomalyScore": 0.256,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_150",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 1.3029,
+  "anomalyScore": 0.515,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_151",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 1.4099,
+  "anomalyScore": 1.05,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_152",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 0.6167,
+  "anomalyScore": 2.916,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_153",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 1.0436,
+  "anomalyScore": 0.782,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_154",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 1.1794,
+  "anomalyScore": 0.103,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_155",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 1.1784,
+  "anomalyScore": 0.108,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_156",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 1.4841,
+  "anomalyScore": 1.421,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_157",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 1.2195,
+  "anomalyScore": 0.098,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_158",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 1.2549,
+  "anomalyScore": 0.274,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_159",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 1.5487,
+  "anomalyScore": 1.743,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_160",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 1.1187,
+  "anomalyScore": 0.406,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_161",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 1.3059,
+  "anomalyScore": 0.53,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_162",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 1.1432,
+  "anomalyScore": 0.284,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_163",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 1.3655,
+  "anomalyScore": 0.828,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_164",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 0.9867,
+  "anomalyScore": 1.066,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_165",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 1.5049,
+  "anomalyScore": 1.525,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_166",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 1.1556,
+  "anomalyScore": 0.222,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_eceb_panel4_voltageimbalance_167",
+  "sensor": "sen_eceb_panel4_voltageimbalance",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 1.2182,
+  "anomalyScore": 0.091,
+  "isAnomaly": false
+ }
+]

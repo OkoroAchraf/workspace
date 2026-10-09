@@ -1,0 +1,33 @@
+/**
+ * One slot in a crew's optimised day: which {@link WorkOrder} the {@link MaintenanceCrew}
+ * handles, when, and what it costs in travel. Produced by {@link IlliniFixPlanner#optimizePlan}
+ * and grouped under a {@link MaintenancePlan}.
+ */
+entity type CrewAssignment {
+  /** Crew performing the job. */
+  crew: !MaintenanceCrew
+
+  /** Job being performed. */
+  workOrder: !WorkOrder
+
+  /** Plan run that produced this assignment. */
+  plan: MaintenancePlan
+
+  /** Planned start time of the job. */
+  scheduledStart: datetime
+
+  /** Planned completion (start + estimated duration). */
+  estimatedCompletion: datetime
+
+  /** Walking / driving time from the crew's previous location, in minutes (haversine distance at campus walking speed). */
+  travelTimeMinutes: int
+
+  /** Priority score of the job at planning time. */
+  priorityScore: double
+
+  /** Order of the job within the crew's day (1 = first). */
+  sequence: int
+
+  /** Expected risk reduction credited to this assignment (priority-weighted). */
+  riskReduction: double
+}

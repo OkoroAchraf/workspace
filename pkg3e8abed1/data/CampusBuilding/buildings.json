@@ -1,0 +1,68 @@
+[
+ {
+  "id": "bld_grainger",
+  "name": "Grainger Engineering Library",
+  "shortName": "Grainger",
+  "address": "1301 W Springfield Ave, Urbana, IL 61801",
+  "latitude": 40.11247,
+  "longitude": -88.22682,
+  "estimatedDailyOccupancy": 6500,
+  "criticalityScore": 85,
+  "accessibilityCriticality": "High"
+ },
+ {
+  "id": "bld_siebel",
+  "name": "Siebel Center for Computer Science",
+  "shortName": "Siebel",
+  "address": "201 N Goodwin Ave, Urbana, IL 61801",
+  "latitude": 40.11383,
+  "longitude": -88.22493,
+  "estimatedDailyOccupancy": 3200,
+  "criticalityScore": 75,
+  "accessibilityCriticality": "Moderate"
+ },
+ {
+  "id": "bld_cif",
+  "name": "Campus Instructional Facility",
+  "shortName": "CIF",
+  "address": "1405 W Springfield Ave, Urbana, IL 61801",
+  "latitude": 40.11279,
+  "longitude": -88.22831,
+  "estimatedDailyOccupancy": 4800,
+  "criticalityScore": 80,
+  "accessibilityCriticality": "High"
+ },
+ {
+  "id": "bld_eceb",
+  "name": "Electrical and Computer Engineering Building",
+  "shortName": "ECEB",
+  "address": "306 N Wright St, Urbana, IL 61801",
+  "latitude": 40.11491,
+  "longitude": -88.22802,
+  "estimatedDailyOccupancy": 3900,
+  "criticalityScore": 78,
+  "accessibilityCriticality": "Moderate"
+ },
+ {
+  "id": "bld_arc",
+  "name": "Activities and Recreation Center",
+  "shortName": "ARC",
+  "address": "201 E Peabody Dr, Champaign, IL 61820",
+  "latitude": 40.10095,
+  "longitude": -88.23596,
+  "estimatedDailyOccupancy": 7000,
+  "criticalityScore": 70,
+  "accessibilityCriticality": "Moderate"
+ },
+ {
+  "id": "bld_isr",
+  "name": "Illinois Street Residence Hall",
+  "shortName": "ISR",
+  "address": "1010 W Illinois St, Urbana, IL 61801",
+  "latitude": 40.10998,
+  "longitude": -88.2214,
+  "estimatedDailyOccupancy": 1400,
+  "criticalityScore": 90,
+  "accessibilityCriticality": "High"
+ }
+]

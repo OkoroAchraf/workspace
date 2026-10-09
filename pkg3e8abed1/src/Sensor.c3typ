@@ -1,0 +1,39 @@
+/**
+ * A telemetry channel on a {@link MaintenanceAsset} (motor current, vibration, supply air
+ * temperature, ...). The baseline statistics stored here define "normal" for the z-score
+ * anomaly model in {@link IlliniFixRiskEngine}: z = (value - baselineMean) / baselineStdDev.
+ *
+ * The default `name` field carries the display label (e.g. "Motor Current"). Baselines are
+ * simulated demo values generated with the asset's sensor template.
+ */
+entity type Sensor {
+  /** Asset the sensor is mounted on. */
+  asset: !MaintenanceAsset
+
+  /** Measured quantity. Elevator: MotorCurrent, MotorTemperature, Vibration, DoorCycleTime. HVAC: SupplyTemperature, ReturnTemperature, FanCurrent, Airflow. Pump: FlowRate, Pressure, MotorCurrent, Vibration. Boiler: Pressure, WaterTemperature, FlueTemperature. Panel: LoadCurrent, PanelTemperature, VoltageImbalance. Generator: BatteryVoltage, CoolantTemperature, LoadCurrent. */
+  sensorType: !string
+
+  /** Engineering unit of {@link SensorReading#value}, e.g. "A", "°C", "mm/s", "m³/h". */
+  unit: string
+
+  /** Lower edge of the normal operating band (baselineMean - 3 sigma); drawn as the band on telemetry charts. */
+  normalMin: double
+
+  /** Upper edge of the normal operating band (baselineMean + 3 sigma). */
+  normalMax: double
+
+  /** Long-run mean of the channel under healthy operation. */
+  baselineMean: double
+
+  /** Long-run standard deviation under healthy operation (the z-score denominator). */
+  baselineStdDev: double
+
+  /** Amplitude of the daily cycle in standard deviations used by the simulated telemetry generator. */
+  diurnalAmplitude: double
+
+  /** Direction that is unhealthy: +1 higher than baseline is bad (current, temperature, vibration), -1 lower is bad (airflow, flow rate, battery voltage), 0 any deviation is bad (pressure). */
+  badDirection: int
+
+  /** Hourly readings for this channel ({@link SensorReading#sensor}). */
+  readings: [SensorReading](sensor)
+}

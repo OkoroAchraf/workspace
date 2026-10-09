@@ -1,0 +1,5378 @@
+[
+ {
+  "id": "sr_grainger_elev2_motorcurrent_000",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 42.3317,
+  "anomalyScore": 0.207,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_001",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 42.4664,
+  "anomalyScore": 0.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_002",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 42.5847,
+  "anomalyScore": 0.365,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_003",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 42.9861,
+  "anomalyScore": 0.616,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_004",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 41.1687,
+  "anomalyScore": 0.52,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_005",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 39.0205,
+  "anomalyScore": 1.862,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_006",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 40.0402,
+  "anomalyScore": 1.225,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_007",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 42.6717,
+  "anomalyScore": 0.42,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_008",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 41.7983,
+  "anomalyScore": 0.126,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_009",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 44.1142,
+  "anomalyScore": 1.321,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_010",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 40.8527,
+  "anomalyScore": 0.717,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_011",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 40.7731,
+  "anomalyScore": 0.767,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_012",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 42.0884,
+  "anomalyScore": 0.055,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_013",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 44.2872,
+  "anomalyScore": 1.43,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_014",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 43.8235,
+  "anomalyScore": 1.14,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_015",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 39.6468,
+  "anomalyScore": 1.471,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_016",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 42.361,
+  "anomalyScore": 0.226,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_017",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 44.2097,
+  "anomalyScore": 1.381,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_018",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 41.4835,
+  "anomalyScore": 0.323,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_019",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 41.0176,
+  "anomalyScore": 0.614,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_020",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 44.1468,
+  "anomalyScore": 1.342,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_021",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 44.344,
+  "anomalyScore": 1.465,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_022",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 39.8325,
+  "anomalyScore": 1.355,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_023",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 42.7531,
+  "anomalyScore": 0.471,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_024",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 42.7582,
+  "anomalyScore": 0.474,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_025",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 43.1785,
+  "anomalyScore": 0.737,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_026",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 38.7122,
+  "anomalyScore": 2.055,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_027",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 41.1879,
+  "anomalyScore": 0.508,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_028",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 39.2842,
+  "anomalyScore": 1.697,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_029",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 39.0346,
+  "anomalyScore": 1.853,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_030",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 42.6792,
+  "anomalyScore": 0.425,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_031",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 41.44,
+  "anomalyScore": 0.35,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_032",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 41.3622,
+  "anomalyScore": 0.399,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_033",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 43.1257,
+  "anomalyScore": 0.704,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_034",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 40.1543,
+  "anomalyScore": 1.154,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_035",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 42.1029,
+  "anomalyScore": 0.064,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_036",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 39.0387,
+  "anomalyScore": 1.851,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_037",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 43.2114,
+  "anomalyScore": 0.757,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_038",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 44.0907,
+  "anomalyScore": 1.307,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_039",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 39.9497,
+  "anomalyScore": 1.281,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_040",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 43.6565,
+  "anomalyScore": 1.035,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_041",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 44.7125,
+  "anomalyScore": 1.695,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_042",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 42.2271,
+  "anomalyScore": 0.142,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_043",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 41.9356,
+  "anomalyScore": 0.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_044",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 44.8311,
+  "anomalyScore": 1.769,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_045",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 40.3539,
+  "anomalyScore": 1.029,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_046",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 40.5584,
+  "anomalyScore": 0.901,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_047",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 41.6996,
+  "anomalyScore": 0.188,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_048",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 41.421,
+  "anomalyScore": 0.362,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_049",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 41.305,
+  "anomalyScore": 0.434,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_050",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 40.5437,
+  "anomalyScore": 0.91,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_051",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 43.3799,
+  "anomalyScore": 0.862,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_052",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 39.9333,
+  "anomalyScore": 1.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_053",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 41.8422,
+  "anomalyScore": 0.099,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_054",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 39.7144,
+  "anomalyScore": 1.428,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_055",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 42.5951,
+  "anomalyScore": 0.372,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_056",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 41.0546,
+  "anomalyScore": 0.591,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_057",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 37.3022,
+  "anomalyScore": 2.936,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_058",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 39.0358,
+  "anomalyScore": 1.853,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_059",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 42.1567,
+  "anomalyScore": 0.098,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_060",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 42.1699,
+  "anomalyScore": 0.106,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_061",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 41.406,
+  "anomalyScore": 0.371,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_062",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 43.6309,
+  "anomalyScore": 1.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_063",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 40.2362,
+  "anomalyScore": 1.102,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_064",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 40.8395,
+  "anomalyScore": 0.725,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_065",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 44.956,
+  "anomalyScore": 1.847,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_066",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 42.4796,
+  "anomalyScore": 0.3,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_067",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 41.4536,
+  "anomalyScore": 0.341,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_068",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 42.3317,
+  "anomalyScore": 0.207,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_069",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 42.123,
+  "anomalyScore": 0.077,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_070",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 41.9049,
+  "anomalyScore": 0.059,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_071",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 44.1563,
+  "anomalyScore": 1.348,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_072",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 43.3856,
+  "anomalyScore": 0.866,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_073",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 43.0415,
+  "anomalyScore": 0.651,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_074",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 42.7437,
+  "anomalyScore": 0.465,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_075",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 41.0936,
+  "anomalyScore": 0.566,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_076",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 41.4916,
+  "anomalyScore": 0.318,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_077",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 42.5966,
+  "anomalyScore": 0.373,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_078",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 40.287,
+  "anomalyScore": 1.071,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_079",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 40.1154,
+  "anomalyScore": 1.178,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_080",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 40.8487,
+  "anomalyScore": 0.72,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_081",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 41.3183,
+  "anomalyScore": 0.426,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_082",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 43.965,
+  "anomalyScore": 1.228,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_083",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 38.8207,
+  "anomalyScore": 1.987,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_084",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 41.8389,
+  "anomalyScore": 0.101,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_085",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 43.0534,
+  "anomalyScore": 0.658,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_086",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 43.3755,
+  "anomalyScore": 0.86,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_087",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 42.2643,
+  "anomalyScore": 0.165,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_088",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 41.1305,
+  "anomalyScore": 0.543,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_089",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 40.812,
+  "anomalyScore": 0.742,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_090",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 43.1291,
+  "anomalyScore": 0.706,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_091",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 44.1215,
+  "anomalyScore": 1.326,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_092",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 43.6709,
+  "anomalyScore": 1.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_093",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 42.2882,
+  "anomalyScore": 0.18,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_094",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 44.1438,
+  "anomalyScore": 1.34,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_095",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 40.2054,
+  "anomalyScore": 1.122,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_096",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 41.3326,
+  "anomalyScore": 0.417,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_097",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 41.364,
+  "anomalyScore": 0.397,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_098",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 42.4678,
+  "anomalyScore": 0.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_099",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 38.9317,
+  "anomalyScore": 1.918,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_100",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 41.1188,
+  "anomalyScore": 0.551,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_101",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 43.0507,
+  "anomalyScore": 0.657,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_102",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 39.748,
+  "anomalyScore": 1.407,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_103",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 39.687,
+  "anomalyScore": 1.446,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_104",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 40.65,
+  "anomalyScore": 0.844,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_105",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 42.0811,
+  "anomalyScore": 0.051,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_106",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 42.2566,
+  "anomalyScore": 0.16,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_107",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 40.8955,
+  "anomalyScore": 0.69,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_108",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 44.9857,
+  "anomalyScore": 1.866,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_109",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 45.0948,
+  "anomalyScore": 1.934,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_110",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 44.4883,
+  "anomalyScore": 1.555,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_111",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 42.4948,
+  "anomalyScore": 0.309,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_112",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 44.6089,
+  "anomalyScore": 1.631,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_113",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 40.3536,
+  "anomalyScore": 1.029,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_114",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 45.8783,
+  "anomalyScore": 2.424,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_115",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 44.4111,
+  "anomalyScore": 1.507,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_116",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 43.4645,
+  "anomalyScore": 0.915,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_117",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 43.0067,
+  "anomalyScore": 0.629,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_118",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 44.603,
+  "anomalyScore": 1.627,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_119",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 45.1866,
+  "anomalyScore": 1.992,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_120",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 44.078,
+  "anomalyScore": 1.299,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_121",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 42.2791,
+  "anomalyScore": 0.174,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_122",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 43.9507,
+  "anomalyScore": 1.219,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_123",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 44.011,
+  "anomalyScore": 1.257,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_124",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 42.9399,
+  "anomalyScore": 0.587,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_125",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 46.0287,
+  "anomalyScore": 2.518,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_126",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 42.1659,
+  "anomalyScore": 0.104,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_127",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 44.7056,
+  "anomalyScore": 1.691,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_128",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 45.2633,
+  "anomalyScore": 2.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_129",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 41.894,
+  "anomalyScore": 0.066,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_130",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 44.7665,
+  "anomalyScore": 1.729,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_131",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 43.8492,
+  "anomalyScore": 1.156,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_132",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 44.48,
+  "anomalyScore": 1.55,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_133",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 46.3056,
+  "anomalyScore": 2.691,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_134",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 48.7725,
+  "anomalyScore": 4.233,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_135",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 45.3437,
+  "anomalyScore": 2.09,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_136",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 46.4151,
+  "anomalyScore": 2.759,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_137",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 46.621,
+  "anomalyScore": 2.888,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_138",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 45.8543,
+  "anomalyScore": 2.409,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_139",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 46.2535,
+  "anomalyScore": 2.658,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_140",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 49.1711,
+  "anomalyScore": 4.482,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_141",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 46.3293,
+  "anomalyScore": 2.706,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_142",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 45.6071,
+  "anomalyScore": 2.254,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_143",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 47.1634,
+  "anomalyScore": 3.227,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_144",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 44.9858,
+  "anomalyScore": 1.866,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_145",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 45.7146,
+  "anomalyScore": 2.322,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_146",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 46.4312,
+  "anomalyScore": 2.769,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_147",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 47.5037,
+  "anomalyScore": 3.44,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_148",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 46.2476,
+  "anomalyScore": 2.655,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_149",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 44.933,
+  "anomalyScore": 1.833,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_150",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 46.9512,
+  "anomalyScore": 3.095,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_151",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 47.5102,
+  "anomalyScore": 3.444,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_152",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 46.4332,
+  "anomalyScore": 2.771,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_153",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 47.0748,
+  "anomalyScore": 3.172,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_154",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 47.4308,
+  "anomalyScore": 3.394,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_155",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 49.0742,
+  "anomalyScore": 4.421,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_156",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 48.6045,
+  "anomalyScore": 4.128,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_157",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 44.2622,
+  "anomalyScore": 1.414,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_158",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 48.0285,
+  "anomalyScore": 3.768,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_159",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 50.3774,
+  "anomalyScore": 5.236,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_160",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 49.1115,
+  "anomalyScore": 4.445,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_161",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 51.3686,
+  "anomalyScore": 5.855,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_162",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 48.6381,
+  "anomalyScore": 4.149,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_163",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 48.4412,
+  "anomalyScore": 4.026,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_164",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 50.8894,
+  "anomalyScore": 5.556,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_165",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 53.3839,
+  "anomalyScore": 7.115,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_166",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 49.225,
+  "anomalyScore": 4.516,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motorcurrent_167",
+  "sensor": "sen_grainger_elev2_motorcurrent",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 51.3818,
+  "anomalyScore": 5.864,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_000",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 2.3581,
+  "anomalyScore": 0.233,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_001",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 2.1123,
+  "anomalyScore": 1.598,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_002",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 2.5579,
+  "anomalyScore": 0.877,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_003",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 2.2822,
+  "anomalyScore": 0.654,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_004",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 1.9529,
+  "anomalyScore": 2.484,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_005",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 2.3917,
+  "anomalyScore": 0.046,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_006",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 2.5236,
+  "anomalyScore": 0.687,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_007",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 2.527,
+  "anomalyScore": 0.705,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_008",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 2.3214,
+  "anomalyScore": 0.437,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_009",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 2.4387,
+  "anomalyScore": 0.215,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_010",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 2.5443,
+  "anomalyScore": 0.802,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_011",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 2.4367,
+  "anomalyScore": 0.204,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_012",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 2.0961,
+  "anomalyScore": 1.688,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_013",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 2.4853,
+  "anomalyScore": 0.474,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_014",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 2.4034,
+  "anomalyScore": 0.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_015",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 2.361,
+  "anomalyScore": 0.217,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_016",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 2.6228,
+  "anomalyScore": 1.238,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_017",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 2.3878,
+  "anomalyScore": 0.068,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_018",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 2.4591,
+  "anomalyScore": 0.329,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_019",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 2.4761,
+  "anomalyScore": 0.423,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_020",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 2.5168,
+  "anomalyScore": 0.649,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_021",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 2.5876,
+  "anomalyScore": 1.042,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_022",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 2.5045,
+  "anomalyScore": 0.581,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_023",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 2.337,
+  "anomalyScore": 0.35,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_024",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 2.2663,
+  "anomalyScore": 0.743,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_025",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 2.4718,
+  "anomalyScore": 0.399,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_026",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 2.5928,
+  "anomalyScore": 1.071,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_027",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 2.6304,
+  "anomalyScore": 1.28,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_028",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 1.8017,
+  "anomalyScore": 3.324,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_029",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 2.4392,
+  "anomalyScore": 0.218,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_030",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 2.4978,
+  "anomalyScore": 0.544,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_031",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 2.1493,
+  "anomalyScore": 1.393,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_032",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 2.1957,
+  "anomalyScore": 1.135,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_033",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 2.555,
+  "anomalyScore": 0.861,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_034",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 2.1561,
+  "anomalyScore": 1.355,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_035",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 2.3043,
+  "anomalyScore": 0.532,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_036",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 2.3971,
+  "anomalyScore": 0.016,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_037",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 2.5193,
+  "anomalyScore": 0.663,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_038",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 2.4638,
+  "anomalyScore": 0.355,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_039",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 2.3192,
+  "anomalyScore": 0.449,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_040",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 2.7024,
+  "anomalyScore": 1.68,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_041",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 2.3702,
+  "anomalyScore": 0.165,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_042",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 2.2996,
+  "anomalyScore": 0.558,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_043",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 2.1425,
+  "anomalyScore": 1.431,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_044",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 2.3042,
+  "anomalyScore": 0.532,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_045",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 2.3515,
+  "anomalyScore": 0.27,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_046",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 2.7733,
+  "anomalyScore": 2.074,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_047",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 2.4467,
+  "anomalyScore": 0.259,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_048",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 2.1181,
+  "anomalyScore": 1.566,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_049",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 2.7266,
+  "anomalyScore": 1.815,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_050",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 2.1534,
+  "anomalyScore": 1.37,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_051",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 2.2547,
+  "anomalyScore": 0.807,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_052",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 2.3567,
+  "anomalyScore": 0.241,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_053",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 2.4584,
+  "anomalyScore": 0.325,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_054",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 2.3597,
+  "anomalyScore": 0.224,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_055",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 2.7814,
+  "anomalyScore": 2.119,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_056",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 2.4532,
+  "anomalyScore": 0.296,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_057",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 2.3467,
+  "anomalyScore": 0.296,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_058",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 2.3507,
+  "anomalyScore": 0.274,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_059",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 2.6248,
+  "anomalyScore": 1.249,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_060",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 2.6215,
+  "anomalyScore": 1.231,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_061",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 2.3205,
+  "anomalyScore": 0.441,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_062",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 2.5218,
+  "anomalyScore": 0.677,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_063",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 2.4436,
+  "anomalyScore": 0.242,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_064",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 2.661,
+  "anomalyScore": 1.45,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_065",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 2.4424,
+  "anomalyScore": 0.235,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_066",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 2.4394,
+  "anomalyScore": 0.219,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_067",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 2.5914,
+  "anomalyScore": 1.063,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_068",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 1.987,
+  "anomalyScore": 2.294,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_069",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 2.6296,
+  "anomalyScore": 1.275,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_070",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 2.3122,
+  "anomalyScore": 0.488,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_071",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 2.4405,
+  "anomalyScore": 0.225,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_072",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 2.2739,
+  "anomalyScore": 0.701,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_073",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 2.3927,
+  "anomalyScore": 0.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_074",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 2.5271,
+  "anomalyScore": 0.706,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_075",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 2.3704,
+  "anomalyScore": 0.164,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_076",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 2.468,
+  "anomalyScore": 0.378,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_077",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 2.512,
+  "anomalyScore": 0.622,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_078",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 2.4097,
+  "anomalyScore": 0.054,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_079",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 2.4871,
+  "anomalyScore": 0.484,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_080",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 2.3066,
+  "anomalyScore": 0.519,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_081",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 2.2761,
+  "anomalyScore": 0.688,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_082",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 2.1206,
+  "anomalyScore": 1.552,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_083",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 1.9815,
+  "anomalyScore": 2.325,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_084",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 2.2928,
+  "anomalyScore": 0.596,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_085",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 2.3092,
+  "anomalyScore": 0.504,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_086",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 2.3948,
+  "anomalyScore": 0.029,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_087",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 2.3557,
+  "anomalyScore": 0.246,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_088",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 2.2777,
+  "anomalyScore": 0.679,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_089",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 2.4576,
+  "anomalyScore": 0.32,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_090",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 2.3816,
+  "anomalyScore": 0.102,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_091",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 2.2527,
+  "anomalyScore": 0.819,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_092",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 2.6147,
+  "anomalyScore": 1.193,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_093",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 2.3487,
+  "anomalyScore": 0.285,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_094",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 2.1343,
+  "anomalyScore": 1.476,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_095",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 2.6164,
+  "anomalyScore": 1.202,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_096",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 2.2393,
+  "anomalyScore": 0.893,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_097",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 2.1553,
+  "anomalyScore": 1.36,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_098",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 2.4671,
+  "anomalyScore": 0.373,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_099",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 2.6748,
+  "anomalyScore": 1.527,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_100",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 2.3692,
+  "anomalyScore": 0.171,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_101",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 2.0197,
+  "anomalyScore": 2.113,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_102",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 2.3467,
+  "anomalyScore": 0.296,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_103",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 2.239,
+  "anomalyScore": 0.894,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_104",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 2.2843,
+  "anomalyScore": 0.643,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_105",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 2.1831,
+  "anomalyScore": 1.205,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_106",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 2.0207,
+  "anomalyScore": 2.107,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_107",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 2.5413,
+  "anomalyScore": 0.785,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_108",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 2.2638,
+  "anomalyScore": 0.756,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_109",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 2.3473,
+  "anomalyScore": 0.293,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_110",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 2.7202,
+  "anomalyScore": 1.779,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_111",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 2.4078,
+  "anomalyScore": 0.043,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_112",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 2.5614,
+  "anomalyScore": 0.897,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_113",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 2.4923,
+  "anomalyScore": 0.513,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_114",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 2.6026,
+  "anomalyScore": 1.126,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_115",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 2.6552,
+  "anomalyScore": 1.418,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_116",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 2.6398,
+  "anomalyScore": 1.332,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_117",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 2.7539,
+  "anomalyScore": 1.966,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_118",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 2.4304,
+  "anomalyScore": 0.169,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_119",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 2.4164,
+  "anomalyScore": 0.091,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_120",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 2.5075,
+  "anomalyScore": 0.597,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_121",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 2.7114,
+  "anomalyScore": 1.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_122",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 2.4621,
+  "anomalyScore": 0.345,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_123",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 2.8684,
+  "anomalyScore": 2.602,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_124",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 2.8882,
+  "anomalyScore": 2.712,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_125",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 2.4077,
+  "anomalyScore": 0.043,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_126",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 2.6489,
+  "anomalyScore": 1.383,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_127",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 2.2288,
+  "anomalyScore": 0.951,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_128",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 2.7535,
+  "anomalyScore": 1.964,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_129",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 2.5237,
+  "anomalyScore": 0.687,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_130",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 2.6487,
+  "anomalyScore": 1.382,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_131",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 2.8157,
+  "anomalyScore": 2.309,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_132",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 2.3179,
+  "anomalyScore": 0.456,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_133",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 3.029,
+  "anomalyScore": 3.494,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_134",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 2.5408,
+  "anomalyScore": 0.782,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_135",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 2.4168,
+  "anomalyScore": 0.093,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_136",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 2.8264,
+  "anomalyScore": 2.369,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_137",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 3.0302,
+  "anomalyScore": 3.501,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_138",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 2.7044,
+  "anomalyScore": 1.691,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_139",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 2.5584,
+  "anomalyScore": 0.88,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_140",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 2.9684,
+  "anomalyScore": 3.158,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_141",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 2.5257,
+  "anomalyScore": 0.699,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_142",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 2.7129,
+  "anomalyScore": 1.738,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_143",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 2.9561,
+  "anomalyScore": 3.09,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_144",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 2.8621,
+  "anomalyScore": 2.567,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_145",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 2.3429,
+  "anomalyScore": 0.317,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_146",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 2.814,
+  "anomalyScore": 2.3,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_147",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 2.9992,
+  "anomalyScore": 3.329,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_148",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 2.6871,
+  "anomalyScore": 1.595,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_149",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 2.7031,
+  "anomalyScore": 1.684,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_150",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 2.9836,
+  "anomalyScore": 3.242,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_151",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 3.0699,
+  "anomalyScore": 3.722,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_152",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 2.7768,
+  "anomalyScore": 2.093,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_153",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 2.9601,
+  "anomalyScore": 3.112,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_154",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 3.005,
+  "anomalyScore": 3.361,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_155",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 2.7319,
+  "anomalyScore": 1.844,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_156",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 2.6102,
+  "anomalyScore": 1.168,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_157",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 2.8731,
+  "anomalyScore": 2.628,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_158",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 2.9046,
+  "anomalyScore": 2.803,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_159",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 3.2738,
+  "anomalyScore": 4.854,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_160",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 3.053,
+  "anomalyScore": 3.628,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_161",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 3.3127,
+  "anomalyScore": 5.071,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_162",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 2.7912,
+  "anomalyScore": 2.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_163",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 3.0466,
+  "anomalyScore": 3.592,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_164",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 3.0777,
+  "anomalyScore": 3.765,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_165",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 3.2787,
+  "anomalyScore": 4.882,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_166",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 3.1391,
+  "anomalyScore": 4.106,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_vibration_167",
+  "sensor": "sen_grainger_elev2_vibration",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 3.1134,
+  "anomalyScore": 3.964,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_000",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 57.4203,
+  "anomalyScore": 0.322,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_001",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 54.8729,
+  "anomalyScore": 1.737,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_002",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 59.7978,
+  "anomalyScore": 0.999,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_003",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 58.5703,
+  "anomalyScore": 0.317,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_004",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 59.1826,
+  "anomalyScore": 0.657,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_005",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 56.6851,
+  "anomalyScore": 0.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_006",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 56.0754,
+  "anomalyScore": 1.069,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_007",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 55.5235,
+  "anomalyScore": 1.376,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_008",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 59.8732,
+  "anomalyScore": 1.041,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_009",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 56.8041,
+  "anomalyScore": 0.664,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_010",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 57.2579,
+  "anomalyScore": 0.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_011",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 54.2724,
+  "anomalyScore": 2.071,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_012",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 60.4407,
+  "anomalyScore": 1.356,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_013",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 57.925,
+  "anomalyScore": 0.042,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_014",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 58.2506,
+  "anomalyScore": 0.139,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_015",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 58.1648,
+  "anomalyScore": 0.092,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_016",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 56.8951,
+  "anomalyScore": 0.614,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_017",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 59.5918,
+  "anomalyScore": 0.884,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_018",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 60.3031,
+  "anomalyScore": 1.28,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_019",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 57.5596,
+  "anomalyScore": 0.245,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_020",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 59.0208,
+  "anomalyScore": 0.567,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_021",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 58.9285,
+  "anomalyScore": 0.516,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_022",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 57.5657,
+  "anomalyScore": 0.241,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_023",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 60.2939,
+  "anomalyScore": 1.274,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_024",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 56.6311,
+  "anomalyScore": 0.76,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_025",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 56.4491,
+  "anomalyScore": 0.862,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_026",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 53.3743,
+  "anomalyScore": 2.57,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_027",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 55.9248,
+  "anomalyScore": 1.153,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_028",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 56.0445,
+  "anomalyScore": 1.086,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_029",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 61.8276,
+  "anomalyScore": 2.126,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_030",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 61.3555,
+  "anomalyScore": 1.864,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_031",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 58.3476,
+  "anomalyScore": 0.193,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_032",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 57.4197,
+  "anomalyScore": 0.322,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_033",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 57.8315,
+  "anomalyScore": 0.094,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_034",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 57.0263,
+  "anomalyScore": 0.541,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_035",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 57.2763,
+  "anomalyScore": 0.402,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_036",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 57.2582,
+  "anomalyScore": 0.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_037",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 60.3168,
+  "anomalyScore": 1.287,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_038",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 58.8482,
+  "anomalyScore": 0.471,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_039",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 60.9954,
+  "anomalyScore": 1.664,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_040",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 59.3526,
+  "anomalyScore": 0.751,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_041",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 59.2893,
+  "anomalyScore": 0.716,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_042",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 57.4722,
+  "anomalyScore": 0.293,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_043",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 60.4684,
+  "anomalyScore": 1.371,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_044",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 58.6829,
+  "anomalyScore": 0.379,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_045",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 58.8195,
+  "anomalyScore": 0.455,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_046",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 59.3301,
+  "anomalyScore": 0.739,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_047",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 59.3246,
+  "anomalyScore": 0.736,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_048",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 55.1501,
+  "anomalyScore": 1.583,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_049",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 56.6856,
+  "anomalyScore": 0.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_050",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 60.3165,
+  "anomalyScore": 1.287,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_051",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 56.8075,
+  "anomalyScore": 0.663,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_052",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 59.0825,
+  "anomalyScore": 0.601,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_053",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 58.3984,
+  "anomalyScore": 0.221,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_054",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 59.4217,
+  "anomalyScore": 0.79,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_055",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 53.6743,
+  "anomalyScore": 2.403,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_056",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 56.779,
+  "anomalyScore": 0.678,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_057",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 56.3403,
+  "anomalyScore": 0.922,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_058",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 55.3654,
+  "anomalyScore": 1.464,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_059",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 56.1578,
+  "anomalyScore": 1.023,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_060",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 58.0433,
+  "anomalyScore": 0.024,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_061",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 57.1467,
+  "anomalyScore": 0.474,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_062",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 61.0343,
+  "anomalyScore": 1.686,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_063",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 56.4819,
+  "anomalyScore": 0.843,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_064",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 58.8039,
+  "anomalyScore": 0.447,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_065",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 60.8833,
+  "anomalyScore": 1.602,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_066",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 59.9356,
+  "anomalyScore": 1.075,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_067",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 61.1146,
+  "anomalyScore": 1.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_068",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 59.0434,
+  "anomalyScore": 0.58,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_069",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 55.0667,
+  "anomalyScore": 1.63,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_070",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 59.3279,
+  "anomalyScore": 0.738,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_071",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 56.7909,
+  "anomalyScore": 0.672,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_072",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 57.6194,
+  "anomalyScore": 0.211,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_073",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 58.6363,
+  "anomalyScore": 0.354,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_074",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 57.6298,
+  "anomalyScore": 0.206,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_075",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 55.4374,
+  "anomalyScore": 1.424,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_076",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 58.1588,
+  "anomalyScore": 0.088,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_077",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 61.0285,
+  "anomalyScore": 1.682,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_078",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 56.4715,
+  "anomalyScore": 0.849,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_079",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 55.7967,
+  "anomalyScore": 1.224,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_080",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 56.7699,
+  "anomalyScore": 0.683,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_081",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 58.5458,
+  "anomalyScore": 0.303,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_082",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 55.5662,
+  "anomalyScore": 1.352,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_083",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 58.7561,
+  "anomalyScore": 0.42,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_084",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 57.5806,
+  "anomalyScore": 0.233,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_085",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 58.6091,
+  "anomalyScore": 0.338,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_086",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 57.8657,
+  "anomalyScore": 0.075,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_087",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 59.0311,
+  "anomalyScore": 0.573,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_088",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 56.481,
+  "anomalyScore": 0.844,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_089",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 60.1578,
+  "anomalyScore": 1.199,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_090",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 61.3136,
+  "anomalyScore": 1.841,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_091",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 59.4721,
+  "anomalyScore": 0.818,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_092",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 59.1752,
+  "anomalyScore": 0.653,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_093",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 61.2317,
+  "anomalyScore": 1.795,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_094",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 60.3109,
+  "anomalyScore": 1.284,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_095",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 57.1414,
+  "anomalyScore": 0.477,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_096",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 59.6626,
+  "anomalyScore": 0.924,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_097",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 57.6762,
+  "anomalyScore": 0.18,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_098",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 57.8066,
+  "anomalyScore": 0.107,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_099",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 60.2258,
+  "anomalyScore": 1.237,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_100",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 58.0407,
+  "anomalyScore": 0.023,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_101",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 55.871,
+  "anomalyScore": 1.183,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_102",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 57.3362,
+  "anomalyScore": 0.369,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_103",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 56.0359,
+  "anomalyScore": 1.091,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_104",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 56.1069,
+  "anomalyScore": 1.052,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_105",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 57.7526,
+  "anomalyScore": 0.137,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_106",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 58.4411,
+  "anomalyScore": 0.245,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_107",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 58.2406,
+  "anomalyScore": 0.134,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_108",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 55.8742,
+  "anomalyScore": 1.181,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_109",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 58.2568,
+  "anomalyScore": 0.143,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_110",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 58.4632,
+  "anomalyScore": 0.257,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_111",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 60.6372,
+  "anomalyScore": 1.465,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_112",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 61.0994,
+  "anomalyScore": 1.722,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_113",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 56.818,
+  "anomalyScore": 0.657,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_114",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 60.9308,
+  "anomalyScore": 1.628,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_115",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 60.9376,
+  "anomalyScore": 1.632,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_116",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 61.0784,
+  "anomalyScore": 1.71,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_117",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 58.4902,
+  "anomalyScore": 0.272,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_118",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 60.9382,
+  "anomalyScore": 1.632,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_119",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 60.5591,
+  "anomalyScore": 1.422,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_120",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 59.96,
+  "anomalyScore": 1.089,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_121",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 60.0121,
+  "anomalyScore": 1.118,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_122",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 59.2643,
+  "anomalyScore": 0.702,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_123",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 59.3497,
+  "anomalyScore": 0.75,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_124",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 57.7513,
+  "anomalyScore": 0.138,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_125",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 56.8326,
+  "anomalyScore": 0.649,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_126",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 59.0572,
+  "anomalyScore": 0.587,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_127",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 59.4088,
+  "anomalyScore": 0.783,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_128",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 60.1772,
+  "anomalyScore": 1.21,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_129",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 62.7176,
+  "anomalyScore": 2.621,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_130",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 63.0264,
+  "anomalyScore": 2.792,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_131",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 58.4913,
+  "anomalyScore": 0.273,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_132",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 53.8601,
+  "anomalyScore": 2.3,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_133",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 61.3829,
+  "anomalyScore": 1.879,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_134",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 60.5752,
+  "anomalyScore": 1.431,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_135",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 59.881,
+  "anomalyScore": 1.045,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_136",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 60.626,
+  "anomalyScore": 1.459,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_137",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 62.1344,
+  "anomalyScore": 2.297,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_138",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 61.623,
+  "anomalyScore": 2.013,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_139",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 62.3966,
+  "anomalyScore": 2.443,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_140",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 63.1964,
+  "anomalyScore": 2.887,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_141",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 62.9691,
+  "anomalyScore": 2.761,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_142",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 60.8145,
+  "anomalyScore": 1.564,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_143",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 62.2253,
+  "anomalyScore": 2.347,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_144",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 60.3211,
+  "anomalyScore": 1.289,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_145",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 61.0577,
+  "anomalyScore": 1.699,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_146",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 64.8576,
+  "anomalyScore": 3.81,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_147",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 60.2507,
+  "anomalyScore": 1.25,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_148",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 61.9738,
+  "anomalyScore": 2.208,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_149",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 62.3545,
+  "anomalyScore": 2.419,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_150",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 64.1613,
+  "anomalyScore": 3.423,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_151",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 59.6713,
+  "anomalyScore": 0.929,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_152",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 60.6133,
+  "anomalyScore": 1.452,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_153",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 61.4202,
+  "anomalyScore": 1.9,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_154",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 61.2766,
+  "anomalyScore": 1.82,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_155",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 60.6501,
+  "anomalyScore": 1.472,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_156",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 64.9977,
+  "anomalyScore": 3.888,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_157",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 67.5957,
+  "anomalyScore": 5.331,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_158",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 64.9844,
+  "anomalyScore": 3.88,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_159",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 64.1657,
+  "anomalyScore": 3.425,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_160",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 65.9728,
+  "anomalyScore": 4.429,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_161",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 66.2078,
+  "anomalyScore": 4.56,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_162",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 64.1336,
+  "anomalyScore": 3.408,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_163",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 68.9643,
+  "anomalyScore": 6.091,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_164",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 64.7227,
+  "anomalyScore": 3.735,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_165",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 66.345,
+  "anomalyScore": 4.636,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_166",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 64.4735,
+  "anomalyScore": 3.596,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_motortemperature_167",
+  "sensor": "sen_grainger_elev2_motortemperature",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 65.7786,
+  "anomalyScore": 4.321,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_000",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 4.2135,
+  "anomalyScore": 0.09,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_001",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 4.1246,
+  "anomalyScore": 0.503,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_002",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 4.0084,
+  "anomalyScore": 1.277,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_003",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 4.2473,
+  "anomalyScore": 0.315,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_004",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 4.0056,
+  "anomalyScore": 1.296,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_005",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 4.0231,
+  "anomalyScore": 1.179,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_006",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 3.9509,
+  "anomalyScore": 1.661,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_007",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 4.1638,
+  "anomalyScore": 0.241,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_008",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 4.3617,
+  "anomalyScore": 1.078,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_009",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 4.182,
+  "anomalyScore": 0.12,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_010",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 3.8805,
+  "anomalyScore": 2.13,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_011",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 4.2751,
+  "anomalyScore": 0.501,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_012",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 4.2417,
+  "anomalyScore": 0.278,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_013",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 4.3236,
+  "anomalyScore": 0.824,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_014",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 4.4375,
+  "anomalyScore": 1.583,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_015",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 4.509,
+  "anomalyScore": 2.06,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_016",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 4.231,
+  "anomalyScore": 0.206,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_017",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 4.3144,
+  "anomalyScore": 0.763,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_018",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 4.1145,
+  "anomalyScore": 0.57,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_019",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 4.1945,
+  "anomalyScore": 0.037,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_020",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 4.4553,
+  "anomalyScore": 1.702,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_021",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 4.1411,
+  "anomalyScore": 0.393,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_022",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 4.3376,
+  "anomalyScore": 0.917,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_023",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 4.406,
+  "anomalyScore": 1.373,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_024",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 4.2388,
+  "anomalyScore": 0.259,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_025",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 4.5428,
+  "anomalyScore": 2.285,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_026",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 4.2254,
+  "anomalyScore": 0.169,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_027",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 3.9563,
+  "anomalyScore": 1.625,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_028",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 4.105,
+  "anomalyScore": 0.633,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_029",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 4.1022,
+  "anomalyScore": 0.652,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_030",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 3.9239,
+  "anomalyScore": 1.841,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_031",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 4.2401,
+  "anomalyScore": 0.267,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_032",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 4.138,
+  "anomalyScore": 0.414,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_033",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 3.8836,
+  "anomalyScore": 2.11,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_034",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 4.4494,
+  "anomalyScore": 1.663,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_035",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 4.2429,
+  "anomalyScore": 0.286,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_036",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 4.2015,
+  "anomalyScore": 0.01,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_037",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 4.3115,
+  "anomalyScore": 0.744,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_038",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 4.4668,
+  "anomalyScore": 1.779,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_039",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 4.3018,
+  "anomalyScore": 0.679,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_040",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 4.0213,
+  "anomalyScore": 1.191,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_041",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 4.4202,
+  "anomalyScore": 1.468,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_042",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 4.3194,
+  "anomalyScore": 0.796,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_043",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 4.3571,
+  "anomalyScore": 1.047,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_044",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 4.2791,
+  "anomalyScore": 0.527,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_045",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 4.3208,
+  "anomalyScore": 0.805,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_046",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 4.2294,
+  "anomalyScore": 0.196,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_047",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 4.0878,
+  "anomalyScore": 0.748,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_048",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 4.3092,
+  "anomalyScore": 0.728,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_049",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 4.0074,
+  "anomalyScore": 1.284,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_050",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 4.2984,
+  "anomalyScore": 0.656,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_051",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 4.4258,
+  "anomalyScore": 1.505,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_052",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 4.0889,
+  "anomalyScore": 0.741,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_053",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 4.2265,
+  "anomalyScore": 0.176,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_054",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 4.064,
+  "anomalyScore": 0.907,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_055",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 4.114,
+  "anomalyScore": 0.573,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_056",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 4.0356,
+  "anomalyScore": 1.096,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_057",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 4.008,
+  "anomalyScore": 1.28,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_058",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 3.8633,
+  "anomalyScore": 2.245,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_059",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 4.1501,
+  "anomalyScore": 0.333,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_060",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 4.304,
+  "anomalyScore": 0.694,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_061",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 4.3084,
+  "anomalyScore": 0.723,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_062",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 4.065,
+  "anomalyScore": 0.9,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_063",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 4.1939,
+  "anomalyScore": 0.041,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_064",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 4.13,
+  "anomalyScore": 0.467,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_065",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 4.2725,
+  "anomalyScore": 0.484,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_066",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 4.4403,
+  "anomalyScore": 1.602,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_067",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 4.3075,
+  "anomalyScore": 0.717,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_068",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 4.1503,
+  "anomalyScore": 0.331,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_069",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 4.1555,
+  "anomalyScore": 0.297,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_070",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 4.3148,
+  "anomalyScore": 0.765,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_071",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 4.1254,
+  "anomalyScore": 0.497,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_072",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 4.214,
+  "anomalyScore": 0.093,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_073",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 4.0352,
+  "anomalyScore": 1.099,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_074",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 3.9835,
+  "anomalyScore": 1.443,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_075",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 4.1224,
+  "anomalyScore": 0.517,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_076",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 4.2978,
+  "anomalyScore": 0.652,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_077",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 3.9601,
+  "anomalyScore": 1.6,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_078",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 4.0274,
+  "anomalyScore": 1.151,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_079",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 4.2047,
+  "anomalyScore": 0.031,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_080",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 4.1435,
+  "anomalyScore": 0.376,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_081",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 4.0541,
+  "anomalyScore": 0.972,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_082",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 3.9096,
+  "anomalyScore": 1.936,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_083",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 4.2702,
+  "anomalyScore": 0.468,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_084",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 3.9846,
+  "anomalyScore": 1.436,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_085",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 4.2281,
+  "anomalyScore": 0.187,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_086",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 4.5147,
+  "anomalyScore": 2.098,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_087",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 4.2536,
+  "anomalyScore": 0.357,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_088",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 4.2219,
+  "anomalyScore": 0.146,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_089",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 4.1778,
+  "anomalyScore": 0.148,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_090",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 4.2177,
+  "anomalyScore": 0.118,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_091",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 3.9586,
+  "anomalyScore": 1.61,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_092",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 4.0381,
+  "anomalyScore": 1.079,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_093",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 4.3492,
+  "anomalyScore": 0.995,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_094",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 4.2089,
+  "anomalyScore": 0.059,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_095",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 4.3607,
+  "anomalyScore": 1.071,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_096",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 4.2427,
+  "anomalyScore": 0.285,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_097",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 4.0111,
+  "anomalyScore": 1.26,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_098",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 4.3167,
+  "anomalyScore": 0.778,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_099",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 4.304,
+  "anomalyScore": 0.693,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_100",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 4.3766,
+  "anomalyScore": 1.177,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_101",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 4.1998,
+  "anomalyScore": 0.001,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_102",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 3.9719,
+  "anomalyScore": 1.521,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_103",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 4.2157,
+  "anomalyScore": 0.105,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_104",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 4.2643,
+  "anomalyScore": 0.429,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_105",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 4.3184,
+  "anomalyScore": 0.789,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_106",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 4.1422,
+  "anomalyScore": 0.385,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_107",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 4.2597,
+  "anomalyScore": 0.398,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_108",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 4.0839,
+  "anomalyScore": 0.774,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_109",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 4.4938,
+  "anomalyScore": 1.958,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_110",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 4.1101,
+  "anomalyScore": 0.599,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_111",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 4.151,
+  "anomalyScore": 0.326,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_112",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 4.171,
+  "anomalyScore": 0.194,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_113",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 4.4059,
+  "anomalyScore": 1.373,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_114",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 4.2403,
+  "anomalyScore": 0.269,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_115",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 4.1625,
+  "anomalyScore": 0.25,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_116",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 4.3101,
+  "anomalyScore": 0.734,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_117",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 4.0461,
+  "anomalyScore": 1.026,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_118",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 4.3259,
+  "anomalyScore": 0.839,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_119",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 4.2843,
+  "anomalyScore": 0.562,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_120",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 4.2018,
+  "anomalyScore": 0.012,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_121",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 4.0561,
+  "anomalyScore": 0.959,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_122",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 4.134,
+  "anomalyScore": 0.44,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_123",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 4.1205,
+  "anomalyScore": 0.53,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_124",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 4.2831,
+  "anomalyScore": 0.554,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_125",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 4.3096,
+  "anomalyScore": 0.73,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_126",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 4.2613,
+  "anomalyScore": 0.408,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_127",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 4.4893,
+  "anomalyScore": 1.929,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_128",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 4.1935,
+  "anomalyScore": 0.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_129",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 3.9969,
+  "anomalyScore": 1.354,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_130",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 4.0907,
+  "anomalyScore": 0.728,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_131",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 4.211,
+  "anomalyScore": 0.073,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_132",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 4.2437,
+  "anomalyScore": 0.291,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_133",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 4.1252,
+  "anomalyScore": 0.499,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_134",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 4.5624,
+  "anomalyScore": 2.416,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_135",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 4.1485,
+  "anomalyScore": 0.343,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_136",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 4.1761,
+  "anomalyScore": 0.16,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_137",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 4.2437,
+  "anomalyScore": 0.291,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_138",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 4.3428,
+  "anomalyScore": 0.952,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_139",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 4.1805,
+  "anomalyScore": 0.13,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_140",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 4.4272,
+  "anomalyScore": 1.515,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_141",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 4.5397,
+  "anomalyScore": 2.265,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_142",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 4.582,
+  "anomalyScore": 2.546,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_143",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 4.3605,
+  "anomalyScore": 1.07,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_144",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 4.6073,
+  "anomalyScore": 2.715,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_145",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 4.0851,
+  "anomalyScore": 0.766,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_146",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 4.2242,
+  "anomalyScore": 0.161,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_147",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 4.608,
+  "anomalyScore": 2.72,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_148",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 4.2059,
+  "anomalyScore": 0.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_149",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 4.3339,
+  "anomalyScore": 0.893,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_150",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 4.4001,
+  "anomalyScore": 1.334,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_151",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 4.6023,
+  "anomalyScore": 2.682,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_152",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 4.403,
+  "anomalyScore": 1.353,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_153",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 4.3405,
+  "anomalyScore": 0.937,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_154",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 4.5184,
+  "anomalyScore": 2.123,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_155",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 4.5604,
+  "anomalyScore": 2.403,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_156",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 4.3387,
+  "anomalyScore": 0.924,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_157",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 4.5641,
+  "anomalyScore": 2.427,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_158",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 4.4316,
+  "anomalyScore": 1.544,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_159",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 4.2796,
+  "anomalyScore": 0.531,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_160",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 4.3395,
+  "anomalyScore": 0.93,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_161",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 4.4954,
+  "anomalyScore": 1.969,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_162",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 4.482,
+  "anomalyScore": 1.88,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_163",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 4.4734,
+  "anomalyScore": 1.823,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_164",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 4.4968,
+  "anomalyScore": 1.979,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_165",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 4.6653,
+  "anomalyScore": 3.102,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_166",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 4.4399,
+  "anomalyScore": 1.599,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_grainger_elev2_doorcycletime_167",
+  "sensor": "sen_grainger_elev2_doorcycletime",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 4.8134,
+  "anomalyScore": 4.089,
+  "isAnomaly": true
+ }
+]

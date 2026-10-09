@@ -1,0 +1,95 @@
+/**
+ * Read / aggregate façade for IlliniFix. Every page of the React UI and every tool of the
+ * IlliniFix Operations Agent reads through these JavaScript methods, so the numbers the
+ * dashboard shows and the numbers the agent quotes are always the same.
+ *
+ * Methods are read-only except {@link IlliniFixOps#createDraftWorkOrder},
+ * {@link IlliniFixOps#assignCrew} and {@link IlliniFixOps#updateWorkOrderStatus}, which write
+ * IlliniFix work-order records only (never the university's real system).
+ */
+type IlliniFixOps {
+  /**
+   * Lazy initialisation guard called once when the UI loads. If no current
+   * {@link FailurePrediction} exists (fresh deployment) it runs {@link IlliniFixTriage#triageAll}
+   * and {@link IlliniFixRiskEngine#recomputeAll}. Returns {initialized, predictionCount, ranRecompute}.
+   */
+  ensureInitialized: function(): json js
+
+  /**
+   * Command-center KPIs: campusHealthScore (occupancy-weighted building health), criticalAssets,
+   * highRiskAssets, predictedFailures7d (failureProbability >= 0.5), openReports, activeWorkOrders,
+   * peopleAtRisk (sum of estimatedPeopleAffected over predicted failures), assetsMonitored,
+   * anomaliesDetected24h, buildings[] for the map, topRisks[] (top 10 by priority) and
+   * workOrderStatusCounts.
+   */
+  getCampusHealth: function(): json js
+
+  /** Building drill-down: building fields plus assets[] (health, risk, priority), zones, active reports and predicted failures. */
+  getBuildingHealth: function(buildingId: string): json js
+
+  /** Assets whose status is Warning/Critical or whose current riskLevel is High/Critical/Moderate, sorted by priorityScore descending. */
+  getCriticalAssets: function(): json js
+
+  /** Every asset with its building / zone, current prediction fields and open work-order flag, sorted by priorityScore descending (Assets page). */
+  getAssets: function(): json js
+
+  /** Human reports newest first. filterName: All, Open, Emergency, Correlated (confirm a sensor anomaly), Duplicates (in a cluster), Resolved. */
+  getReports: function(filterName: string): json js
+
+  /** Everything the asset page needs: asset + building + zone, current prediction and recommendation, history, related reports, open work orders, latest simulation. */
+  getAssetDetails: function(assetId: string): json js
+
+  /**
+   * Chart data per sensor: {sensorId, name, sensorType, unit, baselineMean, baselineStdDev, normalMin,
+   * normalMax, badDirection, readings[{t, v, z, anomaly}], anomalyCount, deviationPct (last 24h vs
+   * baseline), anomalyStartAt (first anomalous reading in the latest anomaly run)}.
+   */
+  getAssetTelemetry: function(assetId: string): json js
+
+  /** Current {@link FailurePrediction} for the asset with its current {@link MaintenanceRecommendation}. */
+  getFailurePrediction: function(assetId: string): json js
+
+  /** Human reports supporting the asset: linked to it directly, or same building + matching category within the last 7 days. */
+  getRelatedReports: function(assetId: string): json js
+
+  /** {@link MaintenanceHistory} rows for the asset, newest first. */
+  getMaintenanceHistory: function(assetId: string): json js
+
+  /**
+   * Explainability payload for an asset: prediction (probability, window, mode, confidence),
+   * evidence (contributing signals + supporting reports + history match), impact (people,
+   * accessibility, building), recommendation, and the weighted priority breakdown ("Why 94?").
+   */
+  explainRisk: function(assetId: string): json js
+
+  /** Work orders with asset / building / crew joined. filterName: All, Critical, PredictedFailure, StudentReport, Unassigned, InProgress, Completed. */
+  getWorkOrders: function(filterName: string): json js
+
+  /** Crews with skills, start building, remaining hours, status and their current assignments. */
+  getAvailableCrews: function(): json js
+
+  /**
+   * Risk trend for the last 7 days derived from {@link SensorReading} anomalies: per day the
+   * number of assets with >= 3 anomalous readings (highRisk) and >= 8 (critical). Real derived
+   * data, not a stored series.
+   */
+  getRiskTrend: function(): json js
+
+  /** Duplicate-report clusters: groups of reports sharing a duplicateGroupId with size, confidence, likely underlying issue and the primary (earliest) report. */
+  getReportClusters: function(): json js
+
+  /** Impact analytics for the Analytics page. All figures are labelled simulated / projected in the UI. */
+  getAnalyticsSummary: function(): json js
+
+  /** Assets with failureProbability >= 0.5 that have no open (Draft/Scheduled/Assigned/InProgress) work order. */
+  getHighRiskWithoutWorkOrder: function(): json js
+
+  /** Creates a Draft {@link WorkOrder} (source PredictedFailure, isDemoGenerated true) from the asset's current prediction and recommendation. Returns the created work order. */
+  createDraftWorkOrder: function(assetId: string): json js
+
+  /** Assigns a crew to a work order (status → Assigned) and marks the crew Assigned. */
+  assignCrew: function(workOrderId: string, crewId: string): json js
+
+  /** Moves a work order to the given status (Draft, Scheduled, Assigned, InProgress, Completed, Cancelled). */
+  updateWorkOrderStatus: function(workOrderId: string, status: string): json js
+}

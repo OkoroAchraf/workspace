@@ -1,0 +1,85 @@
+/**
+ * A piece of physical campus equipment that IlliniFix monitors: elevators, HVAC air
+ * handlers, pumps, boilers, electrical panels and generators.
+ *
+ * Static attributes (type, location, manufacturer, maintenance dates, criticality, impact
+ * estimates) come from seed data. The rollup fields {@link MaintenanceAsset#healthScore},
+ * {@link MaintenanceAsset#currentFailureProbability}, {@link MaintenanceAsset#priorityScore}
+ * and {@link MaintenanceAsset#status} are overwritten by {@link IlliniFixRiskEngine#recomputeAll}
+ * from the latest {@link FailurePrediction}; they are never edited by hand.
+ *
+ * Health bands: 90-100 Healthy, 75-89 Monitor, 50-74 Warning, 0-49 Critical.
+ */
+entity type MaintenanceAsset {
+  /** Human-readable asset name shown throughout the UI, e.g. "Grainger Elevator #2". */
+  assetName: !string
+
+  /** Equipment class. Determines the sensor template, failure-mode library and required crew skill. */
+  assetType: !string enum('Elevator', 'HVAC', 'Pump', 'Boiler', 'ElectricalPanel', 'Generator', 'WaterSystem', 'LightingSystem', 'DoorAccessSystem', 'FireSafetyEquipment')
+
+  /** Building that houses the asset. */
+  building: !CampusBuilding
+
+  /** Zone (floor / mechanical room) where the asset sits; optional for building-wide systems. */
+  zone: CampusZone
+
+  /** Equipment manufacturer (display only). */
+  manufacturer: string
+
+  /** Manufacturer model designation (display only). Named modelNumber to avoid platform reserved words. */
+  modelNumber: string
+
+  /** Date the asset was commissioned; age in years is shown on the asset page. */
+  installationDate: datetime
+
+  /** Date of the most recent maintenance activity (see {@link MaintenanceHistory}). */
+  lastMaintenanceDate: datetime
+
+  /** Next planned preventive maintenance. When in the past the asset is "overdue" and the risk model's O feature rises. */
+  nextScheduledMaintenanceDate: datetime
+
+  /** Safety / operational criticality of the asset; 20% of the maintenance priority score. */
+  assetCriticality: string enum('Low', 'Moderate', 'High', 'Critical')
+
+  /** Health score 0-100 computed by the risk engine from failure probability, anomaly severity, overdue maintenance, reports and criticality. */
+  healthScore: double
+
+  /** Current predicted probability of failure (0-1) copied from the latest {@link FailurePrediction#failureProbability}. */
+  currentFailureProbability: double
+
+  /** Maintenance priority 0-100 copied from the latest {@link FailurePrediction#priorityScore}; the ranking key for "Highest Priority Issues". */
+  priorityScore: double
+
+  /** Operating state. Healthy/Monitor/Warning/Critical are derived from healthScore; Offline and Maintenance are set by operations. */
+  status: string enum('Healthy', 'Monitor', 'Warning', 'Critical', 'Offline', 'Maintenance')
+
+  /** Estimated daily users disrupted if the asset fails (e.g. 1,100 for a library elevator). 15% of priority. */
+  estimatedPeopleAffected: int
+
+  /** Accessibility consequence of losing the asset (an elevator serving upper floors is Critical). 15% of priority. */
+  accessibilityImpact: string enum('None', 'Low', 'Moderate', 'High', 'Critical')
+
+  /** Floors the asset serves, e.g. "1-4" for an elevator; used in the failure blast-radius simulation. */
+  floorsServed: string
+
+  /** True when the asset has live {@link Sensor}s producing {@link SensorReading}s. */
+  isMonitored: boolean
+
+  /** Telemetry sensors attached to this asset ({@link Sensor#asset}). */
+  sensors: [Sensor](asset)
+
+  /** Past maintenance events ({@link MaintenanceHistory#asset}); used for the H (history match) feature. */
+  maintenanceHistory: [MaintenanceHistory](asset)
+
+  /** All predictions ever generated for the asset ({@link FailurePrediction#asset}); the current one has isCurrent = true. */
+  predictions: [FailurePrediction](asset)
+
+  /** Recommended actions ({@link MaintenanceRecommendation#asset}). */
+  recommendations: [MaintenanceRecommendation](asset)
+
+  /** Work orders raised against the asset ({@link WorkOrder#asset}). */
+  workOrders: [WorkOrder](asset)
+
+  /** Human reports the triage engine linked to this asset ({@link StudentReport#asset}). */
+  reports: [StudentReport](asset)
+}

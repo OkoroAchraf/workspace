@@ -1,0 +1,24 @@
+/**
+ * Maintenance crew optimizer. Turns open {@link WorkOrder}s plus crew constraints (skills,
+ * start location, shift hours) into a day plan that maximises priority-weighted risk
+ * reduction.
+ *
+ * Method: greedy heuristic `greedy-risk-reduction-per-hour-v1` — repeatedly give each crew the
+ * feasible job (skill match, fits remaining hours including travel) with the highest
+ * (priorityScore/100 x (0.25 + expectedRiskReduction)) per hour, with a mild bonus for staying
+ * in the same building. It is not a formal solver and the UI says so.
+ */
+type IlliniFixPlanner {
+  /**
+   * Builds and persists a new current {@link MaintenancePlan} with {@link CrewAssignment}s for the
+   * given crews (all Available crews when crewIds is empty) and shift length (default 8 h).
+   * Scheduled work orders move to Scheduled with assignedCrew set. Returns the plan payload.
+   */
+  optimizePlan: function(crewIds: [string], shiftHours: double): json py
+
+  /** Returns the current plan payload (summary) or null when no plan exists. */
+  getCurrentPlan: function(): json py
+
+  /** Deletes all plans and assignments and unassigns planner-scheduled work orders. */
+  clearPlan: function(): json py
+}

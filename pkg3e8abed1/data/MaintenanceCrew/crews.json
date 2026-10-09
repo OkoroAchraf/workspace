@@ -1,0 +1,62 @@
+[
+ {
+  "id": "crew_alpha",
+  "name": "Crew Alpha",
+  "skills": [
+   "Mechanical",
+   "Elevator"
+  ],
+  "currentBuilding": "bld_grainger",
+  "shiftStart": "08:00",
+  "shiftEnd": "16:00",
+  "availableHours": 8.0,
+  "status": "Available",
+  "crewSize": 2,
+  "leadName": "M. Okafor"
+ },
+ {
+  "id": "crew_bravo",
+  "name": "Crew Bravo",
+  "skills": [
+   "HVAC",
+   "Mechanical"
+  ],
+  "currentBuilding": "bld_cif",
+  "shiftStart": "08:00",
+  "shiftEnd": "16:00",
+  "availableHours": 8.0,
+  "status": "Available",
+  "crewSize": 2,
+  "leadName": "J. Hernandez"
+ },
+ {
+  "id": "crew_charlie",
+  "name": "Crew Charlie",
+  "skills": [
+   "Electrical",
+   "General"
+  ],
+  "currentBuilding": "bld_eceb",
+  "shiftStart": "08:00",
+  "shiftEnd": "16:00",
+  "availableHours": 8.0,
+  "status": "Available",
+  "crewSize": 2,
+  "leadName": "S. Patel"
+ },
+ {
+  "id": "crew_delta",
+  "name": "Crew Delta",
+  "skills": [
+   "Plumbing",
+   "General"
+  ],
+  "currentBuilding": "bld_isr",
+  "shiftStart": "08:00",
+  "shiftEnd": "16:00",
+  "availableHours": 8.0,
+  "status": "Available",
+  "crewSize": 2,
+  "leadName": "D. Nguyen"
+ }
+]

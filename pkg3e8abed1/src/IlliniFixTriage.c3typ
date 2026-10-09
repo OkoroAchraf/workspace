@@ -1,0 +1,30 @@
+/**
+ * AI triage for human maintenance reports and the human + machine correlation engine.
+ *
+ * Classification is a transparent keyword model (category, probable issue, severity,
+ * emergency flag) so the demo is deterministic. Asset linking uses building + category to
+ * find candidate {@link MaintenanceAsset}s and prefers the one with the strongest current
+ * sensor anomaly. Duplicate detection groups reports in the same building and category
+ * within 48 hours whose wording overlaps (token Jaccard + shared room numbers). Correlation
+ * confidence combines sensor anomaly presence, report count, keyword / failure-mode agreement,
+ * time overlap with the anomaly window and maintenance history.
+ */
+type IlliniFixTriage {
+  /** Creates a {@link StudentReport} from the reporter's input and triages it. Returns the triage result (see {@link IlliniFixTriage#triageReport}). */
+  submitReport: function(description: string, buildingId: string, zoneId: string, imageUrl: string, reporterType: string): json py
+
+  /**
+   * Classifies one report and persists category, severity, probableIssue, confidence, asset,
+   * duplicateGroupId, duplicateProbability, emergencyFlag, relatedAnomaly, correlationConfidence
+   * and triageSummary. Returns {reportId, category, severity, probableIssue, confidence,
+   * likelyAsset, relatedAnomaly, failureProbability, correlationConfidence, relatedReports,
+   * duplicateGroupId, duplicateProbability, emergencyFlag, emergencyGuidance, recommendedResponse}.
+   */
+  triageReport: function(reportId: string): json py
+
+  /** Triages every report (oldest first so duplicate clusters form chronologically). Returns {triaged, clusters}. */
+  triageAll: function(): json py
+
+  /** Human + machine correlation for an asset: machineSignals[], humanSignals[], historicalSignal, confidence, probableFailure, verdict. */
+  getCorrelation: function(assetId: string): json py
+}

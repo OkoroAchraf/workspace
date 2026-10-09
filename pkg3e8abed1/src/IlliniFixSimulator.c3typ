@@ -1,0 +1,17 @@
+/**
+ * What-if simulations. Failure simulation quantifies the blast radius of doing nothing
+ * (people affected, accessibility impact, load shifted to alternative assets, impacted floors,
+ * projected building and campus health). Repair simulation shows the projected campus KPIs
+ * after the recommended action. Results are persisted as {@link SimulationScenario} rows; the
+ * real {@link MaintenanceAsset} state is never changed.
+ */
+type IlliniFixSimulator {
+  /** Simulates the asset going offline. Returns {scenarioId, headline, before{...}, after{...}, impacts{...}}. */
+  simulateAssetFailure: function(assetId: string): json py
+
+  /** Simulates completing the asset's recommended repair. Returns before / after campus health, critical assets, people at risk and the deltas. */
+  simulateRepair: function(assetId: string): json py
+
+  /** All stored scenarios, newest first, with asset name and building. */
+  listScenarios: function(): json py
+}

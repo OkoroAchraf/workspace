@@ -1,0 +1,31 @@
+/**
+ * The IlliniFix predictive-maintenance model: a transparent statistical anomaly detector plus
+ * a fixed-coefficient logistic risk model (model version `statistical-zscore-logistic-v1`).
+ *
+ * Per sensor: z-scores against the {@link Sensor} baseline, mean deviation over the last 24 h,
+ * anomaly count over the last 24 readings, and the 72 h trend slope in standard deviations per
+ * day. Per asset: anomaly severity A = 0.6 x worst sensor severity + 0.4 x mean severity
+ * (severity = clamp(z_bad / 4)), trend T, related-report signal R (reports in 7 days / 3),
+ * history match H (a prior corrective record with the inferred failure mode), overdue
+ * maintenance O (days overdue / 30). failureProbability = sigmoid(-3.3 + 3.2A + 1.0T + 0.7R
+ * + 0.5H + 0.5O). Health = 100 - (30p + 12A + 8O + 6R + 8p x criticalityWeight). Priority =
+ * 100 x (0.35p + 0.20 criticality + 0.15 accessibility + 0.15 people + 0.10 operational + 0.05R).
+ *
+ * Nothing is hard-coded per asset: the demo scenarios produce their numbers purely through
+ * the telemetry, reports and history in the database.
+ */
+type IlliniFixRiskEngine {
+  /**
+   * Scores every monitored asset, writes a new current {@link FailurePrediction} and
+   * {@link MaintenanceRecommendation} per asset (previous ones become non-current), updates
+   * {@link MaintenanceAsset} rollups, {@link CampusBuilding} rollups and
+   * {@link SensorReading#isAnomaly} flags. Returns {assetsScored, predictions[], campusHealth, durationMs}.
+   */
+  recomputeAll: function(): json py
+
+  /** Computes the full feature / prediction / recommendation object for one asset without persisting anything (used for explanations and tests). */
+  scoreAsset: function(assetId: string): json py
+
+  /** Scores and persists one asset, then refreshes its building rollup. Returns the prediction. */
+  recomputeAsset: function(assetId: string): json py
+}

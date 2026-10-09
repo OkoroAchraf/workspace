@@ -1,0 +1,25 @@
+/**
+ * One hourly telemetry sample from a {@link Sensor}. Seven days of readings per sensor are
+ * generated deterministically (see `resource/generate_demo_data.py` and
+ * {@link IlliniFixDemo#seedTelemetry}); the demo scenarios ramp selected channels over the
+ * final 24-120 hours so degradation is visible on the asset page charts.
+ *
+ * {@link SensorReading#anomalyScore} and {@link SensorReading#isAnomaly} are derived values:
+ * the absolute z-score against the sensor baseline, flagged when |z| exceeds 2.5.
+ */
+entity type SensorReading {
+  /** Sensor that produced the sample. */
+  sensor: !Sensor
+
+  /** Sample time (UTC, top of the hour). */
+  timestamp: !datetime
+
+  /** Measured value in the sensor's {@link Sensor#unit}. */
+  value: !double
+
+  /** |value - baselineMean| / baselineStdDev. Values above 2.5 are anomalous; above 4 saturate the severity model. */
+  anomalyScore: double
+
+  /** True when anomalyScore > 2.5; highlighted on telemetry charts and counted in "anomalies detected". */
+  isAnomaly: boolean
+}

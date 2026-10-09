@@ -1,0 +1,30 @@
+/**
+ * A floor, wing, room cluster or mechanical room inside a {@link CampusBuilding}.
+ *
+ * Zones let a {@link StudentReport} be attached more precisely than "the building" and let
+ * {@link IlliniFixSimulator#simulateAssetFailure} estimate who is affected when an asset in
+ * the zone goes offline. The zone `name` (default entity field) is the display label,
+ * e.g. "Grainger Floor 2" or "CIF Lecture Wing".
+ */
+entity type CampusZone {
+  /** Building that contains this zone. */
+  building: !CampusBuilding
+
+  /** Floor number (0 = basement / mechanical level). */
+  floor: int
+
+  /** Functional classification of the zone; drives the operational-impact weight in priority scoring. */
+  zoneType: string enum('Floor', 'LectureWing', 'MechanicalRoom', 'Lobby', 'Residential', 'Library', 'Lab', 'Gym', 'Office')
+
+  /** Estimated people present in the zone on a typical day; feeds {@link MaintenanceAsset#estimatedPeopleAffected}. */
+  estimatedOccupancy: int
+
+  /** True when the zone can only be reached by an accessible route (e.g. upper floors served by an elevator). */
+  requiresAccessibleRoute: boolean
+
+  /** Assets physically located in this zone ({@link MaintenanceAsset#zone}). */
+  assets: [MaintenanceAsset](zone)
+
+  /** Reports filed against this zone ({@link StudentReport#zone}). */
+  reports: [StudentReport](zone)
+}

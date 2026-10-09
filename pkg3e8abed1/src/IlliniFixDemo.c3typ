@@ -1,0 +1,28 @@
+/**
+ * Demo Mode — deterministic controls for the hackathon presentation. The model stays real;
+ * these methods only change the simulated inputs so the story cannot fail on stage.
+ *
+ * Telemetry is regenerated with the same hash-noise formula used to produce the seed files
+ * (`resource/generate_demo_data.py`): baseline + daily cycle + sha256-seeded gaussian noise,
+ * plus scripted degradation profiles for the demo assets. Everything created by Demo Mode is
+ * flagged isDemoGenerated so {@link IlliniFixDemo#resetDemo} can remove it.
+ */
+type IlliniFixDemo {
+  /** Regenerates 7 days of hourly {@link SensorReading}s for every sensor ending now, including all scripted degradation profiles (the full seed state), then recomputes risk. */
+  seedTelemetry: function(): json py
+
+  /** Re-applies the Grainger Elevator #2 degradation profile (motor current, vibration, temperature rising over 72 h) and recomputes. Returns the new prediction. */
+  injectElevatorDegradation: function(): json py
+
+  /** Re-applies the CIF HVAC #7 degradation profile (supply temperature up, fan current up, airflow down) and recomputes. */
+  injectHvacFailure: function(): json py
+
+  /** Submits the scripted student report ("The elevator in Grainger was shaking and making a grinding noise.") through triage. */
+  submitDemoReport: function(): json py
+
+  /** Restores clean telemetry for the two demo assets (others keep their profiles), deletes demo-generated reports / work orders / scenarios / plans, recomputes. */
+  resetDemo: function(): json py
+
+  /** Current demo state: elevatorDegraded, hvacDegraded, demoReports, demoWorkOrders, scenarios, planExists, telemetryEndsAt. */
+  getDemoState: function(): json py
+}

@@ -1,0 +1,182 @@
+[
+ {
+  "id": "zone_grainger_f1",
+  "building": "bld_grainger",
+  "name": "Grainger Floor 1 Commons",
+  "floor": 1,
+  "zoneType": "Library",
+  "estimatedOccupancy": 1800,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_grainger_f2",
+  "building": "bld_grainger",
+  "name": "Grainger Floor 2",
+  "floor": 2,
+  "zoneType": "Library",
+  "estimatedOccupancy": 1400,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_grainger_f4",
+  "building": "bld_grainger",
+  "name": "Grainger Floor 4 Quiet Study",
+  "floor": 4,
+  "zoneType": "Library",
+  "estimatedOccupancy": 900,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_grainger_mech",
+  "building": "bld_grainger",
+  "name": "Grainger Mechanical Penthouse",
+  "floor": 5,
+  "zoneType": "MechanicalRoom",
+  "estimatedOccupancy": 5,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_siebel_atrium",
+  "building": "bld_siebel",
+  "name": "Siebel Atrium",
+  "floor": 1,
+  "zoneType": "Lobby",
+  "estimatedOccupancy": 900,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_siebel_labs",
+  "building": "bld_siebel",
+  "name": "Siebel 2nd Floor Labs",
+  "floor": 2,
+  "zoneType": "Lab",
+  "estimatedOccupancy": 700,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_siebel_mech",
+  "building": "bld_siebel",
+  "name": "Siebel Basement Mechanical",
+  "floor": 0,
+  "zoneType": "MechanicalRoom",
+  "estimatedOccupancy": 4,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_cif_lecture",
+  "building": "bld_cif",
+  "name": "CIF Lecture Wing",
+  "floor": 2,
+  "zoneType": "LectureWing",
+  "estimatedOccupancy": 1600,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_cif_lobby",
+  "building": "bld_cif",
+  "name": "CIF Ground Floor Lobby",
+  "floor": 1,
+  "zoneType": "Lobby",
+  "estimatedOccupancy": 1200,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_cif_mech",
+  "building": "bld_cif",
+  "name": "CIF Rooftop Mechanical",
+  "floor": 4,
+  "zoneType": "MechanicalRoom",
+  "estimatedOccupancy": 3,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_eceb_east",
+  "building": "bld_eceb",
+  "name": "ECEB East Wing",
+  "floor": 2,
+  "zoneType": "Lab",
+  "estimatedOccupancy": 800,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_eceb_aud",
+  "building": "bld_eceb",
+  "name": "ECEB Auditorium Level",
+  "floor": 1,
+  "zoneType": "LectureWing",
+  "estimatedOccupancy": 900,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_eceb_mech",
+  "building": "bld_eceb",
+  "name": "ECEB Mechanical Room",
+  "floor": 0,
+  "zoneType": "MechanicalRoom",
+  "estimatedOccupancy": 4,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_arc_gym",
+  "building": "bld_arc",
+  "name": "ARC Main Gym",
+  "floor": 1,
+  "zoneType": "Gym",
+  "estimatedOccupancy": 2500,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_arc_pool",
+  "building": "bld_arc",
+  "name": "ARC Pool Deck",
+  "floor": 1,
+  "zoneType": "Gym",
+  "estimatedOccupancy": 600,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_arc_mech",
+  "building": "bld_arc",
+  "name": "ARC Mechanical Room",
+  "floor": 0,
+  "zoneType": "MechanicalRoom",
+  "estimatedOccupancy": 4,
+  "requiresAccessibleRoute": false
+ },
+ {
+  "id": "zone_isr_townsend",
+  "building": "bld_isr",
+  "name": "ISR Townsend Tower",
+  "floor": 5,
+  "zoneType": "Residential",
+  "estimatedOccupancy": 500,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_isr_wardall",
+  "building": "bld_isr",
+  "name": "ISR Wardall Tower",
+  "floor": 6,
+  "zoneType": "Residential",
+  "estimatedOccupancy": 500,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_isr_dining",
+  "building": "bld_isr",
+  "name": "ISR Dining & Lobby",
+  "floor": 1,
+  "zoneType": "Lobby",
+  "estimatedOccupancy": 1000,
+  "requiresAccessibleRoute": true
+ },
+ {
+  "id": "zone_isr_boiler",
+  "building": "bld_isr",
+  "name": "ISR Boiler Room",
+  "floor": 0,
+  "zoneType": "MechanicalRoom",
+  "estimatedOccupancy": 3,
+  "requiresAccessibleRoute": false
+ }
+]

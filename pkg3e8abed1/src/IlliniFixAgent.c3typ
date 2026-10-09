@@ -1,0 +1,19 @@
+/**
+ * The IlliniFix Operations Agent — a copilot for facilities operators that answers questions
+ * about asset health, failure risk, reports, work orders and crew allocation.
+ *
+ * The agent never answers from imagination: each question is routed to data tools
+ * ({@link IlliniFixOps} reads, {@link IlliniFixPlanner}, {@link IlliniFixSimulator}), the tool
+ * results become the facts, and the answer is composed from those facts. When the platform LLM
+ * client (GenaiCore `default-completions`) is available it phrases the answer; otherwise a
+ * deterministic template does. Predictions are always labelled as predictions, and the agent
+ * never claims a real university action occurred (all data is simulated).
+ */
+type IlliniFixAgent {
+  /**
+   * Answers one operator question. `history` is an optional array of prior {role, content}
+   * turns. Returns {answer (markdown), intent, facts, citations[{label, value}],
+   * suggestedActions[{label, action, assetId}], usedLlm}.
+   */
+  ask: function(question: string, history: json): json py
+}

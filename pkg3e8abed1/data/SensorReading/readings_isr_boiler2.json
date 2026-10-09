@@ -1,0 +1,4034 @@
+[
+ {
+  "id": "sr_isr_boiler2_pressure_000",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 206.0568,
+  "anomalyScore": 0.264,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_001",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 197.9056,
+  "anomalyScore": 1.774,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_002",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 198.992,
+  "anomalyScore": 1.502,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_003",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 210.4375,
+  "anomalyScore": 1.359,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_004",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 203.4265,
+  "anomalyScore": 0.393,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_005",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 195.7061,
+  "anomalyScore": 2.323,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_006",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 200.6868,
+  "anomalyScore": 1.078,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_007",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 202.5182,
+  "anomalyScore": 0.62,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_008",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 198.2397,
+  "anomalyScore": 1.69,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_009",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 200.4688,
+  "anomalyScore": 1.133,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_010",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 201.9461,
+  "anomalyScore": 0.763,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_011",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 204.6127,
+  "anomalyScore": 0.097,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_012",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 207.1687,
+  "anomalyScore": 0.542,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_013",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 204.5329,
+  "anomalyScore": 0.117,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_014",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 200.947,
+  "anomalyScore": 1.013,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_015",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 207.565,
+  "anomalyScore": 0.641,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_016",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 203.6784,
+  "anomalyScore": 0.33,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_017",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 210.3408,
+  "anomalyScore": 1.335,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_018",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 203.5798,
+  "anomalyScore": 0.355,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_019",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 207.6972,
+  "anomalyScore": 0.674,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_020",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 209.6319,
+  "anomalyScore": 1.158,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_021",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 208.8336,
+  "anomalyScore": 0.958,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_022",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 210.2417,
+  "anomalyScore": 1.31,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_023",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 208.4383,
+  "anomalyScore": 0.86,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_024",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 201.8535,
+  "anomalyScore": 0.787,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_025",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 206.2692,
+  "anomalyScore": 0.317,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_026",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 201.7872,
+  "anomalyScore": 0.803,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_027",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 204.3599,
+  "anomalyScore": 0.16,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_028",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 196.9197,
+  "anomalyScore": 2.02,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_029",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 201.5389,
+  "anomalyScore": 0.865,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_030",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 196.1263,
+  "anomalyScore": 2.218,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_031",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 197.9483,
+  "anomalyScore": 1.763,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_032",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 207.0793,
+  "anomalyScore": 0.52,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_033",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 205.6276,
+  "anomalyScore": 0.157,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_034",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 207.3569,
+  "anomalyScore": 0.589,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_035",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 200.6465,
+  "anomalyScore": 1.088,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_036",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 204.4787,
+  "anomalyScore": 0.13,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_037",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 202.7825,
+  "anomalyScore": 0.554,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_038",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 205.1947,
+  "anomalyScore": 0.049,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_039",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 208.3192,
+  "anomalyScore": 0.83,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_040",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 211.0577,
+  "anomalyScore": 1.514,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_041",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 210.1495,
+  "anomalyScore": 1.287,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_042",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 207.1836,
+  "anomalyScore": 0.546,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_043",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 210.5402,
+  "anomalyScore": 1.385,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_044",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 203.5869,
+  "anomalyScore": 0.353,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_045",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 205.0053,
+  "anomalyScore": 0.001,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_046",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 206.6296,
+  "anomalyScore": 0.407,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_047",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 204.2272,
+  "anomalyScore": 0.193,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_048",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 205.5559,
+  "anomalyScore": 0.139,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_049",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 203.261,
+  "anomalyScore": 0.435,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_050",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 207.9067,
+  "anomalyScore": 0.727,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_051",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 209.0545,
+  "anomalyScore": 1.014,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_052",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 206.8473,
+  "anomalyScore": 0.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_053",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 204.4381,
+  "anomalyScore": 0.14,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_054",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 209.2367,
+  "anomalyScore": 1.059,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_055",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 204.5788,
+  "anomalyScore": 0.105,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_056",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 201.4914,
+  "anomalyScore": 0.877,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_057",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 204.2242,
+  "anomalyScore": 0.194,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_058",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 196.7526,
+  "anomalyScore": 2.062,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_059",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 207.2585,
+  "anomalyScore": 0.565,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_060",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 203.2349,
+  "anomalyScore": 0.441,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_061",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 202.8947,
+  "anomalyScore": 0.526,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_062",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 204.7063,
+  "anomalyScore": 0.073,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_063",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 213.8374,
+  "anomalyScore": 2.209,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_064",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 212.2311,
+  "anomalyScore": 1.808,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_065",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 204.9224,
+  "anomalyScore": 0.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_066",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 212.4118,
+  "anomalyScore": 1.853,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_067",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 203.2633,
+  "anomalyScore": 0.434,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_068",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 211.2154,
+  "anomalyScore": 1.554,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_069",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 206.1621,
+  "anomalyScore": 0.291,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_070",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 208.6373,
+  "anomalyScore": 0.909,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_071",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 208.9898,
+  "anomalyScore": 0.997,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_072",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 200.1366,
+  "anomalyScore": 1.216,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_073",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 206.3928,
+  "anomalyScore": 0.348,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_074",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 200.5527,
+  "anomalyScore": 1.112,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_075",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 205.3221,
+  "anomalyScore": 0.081,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_076",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 207.7783,
+  "anomalyScore": 0.695,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_077",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 206.4403,
+  "anomalyScore": 0.36,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_078",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 205.6464,
+  "anomalyScore": 0.162,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_079",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 196.1706,
+  "anomalyScore": 2.207,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_080",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 204.2876,
+  "anomalyScore": 0.178,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_081",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 203.7104,
+  "anomalyScore": 0.322,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_082",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 198.9508,
+  "anomalyScore": 1.512,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_083",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 203.7028,
+  "anomalyScore": 0.324,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_084",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 210.847,
+  "anomalyScore": 1.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_085",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 200.3776,
+  "anomalyScore": 1.156,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_086",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 201.2963,
+  "anomalyScore": 0.926,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_087",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 202.6802,
+  "anomalyScore": 0.58,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_088",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 210.6471,
+  "anomalyScore": 1.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_089",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 210.3716,
+  "anomalyScore": 1.343,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_090",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 208.3962,
+  "anomalyScore": 0.849,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_091",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 204.042,
+  "anomalyScore": 0.24,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_092",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 200.7076,
+  "anomalyScore": 1.073,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_093",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 206.6514,
+  "anomalyScore": 0.413,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_094",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 208.8096,
+  "anomalyScore": 0.952,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_095",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 204.1306,
+  "anomalyScore": 0.217,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_096",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 205.0876,
+  "anomalyScore": 0.022,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_097",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 210.4172,
+  "anomalyScore": 1.354,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_098",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 197.5444,
+  "anomalyScore": 1.864,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_099",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 200.7481,
+  "anomalyScore": 1.063,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_100",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 194.5317,
+  "anomalyScore": 2.617,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_101",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 203.7217,
+  "anomalyScore": 0.32,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_102",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 199.3605,
+  "anomalyScore": 1.41,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_103",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 202.4054,
+  "anomalyScore": 0.649,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_104",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 201.7805,
+  "anomalyScore": 0.805,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_105",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 204.7592,
+  "anomalyScore": 0.06,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_106",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 208.9808,
+  "anomalyScore": 0.995,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_107",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 197.4985,
+  "anomalyScore": 1.875,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_108",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 200.2253,
+  "anomalyScore": 1.194,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_109",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 204.3089,
+  "anomalyScore": 0.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_110",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 203.2778,
+  "anomalyScore": 0.431,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_111",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 203.059,
+  "anomalyScore": 0.485,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_112",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 203.6106,
+  "anomalyScore": 0.347,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_113",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 202.1423,
+  "anomalyScore": 0.714,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_114",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 202.7295,
+  "anomalyScore": 0.568,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_115",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 209.0683,
+  "anomalyScore": 1.017,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_116",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 199.5358,
+  "anomalyScore": 1.366,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_117",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 207.1551,
+  "anomalyScore": 0.539,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_118",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 205.1762,
+  "anomalyScore": 0.044,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_119",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 200.9955,
+  "anomalyScore": 1.001,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_120",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 207.6292,
+  "anomalyScore": 0.657,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_121",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 208.6222,
+  "anomalyScore": 0.906,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_122",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 198.9785,
+  "anomalyScore": 1.505,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_123",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 201.2959,
+  "anomalyScore": 0.926,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_124",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 208.2474,
+  "anomalyScore": 0.812,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_125",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 202.4939,
+  "anomalyScore": 0.627,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_126",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 202.7572,
+  "anomalyScore": 0.561,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_127",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 205.747,
+  "anomalyScore": 0.187,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_128",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 199.5936,
+  "anomalyScore": 1.352,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_129",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 202.8792,
+  "anomalyScore": 0.53,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_130",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 207.4149,
+  "anomalyScore": 0.604,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_131",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 200.8008,
+  "anomalyScore": 1.05,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_132",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 201.8471,
+  "anomalyScore": 0.788,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_133",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 201.3106,
+  "anomalyScore": 0.922,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_134",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 200.7632,
+  "anomalyScore": 1.059,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_135",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 208.1749,
+  "anomalyScore": 0.794,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_136",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 204.9837,
+  "anomalyScore": 0.004,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_137",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 192.5988,
+  "anomalyScore": 3.1,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_138",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 204.4257,
+  "anomalyScore": 0.144,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_139",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 198.2661,
+  "anomalyScore": 1.683,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_140",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 194.6176,
+  "anomalyScore": 2.596,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_141",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 207.203,
+  "anomalyScore": 0.551,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_142",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 199.3402,
+  "anomalyScore": 1.415,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_143",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 210.4565,
+  "anomalyScore": 1.364,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_144",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 202.5904,
+  "anomalyScore": 0.602,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_145",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 213.3972,
+  "anomalyScore": 2.099,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_146",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 211.6285,
+  "anomalyScore": 1.657,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_147",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 207.972,
+  "anomalyScore": 0.743,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_148",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 205.1956,
+  "anomalyScore": 0.049,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_149",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 196.8672,
+  "anomalyScore": 2.033,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_150",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 190.9614,
+  "anomalyScore": 3.51,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_151",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 203.0448,
+  "anomalyScore": 0.489,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_152",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 206.8044,
+  "anomalyScore": 0.451,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_153",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 217.2225,
+  "anomalyScore": 3.056,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_154",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 196.8738,
+  "anomalyScore": 2.032,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_155",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 213.1568,
+  "anomalyScore": 2.039,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_156",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 211.5017,
+  "anomalyScore": 1.625,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_157",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 199.9901,
+  "anomalyScore": 1.252,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_158",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 208.8658,
+  "anomalyScore": 0.966,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_159",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 205.0749,
+  "anomalyScore": 0.019,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_160",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 210.4441,
+  "anomalyScore": 1.361,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_161",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 201.239,
+  "anomalyScore": 0.94,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_162",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 202.56,
+  "anomalyScore": 0.61,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_163",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 200.8852,
+  "anomalyScore": 1.029,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_164",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 211.532,
+  "anomalyScore": 1.633,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_165",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 190.611,
+  "anomalyScore": 3.597,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_166",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 202.5041,
+  "anomalyScore": 0.624,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_pressure_167",
+  "sensor": "sen_isr_boiler2_pressure",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 201.8157,
+  "anomalyScore": 0.796,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_000",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 78.3341,
+  "anomalyScore": 0.444,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_001",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 77.4043,
+  "anomalyScore": 1.064,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_002",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 78.8439,
+  "anomalyScore": 0.104,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_003",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 79.1162,
+  "anomalyScore": 0.077,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_004",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 80.4362,
+  "anomalyScore": 0.957,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_005",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 78.1643,
+  "anomalyScore": 0.557,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_006",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 75.7356,
+  "anomalyScore": 2.176,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_007",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 78.7219,
+  "anomalyScore": 0.185,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_008",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 75.8245,
+  "anomalyScore": 2.117,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_009",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 77.0854,
+  "anomalyScore": 1.276,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_010",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 79.1121,
+  "anomalyScore": 0.075,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_011",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 78.0793,
+  "anomalyScore": 0.614,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_012",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 83.0055,
+  "anomalyScore": 2.67,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_013",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 80.9184,
+  "anomalyScore": 1.279,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_014",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 79.7587,
+  "anomalyScore": 0.506,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_015",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 80.8013,
+  "anomalyScore": 1.201,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_016",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 78.9582,
+  "anomalyScore": 0.028,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_017",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 76.8789,
+  "anomalyScore": 1.414,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_018",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 78.8636,
+  "anomalyScore": 0.091,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_019",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 79.5707,
+  "anomalyScore": 0.38,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_020",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 78.9659,
+  "anomalyScore": 0.023,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_021",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 79.6629,
+  "anomalyScore": 0.442,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_022",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 79.7164,
+  "anomalyScore": 0.478,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_023",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 82.9401,
+  "anomalyScore": 2.627,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_024",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 79.1168,
+  "anomalyScore": 0.078,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_025",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 77.4253,
+  "anomalyScore": 1.05,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_026",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 78.3017,
+  "anomalyScore": 0.466,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_027",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 78.5915,
+  "anomalyScore": 0.272,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_028",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 79.4996,
+  "anomalyScore": 0.333,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_029",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 82.5454,
+  "anomalyScore": 2.364,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_030",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 79.2933,
+  "anomalyScore": 0.196,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_031",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 77.342,
+  "anomalyScore": 1.105,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_032",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 78.2138,
+  "anomalyScore": 0.524,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_033",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 76.5704,
+  "anomalyScore": 1.62,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_034",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 79.3281,
+  "anomalyScore": 0.219,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_035",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 77.052,
+  "anomalyScore": 1.299,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_036",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 78.1113,
+  "anomalyScore": 0.592,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_037",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 81.2003,
+  "anomalyScore": 1.467,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_038",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 77.9358,
+  "anomalyScore": 0.709,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_039",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 81.0458,
+  "anomalyScore": 1.364,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_040",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 80.4597,
+  "anomalyScore": 0.973,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_041",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 81.4107,
+  "anomalyScore": 1.607,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_042",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 81.2404,
+  "anomalyScore": 1.494,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_043",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 77.8928,
+  "anomalyScore": 0.738,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_044",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 78.3467,
+  "anomalyScore": 0.436,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_045",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 79.7726,
+  "anomalyScore": 0.515,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_046",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 80.3179,
+  "anomalyScore": 0.879,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_047",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 79.1515,
+  "anomalyScore": 0.101,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_048",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 78.9736,
+  "anomalyScore": 0.018,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_049",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 75.0204,
+  "anomalyScore": 2.653,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_050",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 76.3993,
+  "anomalyScore": 1.734,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_051",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 78.7086,
+  "anomalyScore": 0.194,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_052",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 78.2511,
+  "anomalyScore": 0.499,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_053",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 77.866,
+  "anomalyScore": 0.756,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_054",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 76.9606,
+  "anomalyScore": 1.36,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_055",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 76.3929,
+  "anomalyScore": 1.738,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_056",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 77.1371,
+  "anomalyScore": 1.242,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_057",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 79.3192,
+  "anomalyScore": 0.213,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_058",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 78.2093,
+  "anomalyScore": 0.527,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_059",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 75.4477,
+  "anomalyScore": 2.368,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_060",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 79.3206,
+  "anomalyScore": 0.214,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_061",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 81.1846,
+  "anomalyScore": 1.456,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_062",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 79.9132,
+  "anomalyScore": 0.609,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_063",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 79.3043,
+  "anomalyScore": 0.203,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_064",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 78.5652,
+  "anomalyScore": 0.29,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_065",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 78.5433,
+  "anomalyScore": 0.304,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_066",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 80.2555,
+  "anomalyScore": 0.837,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_067",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 77.2813,
+  "anomalyScore": 1.146,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_068",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 82.3073,
+  "anomalyScore": 2.205,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_069",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 78.8777,
+  "anomalyScore": 0.082,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_070",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 77.0103,
+  "anomalyScore": 1.326,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_071",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 81.2069,
+  "anomalyScore": 1.471,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_072",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 81.4334,
+  "anomalyScore": 1.622,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_073",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 74.6625,
+  "anomalyScore": 2.892,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_074",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 81.0253,
+  "anomalyScore": 1.35,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_075",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 79.2989,
+  "anomalyScore": 0.199,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_076",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 81.3558,
+  "anomalyScore": 1.571,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_077",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 79.2341,
+  "anomalyScore": 0.156,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_078",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 79.4518,
+  "anomalyScore": 0.301,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_079",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 79.5935,
+  "anomalyScore": 0.396,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_080",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 80.9143,
+  "anomalyScore": 1.276,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_081",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 77.2845,
+  "anomalyScore": 1.144,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_082",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 79.0374,
+  "anomalyScore": 0.025,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_083",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 78.6382,
+  "anomalyScore": 0.241,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_084",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 78.2555,
+  "anomalyScore": 0.496,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_085",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 81.1674,
+  "anomalyScore": 1.445,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_086",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 79.3714,
+  "anomalyScore": 0.248,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_087",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 78.74,
+  "anomalyScore": 0.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_088",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 79.6025,
+  "anomalyScore": 0.402,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_089",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 81.1177,
+  "anomalyScore": 1.412,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_090",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 82.418,
+  "anomalyScore": 2.279,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_091",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 79.3423,
+  "anomalyScore": 0.228,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_092",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 79.6661,
+  "anomalyScore": 0.444,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_093",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 81.2534,
+  "anomalyScore": 1.502,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_094",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 79.0223,
+  "anomalyScore": 0.015,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_095",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 79.8433,
+  "anomalyScore": 0.562,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_096",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 78.0095,
+  "anomalyScore": 0.66,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_097",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 78.591,
+  "anomalyScore": 0.273,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_098",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 79.2596,
+  "anomalyScore": 0.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_099",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 78.987,
+  "anomalyScore": 0.009,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_100",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 77.4197,
+  "anomalyScore": 1.054,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_101",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 76.2185,
+  "anomalyScore": 1.854,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_102",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 78.2325,
+  "anomalyScore": 0.512,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_103",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 76.953,
+  "anomalyScore": 1.365,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_104",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 77.3834,
+  "anomalyScore": 1.078,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_105",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 76.2153,
+  "anomalyScore": 1.856,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_106",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 76.6814,
+  "anomalyScore": 1.546,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_107",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 79.9959,
+  "anomalyScore": 0.664,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_108",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 78.6265,
+  "anomalyScore": 0.249,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_109",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 79.4641,
+  "anomalyScore": 0.309,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_110",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 77.0249,
+  "anomalyScore": 1.317,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_111",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 80.1422,
+  "anomalyScore": 0.761,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_112",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 79.3615,
+  "anomalyScore": 0.241,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_113",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 78.2292,
+  "anomalyScore": 0.514,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_114",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 80.3048,
+  "anomalyScore": 0.87,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_115",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 80.8184,
+  "anomalyScore": 1.212,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_116",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 80.56,
+  "anomalyScore": 1.04,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_117",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 79.3609,
+  "anomalyScore": 0.241,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_118",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 79.2517,
+  "anomalyScore": 0.168,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_119",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 77.9876,
+  "anomalyScore": 0.675,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_120",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 79.2393,
+  "anomalyScore": 0.16,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_121",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 77.7122,
+  "anomalyScore": 0.859,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_122",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 78.538,
+  "anomalyScore": 0.308,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_123",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 79.4757,
+  "anomalyScore": 0.317,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_124",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 76.7664,
+  "anomalyScore": 1.489,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_125",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 75.0822,
+  "anomalyScore": 2.612,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_126",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 78.5992,
+  "anomalyScore": 0.267,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_127",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 78.141,
+  "anomalyScore": 0.573,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_128",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 74.6113,
+  "anomalyScore": 2.926,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_129",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 77.7133,
+  "anomalyScore": 0.858,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_130",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 77.4298,
+  "anomalyScore": 1.047,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_131",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 78.5086,
+  "anomalyScore": 0.328,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_132",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 78.6484,
+  "anomalyScore": 0.234,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_133",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 77.6961,
+  "anomalyScore": 0.869,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_134",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 77.5331,
+  "anomalyScore": 0.978,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_135",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 79.1562,
+  "anomalyScore": 0.104,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_136",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 79.9665,
+  "anomalyScore": 0.644,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_137",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 82.6934,
+  "anomalyScore": 2.462,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_138",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 74.8724,
+  "anomalyScore": 2.752,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_139",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 77.2412,
+  "anomalyScore": 1.173,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_140",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 76.5009,
+  "anomalyScore": 1.666,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_141",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 78.1531,
+  "anomalyScore": 0.565,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_142",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 77.2088,
+  "anomalyScore": 1.194,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_143",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 78.6657,
+  "anomalyScore": 0.223,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_144",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 76.6014,
+  "anomalyScore": 1.599,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_145",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 76.543,
+  "anomalyScore": 1.638,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_146",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 74.594,
+  "anomalyScore": 2.937,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_147",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 76.946,
+  "anomalyScore": 1.369,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_148",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 73.2048,
+  "anomalyScore": 3.863,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_149",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 77.2648,
+  "anomalyScore": 1.157,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_150",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 74.0929,
+  "anomalyScore": 3.271,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_151",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 75.5535,
+  "anomalyScore": 2.298,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_152",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 76.1219,
+  "anomalyScore": 1.919,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_153",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 75.2377,
+  "anomalyScore": 2.508,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_154",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 76.1693,
+  "anomalyScore": 1.887,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_155",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 76.5445,
+  "anomalyScore": 1.637,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_156",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 75.2813,
+  "anomalyScore": 2.479,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_157",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 76.9448,
+  "anomalyScore": 1.37,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_158",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 75.6801,
+  "anomalyScore": 2.213,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_159",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 78.2532,
+  "anomalyScore": 0.498,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_160",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 75.3529,
+  "anomalyScore": 2.431,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_161",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 77.9258,
+  "anomalyScore": 0.716,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_162",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 75.8027,
+  "anomalyScore": 2.132,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_163",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 77.1227,
+  "anomalyScore": 1.252,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_164",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 76.727,
+  "anomalyScore": 1.515,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_165",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 78.012,
+  "anomalyScore": 0.659,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_166",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 76.8483,
+  "anomalyScore": 1.434,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_watertemperature_167",
+  "sensor": "sen_isr_boiler2_watertemperature",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 75.3215,
+  "anomalyScore": 2.452,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_000",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T17:00:00.000Z",
+  "value": 185.5192,
+  "anomalyScore": 0.13,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_001",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T18:00:00.000Z",
+  "value": 189.4562,
+  "anomalyScore": 1.114,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_002",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T19:00:00.000Z",
+  "value": 186.5406,
+  "anomalyScore": 0.385,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_003",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T20:00:00.000Z",
+  "value": 188.744,
+  "anomalyScore": 0.936,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_004",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T21:00:00.000Z",
+  "value": 183.3333,
+  "anomalyScore": 0.417,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_005",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T22:00:00.000Z",
+  "value": 188.891,
+  "anomalyScore": 0.973,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_006",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-02T23:00:00.000Z",
+  "value": 183.9614,
+  "anomalyScore": 0.26,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_007",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T00:00:00.000Z",
+  "value": 183.0348,
+  "anomalyScore": 0.491,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_008",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T01:00:00.000Z",
+  "value": 179.5854,
+  "anomalyScore": 1.354,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_009",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T02:00:00.000Z",
+  "value": 189.6195,
+  "anomalyScore": 1.155,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_010",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T03:00:00.000Z",
+  "value": 180.7098,
+  "anomalyScore": 1.073,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_011",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T04:00:00.000Z",
+  "value": 185.8037,
+  "anomalyScore": 0.201,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_012",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T05:00:00.000Z",
+  "value": 191.3851,
+  "anomalyScore": 1.596,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_013",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T06:00:00.000Z",
+  "value": 185.7697,
+  "anomalyScore": 0.192,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_014",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T07:00:00.000Z",
+  "value": 191.9645,
+  "anomalyScore": 1.741,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_015",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T08:00:00.000Z",
+  "value": 183.8389,
+  "anomalyScore": 0.29,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_016",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T09:00:00.000Z",
+  "value": 188.9119,
+  "anomalyScore": 0.978,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_017",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T10:00:00.000Z",
+  "value": 187.6708,
+  "anomalyScore": 0.668,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_018",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T11:00:00.000Z",
+  "value": 179.1619,
+  "anomalyScore": 1.46,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_019",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T12:00:00.000Z",
+  "value": 197.497,
+  "anomalyScore": 3.124,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_020",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T13:00:00.000Z",
+  "value": 188.4635,
+  "anomalyScore": 0.866,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_021",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T14:00:00.000Z",
+  "value": 186.9585,
+  "anomalyScore": 0.49,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_022",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T15:00:00.000Z",
+  "value": 190.9656,
+  "anomalyScore": 1.491,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_023",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T16:00:00.000Z",
+  "value": 186.6446,
+  "anomalyScore": 0.411,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_024",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T17:00:00.000Z",
+  "value": 188.8691,
+  "anomalyScore": 0.967,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_025",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T18:00:00.000Z",
+  "value": 189.869,
+  "anomalyScore": 1.217,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_026",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T19:00:00.000Z",
+  "value": 176.7315,
+  "anomalyScore": 2.067,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_027",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T20:00:00.000Z",
+  "value": 184.6476,
+  "anomalyScore": 0.088,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_028",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T21:00:00.000Z",
+  "value": 183.0456,
+  "anomalyScore": 0.489,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_029",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T22:00:00.000Z",
+  "value": 187.025,
+  "anomalyScore": 0.506,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_030",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-03T23:00:00.000Z",
+  "value": 179.9026,
+  "anomalyScore": 1.274,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_031",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T00:00:00.000Z",
+  "value": 185.767,
+  "anomalyScore": 0.192,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_032",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T01:00:00.000Z",
+  "value": 176.3982,
+  "anomalyScore": 2.15,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_033",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T02:00:00.000Z",
+  "value": 184.027,
+  "anomalyScore": 0.243,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_034",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T03:00:00.000Z",
+  "value": 179.8315,
+  "anomalyScore": 1.292,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_035",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T04:00:00.000Z",
+  "value": 184.94,
+  "anomalyScore": 0.015,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_036",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T05:00:00.000Z",
+  "value": 185.3664,
+  "anomalyScore": 0.092,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_037",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T06:00:00.000Z",
+  "value": 184.7967,
+  "anomalyScore": 0.051,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_038",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T07:00:00.000Z",
+  "value": 182.4936,
+  "anomalyScore": 0.627,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_039",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T08:00:00.000Z",
+  "value": 185.0518,
+  "anomalyScore": 0.013,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_040",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T09:00:00.000Z",
+  "value": 186.5865,
+  "anomalyScore": 0.397,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_041",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T10:00:00.000Z",
+  "value": 177.208,
+  "anomalyScore": 1.948,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_042",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T11:00:00.000Z",
+  "value": 188.2538,
+  "anomalyScore": 0.813,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_043",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T12:00:00.000Z",
+  "value": 191.7043,
+  "anomalyScore": 1.676,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_044",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T13:00:00.000Z",
+  "value": 185.9848,
+  "anomalyScore": 0.246,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_045",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T14:00:00.000Z",
+  "value": 185.935,
+  "anomalyScore": 0.234,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_046",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T15:00:00.000Z",
+  "value": 185.5282,
+  "anomalyScore": 0.132,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_047",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T16:00:00.000Z",
+  "value": 183.6543,
+  "anomalyScore": 0.336,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_048",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T17:00:00.000Z",
+  "value": 182.5728,
+  "anomalyScore": 0.607,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_049",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T18:00:00.000Z",
+  "value": 182.93,
+  "anomalyScore": 0.518,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_050",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T19:00:00.000Z",
+  "value": 187.5748,
+  "anomalyScore": 0.644,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_051",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T20:00:00.000Z",
+  "value": 183.4309,
+  "anomalyScore": 0.392,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_052",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T21:00:00.000Z",
+  "value": 181.9739,
+  "anomalyScore": 0.757,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_053",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T22:00:00.000Z",
+  "value": 181.2433,
+  "anomalyScore": 0.939,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_054",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-04T23:00:00.000Z",
+  "value": 181.947,
+  "anomalyScore": 0.763,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_055",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T00:00:00.000Z",
+  "value": 180.0481,
+  "anomalyScore": 1.238,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_056",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T01:00:00.000Z",
+  "value": 185.8982,
+  "anomalyScore": 0.225,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_057",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T02:00:00.000Z",
+  "value": 184.9043,
+  "anomalyScore": 0.024,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_058",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T03:00:00.000Z",
+  "value": 191.8604,
+  "anomalyScore": 1.715,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_059",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T04:00:00.000Z",
+  "value": 184.2406,
+  "anomalyScore": 0.19,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_060",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T05:00:00.000Z",
+  "value": 184.4901,
+  "anomalyScore": 0.127,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_061",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T06:00:00.000Z",
+  "value": 181.0818,
+  "anomalyScore": 0.98,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_062",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T07:00:00.000Z",
+  "value": 181.938,
+  "anomalyScore": 0.765,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_063",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T08:00:00.000Z",
+  "value": 189.6692,
+  "anomalyScore": 1.167,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_064",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T09:00:00.000Z",
+  "value": 186.8525,
+  "anomalyScore": 0.463,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_065",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T10:00:00.000Z",
+  "value": 193.194,
+  "anomalyScore": 2.049,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_066",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T11:00:00.000Z",
+  "value": 181.8135,
+  "anomalyScore": 0.797,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_067",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T12:00:00.000Z",
+  "value": 185.17,
+  "anomalyScore": 0.043,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_068",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T13:00:00.000Z",
+  "value": 187.1004,
+  "anomalyScore": 0.525,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_069",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T14:00:00.000Z",
+  "value": 183.4974,
+  "anomalyScore": 0.376,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_070",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T15:00:00.000Z",
+  "value": 191.6144,
+  "anomalyScore": 1.654,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_071",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T16:00:00.000Z",
+  "value": 186.2447,
+  "anomalyScore": 0.311,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_072",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T17:00:00.000Z",
+  "value": 182.3846,
+  "anomalyScore": 0.654,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_073",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T18:00:00.000Z",
+  "value": 180.485,
+  "anomalyScore": 1.129,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_074",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T19:00:00.000Z",
+  "value": 192.7622,
+  "anomalyScore": 1.941,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_075",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T20:00:00.000Z",
+  "value": 183.4848,
+  "anomalyScore": 0.379,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_076",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T21:00:00.000Z",
+  "value": 180.145,
+  "anomalyScore": 1.214,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_077",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T22:00:00.000Z",
+  "value": 175.4108,
+  "anomalyScore": 2.397,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_078",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-05T23:00:00.000Z",
+  "value": 185.5832,
+  "anomalyScore": 0.146,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_079",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T00:00:00.000Z",
+  "value": 181.9238,
+  "anomalyScore": 0.769,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_080",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T01:00:00.000Z",
+  "value": 181.0117,
+  "anomalyScore": 0.997,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_081",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T02:00:00.000Z",
+  "value": 184.0962,
+  "anomalyScore": 0.226,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_082",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T03:00:00.000Z",
+  "value": 188.1109,
+  "anomalyScore": 0.778,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_083",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T04:00:00.000Z",
+  "value": 180.8096,
+  "anomalyScore": 1.048,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_084",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T05:00:00.000Z",
+  "value": 188.2698,
+  "anomalyScore": 0.817,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_085",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T06:00:00.000Z",
+  "value": 182.8668,
+  "anomalyScore": 0.533,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_086",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T07:00:00.000Z",
+  "value": 181.532,
+  "anomalyScore": 0.867,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_087",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T08:00:00.000Z",
+  "value": 183.9684,
+  "anomalyScore": 0.258,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_088",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T09:00:00.000Z",
+  "value": 188.9309,
+  "anomalyScore": 0.983,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_089",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T10:00:00.000Z",
+  "value": 184.6983,
+  "anomalyScore": 0.075,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_090",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T11:00:00.000Z",
+  "value": 187.7307,
+  "anomalyScore": 0.683,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_091",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T12:00:00.000Z",
+  "value": 186.7625,
+  "anomalyScore": 0.441,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_092",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T13:00:00.000Z",
+  "value": 188.5743,
+  "anomalyScore": 0.894,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_093",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T14:00:00.000Z",
+  "value": 195.954,
+  "anomalyScore": 2.738,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_094",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T15:00:00.000Z",
+  "value": 182.6493,
+  "anomalyScore": 0.588,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_095",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T16:00:00.000Z",
+  "value": 182.9871,
+  "anomalyScore": 0.503,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_096",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T17:00:00.000Z",
+  "value": 182.4714,
+  "anomalyScore": 0.632,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_097",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T18:00:00.000Z",
+  "value": 189.3018,
+  "anomalyScore": 1.075,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_098",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T19:00:00.000Z",
+  "value": 176.1794,
+  "anomalyScore": 2.205,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_099",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T20:00:00.000Z",
+  "value": 182.7409,
+  "anomalyScore": 0.565,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_100",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T21:00:00.000Z",
+  "value": 184.6116,
+  "anomalyScore": 0.097,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_101",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T22:00:00.000Z",
+  "value": 185.5272,
+  "anomalyScore": 0.132,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_102",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-06T23:00:00.000Z",
+  "value": 184.1139,
+  "anomalyScore": 0.222,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_103",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T00:00:00.000Z",
+  "value": 182.6513,
+  "anomalyScore": 0.587,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_104",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T01:00:00.000Z",
+  "value": 187.5774,
+  "anomalyScore": 0.644,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_105",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T02:00:00.000Z",
+  "value": 187.3462,
+  "anomalyScore": 0.587,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_106",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T03:00:00.000Z",
+  "value": 182.8704,
+  "anomalyScore": 0.532,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_107",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T04:00:00.000Z",
+  "value": 177.5704,
+  "anomalyScore": 1.857,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_108",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T05:00:00.000Z",
+  "value": 182.2931,
+  "anomalyScore": 0.677,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_109",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T06:00:00.000Z",
+  "value": 183.3982,
+  "anomalyScore": 0.4,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_110",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T07:00:00.000Z",
+  "value": 191.7107,
+  "anomalyScore": 1.678,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_111",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T08:00:00.000Z",
+  "value": 187.5456,
+  "anomalyScore": 0.636,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_112",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T09:00:00.000Z",
+  "value": 188.602,
+  "anomalyScore": 0.9,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_113",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T10:00:00.000Z",
+  "value": 190.1794,
+  "anomalyScore": 1.295,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_114",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T11:00:00.000Z",
+  "value": 195.3025,
+  "anomalyScore": 2.576,
+  "isAnomaly": true
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_115",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T12:00:00.000Z",
+  "value": 182.8411,
+  "anomalyScore": 0.54,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_116",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T13:00:00.000Z",
+  "value": 182.1956,
+  "anomalyScore": 0.701,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_117",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T14:00:00.000Z",
+  "value": 187.2853,
+  "anomalyScore": 0.571,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_118",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T15:00:00.000Z",
+  "value": 177.2862,
+  "anomalyScore": 1.928,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_119",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T16:00:00.000Z",
+  "value": 187.4584,
+  "anomalyScore": 0.615,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_120",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T17:00:00.000Z",
+  "value": 183.7446,
+  "anomalyScore": 0.314,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_121",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T18:00:00.000Z",
+  "value": 188.3736,
+  "anomalyScore": 0.843,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_122",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T19:00:00.000Z",
+  "value": 185.185,
+  "anomalyScore": 0.046,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_123",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T20:00:00.000Z",
+  "value": 175.8446,
+  "anomalyScore": 2.289,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_124",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T21:00:00.000Z",
+  "value": 184.9153,
+  "anomalyScore": 0.021,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_125",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T22:00:00.000Z",
+  "value": 189.7888,
+  "anomalyScore": 1.197,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_126",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-07T23:00:00.000Z",
+  "value": 181.2828,
+  "anomalyScore": 0.929,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_127",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T00:00:00.000Z",
+  "value": 178.8519,
+  "anomalyScore": 1.537,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_128",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T01:00:00.000Z",
+  "value": 180.7543,
+  "anomalyScore": 1.061,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_129",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T02:00:00.000Z",
+  "value": 186.9694,
+  "anomalyScore": 0.492,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_130",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T03:00:00.000Z",
+  "value": 184.927,
+  "anomalyScore": 0.018,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_131",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T04:00:00.000Z",
+  "value": 183.7241,
+  "anomalyScore": 0.319,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_132",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T05:00:00.000Z",
+  "value": 184.4788,
+  "anomalyScore": 0.13,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_133",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T06:00:00.000Z",
+  "value": 183.9972,
+  "anomalyScore": 0.251,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_134",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T07:00:00.000Z",
+  "value": 177.8002,
+  "anomalyScore": 1.8,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_135",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T08:00:00.000Z",
+  "value": 189.8939,
+  "anomalyScore": 1.223,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_136",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T09:00:00.000Z",
+  "value": 185.8036,
+  "anomalyScore": 0.201,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_137",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T10:00:00.000Z",
+  "value": 190.6052,
+  "anomalyScore": 1.401,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_138",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T11:00:00.000Z",
+  "value": 192.2491,
+  "anomalyScore": 1.812,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_139",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T12:00:00.000Z",
+  "value": 181.2079,
+  "anomalyScore": 0.948,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_140",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T13:00:00.000Z",
+  "value": 189.921,
+  "anomalyScore": 1.23,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_141",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T14:00:00.000Z",
+  "value": 189.6275,
+  "anomalyScore": 1.157,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_142",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T15:00:00.000Z",
+  "value": 181.3693,
+  "anomalyScore": 0.908,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_143",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T16:00:00.000Z",
+  "value": 184.1994,
+  "anomalyScore": 0.2,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_144",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T17:00:00.000Z",
+  "value": 179.0102,
+  "anomalyScore": 1.497,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_145",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T18:00:00.000Z",
+  "value": 180.572,
+  "anomalyScore": 1.107,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_146",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T19:00:00.000Z",
+  "value": 186.2407,
+  "anomalyScore": 0.31,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_147",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T20:00:00.000Z",
+  "value": 183.1625,
+  "anomalyScore": 0.459,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_148",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T21:00:00.000Z",
+  "value": 178.1837,
+  "anomalyScore": 1.704,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_149",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T22:00:00.000Z",
+  "value": 180.5582,
+  "anomalyScore": 1.11,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_150",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-08T23:00:00.000Z",
+  "value": 187.0149,
+  "anomalyScore": 0.504,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_151",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T00:00:00.000Z",
+  "value": 183.2068,
+  "anomalyScore": 0.448,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_152",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T01:00:00.000Z",
+  "value": 180.1747,
+  "anomalyScore": 1.206,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_153",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T02:00:00.000Z",
+  "value": 189.6871,
+  "anomalyScore": 1.172,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_154",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T03:00:00.000Z",
+  "value": 182.9347,
+  "anomalyScore": 0.516,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_155",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T04:00:00.000Z",
+  "value": 186.6789,
+  "anomalyScore": 0.42,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_156",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T05:00:00.000Z",
+  "value": 187.1109,
+  "anomalyScore": 0.528,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_157",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T06:00:00.000Z",
+  "value": 185.6166,
+  "anomalyScore": 0.154,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_158",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T07:00:00.000Z",
+  "value": 178.926,
+  "anomalyScore": 1.518,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_159",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T08:00:00.000Z",
+  "value": 187.4888,
+  "anomalyScore": 0.622,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_160",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T09:00:00.000Z",
+  "value": 186.9746,
+  "anomalyScore": 0.494,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_161",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T10:00:00.000Z",
+  "value": 190.926,
+  "anomalyScore": 1.482,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_162",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T11:00:00.000Z",
+  "value": 192.243,
+  "anomalyScore": 1.811,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_163",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T12:00:00.000Z",
+  "value": 186.3919,
+  "anomalyScore": 0.348,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_164",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T13:00:00.000Z",
+  "value": 182.8209,
+  "anomalyScore": 0.545,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_165",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T14:00:00.000Z",
+  "value": 182.5621,
+  "anomalyScore": 0.609,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_166",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T15:00:00.000Z",
+  "value": 184.6425,
+  "anomalyScore": 0.089,
+  "isAnomaly": false
+ },
+ {
+  "id": "sr_isr_boiler2_fluetemperature_167",
+  "sensor": "sen_isr_boiler2_fluetemperature",
+  "timestamp": "2026-10-09T16:00:00.000Z",
+  "value": 191.2423,
+  "anomalyScore": 1.561,
+  "isAnomaly": false
+ }
+]

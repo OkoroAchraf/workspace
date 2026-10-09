@@ -1,0 +1,66 @@
+/**
+ * The output of one run of the IlliniFix risk model for one {@link MaintenanceAsset}.
+ *
+ * The model (`statistical-zscore-logistic-v1`, implemented in {@link IlliniFixRiskEngine}) is
+ * deliberately transparent: per-sensor z-scores and 72-hour trends become an anomaly severity
+ * A; together with trend T, related-report R, history-match H and overdue-maintenance O
+ * features they feed a fixed-coefficient logistic function that yields
+ * {@link FailurePrediction#failureProbability}. Every factor is kept in
+ * {@link FailurePrediction#modelFeatures} and {@link FailurePrediction#topContributingSignals}
+ * so the asset page can answer "why?". Exactly one prediction per asset has isCurrent = true.
+ */
+entity type FailurePrediction {
+  /** Asset the prediction is about. */
+  asset: !MaintenanceAsset
+
+  /** When the model ran. */
+  generatedAt: !datetime
+
+  /** Probability (0-1) that the asset fails within the prediction horizon. */
+  failureProbability: double
+
+  /** Human-readable horizon derived from the probability, e.g. "2–4 days", "2–3 weeks", "Beyond 30 days". */
+  predictedFailureWindow: string
+
+  /** Most likely failure mode inferred from which sensors are abnormal, e.g. "Motor/bearing degradation". Uses the same vocabulary as {@link MaintenanceHistory#failureMode}. */
+  predictedFailureMode: string
+
+  /** Model confidence 0-1: rises with the number of corroborating sensors, supporting reports and a matching maintenance history. */
+  confidence: double
+
+  /** Combined anomaly severity A (0-1): 0.6 x worst sensor severity + 0.4 x mean sensor severity. */
+  anomalyScore: double
+
+  /** Risk band from failureProbability: >=0.80 Critical, >=0.60 High, >=0.35 Moderate, else Low. */
+  riskLevel: string enum('Low', 'Moderate', 'High', 'Critical')
+
+  /** Ordered evidence list [{signal, detail, contribution}] e.g. "Motor current +18.7% vs 30-day baseline". */
+  topContributingSignals: json
+
+  /** Asset health 0-100 at prediction time (see {@link MaintenanceAsset#healthScore}). */
+  healthScore: double
+
+  /** Maintenance priority 0-100 = 100 x (0.35 risk + 0.20 criticality + 0.15 accessibility + 0.15 people affected + 0.10 operational impact + 0.05 supporting reports). */
+  priorityScore: double
+
+  /** Each weighted priority factor with its raw value, weight and points — the "Why 94?" breakdown. */
+  priorityBreakdown: json
+
+  /** Raw model inputs {A, T, R, H, O, logit} plus per-sensor statistics. */
+  modelFeatures: json
+
+  /** Number of human reports in the last 7 days supporting this prediction. */
+  supportingReportCount: int
+
+  /** 0-1 confidence that the supporting reports and the telemetry describe the same incident. */
+  correlationConfidence: double
+
+  /** True for the latest prediction of the asset; older rows are kept as history. */
+  isCurrent: boolean
+
+  /** Identifier of the scoring algorithm, e.g. "statistical-zscore-logistic-v1". */
+  modelVersion: string
+
+  /** Recommendations generated from this prediction ({@link MaintenanceRecommendation#prediction}). */
+  recommendations: [MaintenanceRecommendation](prediction)
+}

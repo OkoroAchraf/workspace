@@ -1,0 +1,68 @@
+/**
+ * A plain-English maintenance problem reported by a student, staff member, faculty member or
+ * visitor — the "human sensor" side of IlliniFix.
+ *
+ * Only the location hints, free text and optional photo come from the reporter. Everything
+ * else ({@link StudentReport#category}, {@link StudentReport#severity},
+ * {@link StudentReport#probableIssue}, {@link StudentReport#asset}, duplicate grouping and the
+ * human + machine {@link StudentReport#correlationConfidence}) is filled in by
+ * {@link IlliniFixTriage#triageReport}. Reporter identity is deliberately not stored.
+ */
+entity type StudentReport {
+  /** When the report was submitted. */
+  timestamp: !datetime
+
+  /** Building the reporter selected (or the triage engine inferred from the text). */
+  building: CampusBuilding
+
+  /** Optional floor / wing the reporter specified. */
+  zone: CampusZone
+
+  /** Asset the triage engine linked to this report (e.g. the elevator whose telemetry is anomalous). Null when no asset could be inferred. */
+  asset: MaintenanceAsset
+
+  /** The reporter's own words, e.g. "The elevator is making a grinding noise." */
+  description: !string
+
+  /** Optional uploaded photo (data URL or file path). Image content is not analysed; classification is text-based. */
+  imageUrl: string
+
+  /** Maintenance discipline inferred by keyword classification. */
+  category: string enum('HVAC', 'Plumbing', 'Electrical', 'Elevator', 'Structural', 'Lighting', 'General', 'Other')
+
+  /** Severity inferred from the text (safety words and active-failure words raise it) and from corroborating sensor anomalies. */
+  severity: string enum('Low', 'Medium', 'High', 'Critical')
+
+  /** Workflow state: New (untriaged), Triaged (classified), Linked (tied to an asset / work order), InProgress, Resolved. */
+  status: string enum('New', 'Triaged', 'Linked', 'InProgress', 'Resolved')
+
+  /** Classifier confidence 0-1 for {@link StudentReport#category}. */
+  confidence: double
+
+  /** Short normalised problem statement, e.g. "Water leak", "Elevator vibration / noise". */
+  probableIssue: string
+
+  /** Incident-cluster id shared by reports judged to describe the same underlying event (same building, same category, close in time, similar wording). */
+  duplicateGroupId: string
+
+  /** 0-1 likelihood that the report duplicates an earlier report in its cluster. */
+  duplicateProbability: double
+
+  /** True when the text indicates a life-safety emergency (smoke, burning smell, gas, flooding, trapped). The UI then points to the campus emergency procedure instead of the normal work-order flow. */
+  emergencyFlag: boolean
+
+  /** Who reported (role only — no identity). */
+  reporterType: string enum('Student', 'Staff', 'Faculty', 'Visitor')
+
+  /** True when the linked asset currently has a sensor anomaly — the human observation confirms the machine signal. */
+  relatedAnomaly: boolean
+
+  /** 0-1 confidence that this report and the linked asset's telemetry describe the same incident. */
+  correlationConfidence: double
+
+  /** Triage reasoning: matched keywords, candidate assets considered, duplicate matches, recommended response. */
+  triageSummary: json
+
+  /** True for reports created by Demo Mode so {@link IlliniFixDemo#resetDemo} can remove them. */
+  isDemoGenerated: boolean
+}

@@ -1,0 +1,63 @@
+/**
+ * A University of Illinois campus building monitored by IlliniFix.
+ *
+ * Buildings are the top of the campus hierarchy: a building owns {@link CampusZone}s,
+ * {@link MaintenanceAsset}s and the {@link StudentReport}s filed against it. The rollup
+ * fields ({@link CampusBuilding#overallHealthScore}, {@link CampusBuilding#activeIncidentCount},
+ * {@link CampusBuilding#highRiskAssetCount}, {@link CampusBuilding#criticalAssetCount},
+ * {@link CampusBuilding#healthStatus}) are written by {@link IlliniFixRiskEngine#recomputeAll}
+ * and drive the colour of the building marker on the campus map.
+ *
+ * Seed rows (`data/CampusBuilding/`) use recognisable UIUC building names with approximate
+ * coordinates; occupancy and criticality values are simulated demo data.
+ */
+entity type CampusBuilding {
+  /** Short display name used in tables and chart labels, e.g. "Grainger" for Grainger Engineering Library. */
+  shortName: string
+
+  /** Street address of the building (display only). */
+  address: string
+
+  /** WGS84 latitude of the building centroid, used to place the campus-map marker. */
+  latitude: double
+
+  /** WGS84 longitude of the building centroid, used to place the campus-map marker. */
+  longitude: double
+
+  /** Estimated number of distinct people who use the building on a typical weekday. Weights the campus health score. */
+  estimatedDailyOccupancy: int
+
+  /** Operational criticality of the building on a 0-100 scale (residence halls and libraries score highest). */
+  criticalityScore: double
+
+  /** How much the building depends on accessible routes (elevators, ramps); raises asset priority when those assets degrade. */
+  accessibilityCriticality: string enum('Low', 'Moderate', 'High', 'Critical')
+
+  /**
+   * Building health, 0-100. Computed by {@link IlliniFixRiskEngine#recomputeAll} as
+   * 0.6 x criticality-weighted mean of asset health + 0.4 x the worst asset health, so one
+   * failing asset visibly pulls the building down.
+   */
+  overallHealthScore: double
+
+  /** Band derived from {@link CampusBuilding#overallHealthScore}: 90+ Healthy, 75-89 Monitor, 50-74 Warning, below 50 Critical. */
+  healthStatus: string enum('Healthy', 'Monitor', 'Warning', 'Critical')
+
+  /** Number of unresolved {@link StudentReport}s (status not Resolved) for this building; recomputed by the risk engine. */
+  activeIncidentCount: int
+
+  /** Number of assets whose current {@link FailurePrediction#riskLevel} is High or Critical. */
+  highRiskAssetCount: int
+
+  /** Number of assets whose {@link MaintenanceAsset#status} is Critical. */
+  criticalAssetCount: int
+
+  /** Physical equipment located in this building ({@link MaintenanceAsset#building}). */
+  assets: [MaintenanceAsset](building)
+
+  /** Human reports filed against this building ({@link StudentReport#building}). */
+  reports: [StudentReport](building)
+
+  /** Floors / wings / mechanical rooms of this building ({@link CampusZone#building}). */
+  zones: [CampusZone](building)
+}

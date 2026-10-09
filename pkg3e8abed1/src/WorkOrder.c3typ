@@ -1,0 +1,60 @@
+/**
+ * A maintenance job tracked inside IlliniFix. Work orders are created from predictions
+ * ({@link IlliniFixOps#createDraftWorkOrder}), from triaged {@link StudentReport}s, manually,
+ * or as preventive maintenance, and are the units the crew optimizer schedules.
+ *
+ * These are IlliniFix / C3 records only — the application never writes to the university's
+ * real work-order system.
+ */
+entity type WorkOrder {
+  /** Asset the job is for (null for location-only jobs such as a ceiling leak). */
+  asset: MaintenanceAsset
+
+  /** Building where the work takes place; used for crew travel-time estimates. */
+  building: CampusBuilding
+
+  /** Short job title, e.g. "Inspect Grainger Elevator #2 motor assembly". */
+  title: !string
+
+  /** Scope and reasoning for the job. */
+  description: string
+
+  /** Operator-facing priority band. */
+  priority: string enum('Low', 'Medium', 'High', 'Critical')
+
+  /** Lifecycle state. Draft and Scheduled jobs without a crew are what the optimizer assigns. */
+  status: string enum('Draft', 'Scheduled', 'Assigned', 'InProgress', 'Completed', 'Cancelled')
+
+  /** Skill a crew must have to take the job. */
+  requiredSkill: string enum('Electrical', 'Mechanical', 'HVAC', 'Plumbing', 'Elevator', 'General')
+
+  /** Estimated labour time in minutes. */
+  estimatedDuration: int
+
+  /** When the work order was raised. */
+  createdAt: datetime
+
+  /** Crew currently assigned (set by {@link IlliniFixOps#assignCrew} or the planner). */
+  assignedCrew: MaintenanceCrew
+
+  /** Where the job came from. */
+  source: string enum('StudentReport', 'PredictedFailure', 'Manual', 'PreventiveMaintenance')
+
+  /** Priority 0-100 used by the optimizer (copied from the prediction for predictive jobs). */
+  priorityScore: double
+
+  /** Expected absolute reduction in failure probability when the job is completed (0 for non-predictive jobs). */
+  expectedRiskReduction: double
+
+  /** Student report that triggered the job, if any. */
+  relatedReport: StudentReport
+
+  /** Failure prediction that triggered the job, if any. */
+  relatedPrediction: FailurePrediction
+
+  /** True for work orders created by Demo Mode or the UI during a demo so {@link IlliniFixDemo#resetDemo} can remove them. */
+  isDemoGenerated: boolean
+
+  /** Schedule slots the planner produced for this job ({@link CrewAssignment#workOrder}). */
+  assignments: [CrewAssignment](workOrder)
+}

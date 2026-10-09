@@ -1,0 +1,24 @@
+/**
+ * A what-if run produced by {@link IlliniFixSimulator}: "what happens if this asset fails?"
+ * (AssetFailure — the blast radius) or "what changes if we repair it?" (AssetRepair).
+ * Results are stored here and never written back to the real {@link MaintenanceAsset} state.
+ */
+entity type SimulationScenario {
+  /** Asset the scenario is about (null for building-wide scenarios). */
+  asset: MaintenanceAsset
+
+  /** Kind of scenario. */
+  scenarioType: !string enum('AssetFailure', 'AssetRepair', 'CrewUnavailable', 'SensorDegradation', 'BuildingClosure')
+
+  /** Inputs used by the simulation (asset id, assumptions such as alternative-asset load factor). */
+  parameters: json
+
+  /** When the scenario was run. */
+  createdAt: !datetime
+
+  /** Before / after KPIs and impact estimates (people affected, accessibility impact, projected health, etc.). */
+  resultSummary: json
+
+  /** One-line result, e.g. "Elevator #2 offline — 1,100 daily users affected". */
+  headline: string
+}

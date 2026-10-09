@@ -1,0 +1,36 @@
+/**
+ * A maintenance crew that can be dispatched to {@link WorkOrder}s. The default `name` field
+ * holds the crew label ("Crew Alpha"). Skills, start location and remaining hours are the
+ * constraints {@link IlliniFixPlanner#optimizePlan} respects when building the day's plan.
+ */
+entity type MaintenanceCrew {
+  /** Disciplines the crew is qualified for (Electrical, Mechanical, HVAC, Plumbing, Elevator, General). */
+  skills: [string]
+
+  /** Building where the crew starts its shift; travel time to each job is estimated from here. */
+  currentBuilding: CampusBuilding
+
+  /** Shift start, "HH:mm" local campus time. */
+  shiftStart: string
+
+  /** Shift end, "HH:mm" local campus time. */
+  shiftEnd: string
+
+  /** Labour hours still available in the shift (8.0 for a fresh shift). */
+  availableHours: double
+
+  /** Dispatch state of the crew. */
+  status: string enum('Available', 'Assigned', 'OnJob', 'OffShift', 'Unavailable')
+
+  /** Number of technicians in the crew. */
+  crewSize: int
+
+  /** Crew lead (fictional display name). */
+  leadName: string
+
+  /** Planned jobs for this crew ({@link CrewAssignment#crew}). */
+  assignments: [CrewAssignment](crew)
+
+  /** Work orders currently assigned to this crew ({@link WorkOrder#assignedCrew}). */
+  workOrders: [WorkOrder](assignedCrew)
+}
